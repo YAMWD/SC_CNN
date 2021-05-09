@@ -2,7 +2,6 @@
 #include <vector>
 #include <bitset>
 #include <random>
-#include <Eigen/Dense>
 #include "utils.h"
 #include "SC.h"
  
