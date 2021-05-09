@@ -189,6 +189,20 @@ int main()
     
     write(2, 16);
 
+    //fwrite abs err
+    fwrite_vec("../data/results/true_abs_err_10k.out", SC_true_abs_err);
+
+    fwrite_vec("../data/results/LFSR_abs_err_10k.out", SC_LFSR_abs_err);
+
+    fwrite_vec("../data/results/Halton_abs_err_10k.out", SC_LD_abs_err);
+
+    //fwrite RMSE
+    fwrite_vec("../data/results/true_RMSE_10k.out", SC_true_RMSE);
+
+    fwrite_vec("../data/results/LFSR_RMSE_10k.out", SC_LFSR_RMSE);
+
+    fwrite_vec("../data/results/Halton_RMSE_10k.out", SC_LD_RMSE);
+
     //Test();
 
     //Test_SC_LFSR();

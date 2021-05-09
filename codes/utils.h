@@ -13,7 +13,30 @@
 
 const unsigned int us = 10000;
 
-void fwrite_vector(std::string path, std::vector<double> x)
+void fwrite_vec(std::string path, std::vector< std::vector<double> > x)
+{
+    FILE* fp;
+
+    if((fp = freopen(path.c_str(), "w", stdout)) == NULL)
+    {
+        fprintf(stderr, "error redirecting file\n");
+        exit(-1);
+    }
+
+    int size1 = x.size();
+    int size2 = x[0].size();
+
+    for(int i = 0; i < size1; i++)
+    {
+        for(int j = 0; j < size2; j++)
+            printf("%lf ", x[i][j]);
+        printf("\n");
+    }
+
+    fp = freopen("/dev/tty", "w", stdout);
+}
+
+void fwrite_vec(std::string path, std::vector<double> x)
 {
     FILE* fp;
 
