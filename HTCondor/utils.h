@@ -1,10 +1,6 @@
 #ifndef _UTILS_H_
 #define _UTILS_H_
 
-#include <opencv2/opencv.hpp>
-#include <opencv2/core.hpp>
-#include <opencv2/imgcodecs.hpp>
-#include <opencv2/highgui.hpp>
 #include <random>
 #include <unistd.h>
 
@@ -378,22 +374,6 @@ std::vector<double> mat_fraction_minus(std::vector<double> a, std::vector<double
         ans.push_back(a[i] - lr * b[i]);
 
     return ans;
-}
-
-void show_image(std::vector< std::vector<double> > inputs)
-{
-    int height = inputs.size();
-    int width = inputs[0].size();
-
-    cv::Mat img = cv::Mat(height, width, CV_8UC1);
-
-    for(int i = 0; i < height; i++)
-        for(int j = 0; j < width; j++)
-            img.data[i * width + j] = inputs[i][j];
-
-    cv::imshow("image", img);
-
-    cv::waitKey(0);
 }
 
 void print_vector(std::vector<int> inputs)

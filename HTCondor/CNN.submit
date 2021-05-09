@@ -2,8 +2,10 @@ getenv     = True
 executable = CNN.sh
 universe   = vanilla
 Arguments  = $(RNG_type) $(Sequence_length) $(trials)
-transfer_input_file = test_images.out test_labels.out conv1.0.bias conv1.0.weight FC.bias FC.weight
+transfer_input_file = test_images.out,test_labels.out,conv1.0.bias,conv1.0.weight,FC.bias,FC.weight
 error      = err/$(RNG_type)_$(Sequence_length)_$(trials).err
 log        = log/$(RNG_type)_$(Sequence_length)_$(trials).log
+notify_user = rachel2804195717@icloud.com
+notification = always
 
 Queue RNG_type,Sequence_length,trials from var_list
