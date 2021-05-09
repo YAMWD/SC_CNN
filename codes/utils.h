@@ -5,6 +5,165 @@
 #include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
+#include <random>
+#include <unistd.h>
+
+#include "Complement.h"
+#include "boost/dynamic_bitset.hpp"
+
+const unsigned int us = 10000;
+
+void fwrite_vector(std::string path, std::vector<double> x)
+{
+    FILE* fp;
+
+    if((fp = freopen(path.c_str(), "w", stdout)) == NULL)
+    {
+        fprintf(stderr, "error redirecting file\n");
+        exit(-1);
+    }
+
+    int size = x.size();
+
+    for(int i = 0; i < size; i++)
+        printf("%lf ", x[i]);
+
+    fp = freopen("/dev/tty", "w", stdout);
+}
+
+int to_dec(int base, std::vector<int> x)
+{
+    int size = x.size();
+    int now = 1;
+    int ans = 0;
+
+    for(int i = size - 1; i >= 0; i--, now *= base)
+        ans += x[i] * now;
+
+    return ans;
+}
+
+std::vector<int> vec_reverse(std::vector<int> x)
+{
+    std::reverse(x.begin(), x.end());
+
+    return x;
+}
+
+boost::dynamic_bitset<> db_reverse(boost::dynamic_bitset<> x)
+{
+    int size = x.size();
+    for(int i = 0; i < size / 2; i++)
+    {
+        bool tmp = x[i];
+        x[i] = x[size - i - 1];
+        x[size - i - 1] = tmp;
+    }
+
+    return x;
+}
+
+int find_least_3(int x)
+{
+    //return the minimum ans, which 3 ^ ans < 2 ^ x
+    int limit = pow(2, x);
+    int ans = 0;
+    while(pow(3, ans + 1) < limit)
+        ans++;
+
+    return ans;
+}
+
+int get_n_bit_true_random(int n)
+{
+    //get n bit true random value
+    std::random_device rd;
+    return rd() % (1 << n);
+}
+
+int get_n_bit_pseudo_random(int n)
+{
+    //get n bit pseudo random value
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    return gen() % (1 << n);
+}
+
+double Mean(std::vector<double> x)
+{
+    int n = x.size();
+
+    double mean = 0;
+    for(int i = 0; i < n; i++)
+        mean += x[i];
+
+    mean /= n;
+
+    return mean;
+}
+
+double Std_Dev(std::vector<double> x)
+{
+    int n = x.size();
+
+    double mean = Mean(x);
+
+    double ans = 0;
+    for(int i = 0; i < n; i++)
+        ans += (x[i] - mean) * (x[i] - mean);
+
+    ans /= n;
+
+    ans = sqrt(ans);
+
+    return ans;
+}
+
+bool compare(Complement a, Complement b)
+{
+    bool flag = a.to_double() > b.to_double();
+
+    return flag; //0 means the result of subtraction is positive and a > b, then true, vice versa.
+}
+
+bool compare(Complement a, Complement b, bool p)
+{
+    //if p = true, then the function will show the intermediate variables
+    int size = a.size();
+
+    Complement c(size, 0);
+
+    //get complement 
+    b.flip();
+    b.inc();
+
+    bool flag = false;
+    for(int i = size - 1; i >= 0; i--)
+    {
+        int tmp = flag + a.v[i] + b.v[i];
+        flag = tmp / 2;
+        c.v[i] = tmp % 2;
+    }
+
+    if(p)
+    {
+        a.show();
+        std::cout << a.to_double() << std::endl;
+
+        b.show();
+        std::cout << b.to_double() << std::endl;
+
+        c.show();
+
+    }
+
+    std::cout << flag << std::endl;
+
+    if(flag)
+        return 0;
+    else
+        return !c.v[0]; //sign bit is 0 means the result of subtraction is positive and a > b, then true, vice versa.
+}
 
 double ReLu(double x)
 {
@@ -197,6 +356,16 @@ void show_image(std::vector< std::vector<double> > inputs)
     cv::imshow("image", img);
 
     cv::waitKey(0);
+}
+
+void print_vector(std::vector<int> inputs)
+{
+    int size1 = inputs.size();
+
+    for(int i = 0; i < size1; i++)
+        printf("%d", inputs[i]);
+    printf("\n");
+
 }
 
 void print_vector(std::vector<double> inputs)

@@ -5,6 +5,179 @@
 #include "FC.h"
 #include "utils.h"
 
+std::vector<double> SC_true_acc(20);
+std::vector<double> SC_LFSR_acc(20);
+std::vector<double> SC_LD_acc(20);
+
+std::vector<double> SC_true_loss(20);
+std::vector<double> SC_LFSR_loss(20);
+std::vector<double> SC_LD_loss(20);
+
+void Test()
+{
+    std::string base = "/Users/yaozhiyan/desktop/projects/SC_CNN/data/stored_weights/";
+
+    Conv2D a(8, 3, 3, 1);
+
+    a.load_weights(base + "conv1.0.weight");
+
+    a.load_bias(base + "conv1.0.bias");
+
+    Pooling b(2, 2, "max");
+
+    FC c(13 * 13 * 8, 10, "softmax");
+
+    c.load_weights(base + "FC.weight");
+
+    c.load_bias(base + "FC.bias");
+
+    std::vector< std::vector< std::vector<double> > > out;
+
+    double num = train_images.size();
+    double pos = 0;
+    double loss = 0;
+    int cnt = 0;
+    int batch_size = 128;
+    
+    for(int i = 0; i < TEST_IMAGES_MAXN; i++, cnt++)
+    {
+        printf("processing case %d\n", i);
+
+        out = a.forward(test_images[i]);
+
+        out = b.forward(out);
+
+        std::vector<double> temp;
+
+        temp = flatten(out);
+
+        temp = c.forward(temp);
+
+        int prediction = argmax(temp);
+
+        if(prediction == test_labels[i])
+            pos++;
+
+        loss += cross_entropy_loss(temp[test_labels[i]]);
+    }
+
+    printf("overall accuracy is %lf%%, loss is %lf\n", pos / TEST_IMAGES_MAXN * 100, loss / TEST_IMAGES_MAXN);
+
+}
+
+void Test_SC(std::string RNG_type, int data_bits)
+{
+    std::string base = "/Users/yaozhiyan/desktop/projects/SC_CNN/data/stored_weights/";
+
+    Conv2D a(8, 3, 3, 1);
+
+    a.load_weights(base + "conv1.0.weight");
+
+    a.load_bias(base + "conv1.0.bias");
+
+    Pooling b(2, 2, "max");
+
+    FC c(13 * 13 * 8, 10, "softmax");
+
+    c.load_weights(base + "FC.weight");
+
+    c.load_bias(base + "FC.bias");
+
+    std::vector< std::vector< std::vector<double> > > out;
+
+    double num = train_images.size();
+    double pos = 0;
+    double loss = 0;
+    int cnt = 0;
+    int batch_size = 128;
+    int trials = TEST_IMAGES_MAXN / 1000;
+
+    for(int i = 0; i < trials; i++, cnt++)
+    {
+        printf("RNG type %s, Sequence length %d, processing case %d\n", RNG_type.c_str(), data_bits, i);
+
+        out = a.SC_forward(test_images[i], RNG_type, data_bits);
+
+        out = b.forward(out);
+        //out = b.SC_forward(out, RNG_type, data_bits);
+
+        std::vector<double> temp;
+
+        temp = flatten(out);
+
+        temp = c.forward(temp);
+        //temp = c.SC_forward(temp, RNG_type, data_bits);
+
+        int prediction = argmax(temp);
+
+        if(prediction == test_labels[i])
+            pos++;
+
+        loss += cross_entropy_loss(temp[test_labels[i]]);
+    }
+
+    printf("overall accuracy is %lf%%, loss is %lf\n", pos / trials * 100, loss / trials);
+
+    if(RNG_type == "true")
+    {
+        SC_true_acc[data_bits] = pos / trials;
+        SC_true_loss[data_bits] = loss / trials;
+    }
+
+    if(RNG_type == "LFSR")
+    {
+        SC_LFSR_acc[data_bits] = pos / trials;
+        SC_LFSR_loss[data_bits] = loss / trials;
+    }
+
+    if(RNG_type == "LD")
+    {
+        SC_LD_acc[data_bits] = pos / trials;
+        SC_LD_loss[data_bits] = loss / trials;
+    }
+
+}
+
+void init()
+{
+    return;
+}
+
+void write(int x, int y)
+{
+    for(int i = x; i <= y; i++)
+    {
+        //printf("Sequence length %d, SC true acc is %lf, loss is %lf\n", i, SC_true_acc[i], SC_true_loss[i]);
+        printf("Sequence length %d, SC LFSR acc is %lf, loss is %lf\n", i, SC_LFSR_acc[i], SC_LFSR_loss[i]);
+        printf("Sequence length %d, SC LD acc is %lf, loss is %lf\n", i, SC_LD_acc[i], SC_LD_loss[i]);
+        printf("\n");
+    }
+}
+
+int main()
+{
+
+    init();
+
+    load_test_set();
+
+    //Test(); //no SC
+
+    for(int i = 12; i <= 16; i++)
+    {
+        //Test_SC("true", i);
+
+        Test_SC("LFSR", i);
+
+        Test_SC("LD", i);
+    }
+
+    write(2, 2);
+
+    return 0;
+}
+
+/*
 int main()
 {
     std::string base = "/Users/yaozhiyan/desktop/projects/SC_CNN/data/stored_weights/";
@@ -130,7 +303,7 @@ int main()
 
         //return 0;
 
-        /*
+        
         //backward prop
         std::vector<double> gradient(10);
 
@@ -141,7 +314,7 @@ int main()
         //gradient = b.backprop(gradient);
 
         //gradient = a.backprop(gradient);
-        */
+        
 
         if(cnt == batch_size)
         {
@@ -154,3 +327,4 @@ int main()
 
     return 0;
 }
+*/

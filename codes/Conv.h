@@ -3,6 +3,7 @@
 
 #include "Kernel.h"
 #include "utils.h"
+#include "SC.h"
 
 class Conv2D
 {
@@ -24,7 +25,9 @@ public:
     int get_input_size();
     int get_output_size();
     double calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs);
+    double SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits);
     std::vector< std::vector< std::vector<double> > > forward(std::vector< std::vector<double> > inputs);
+    std::vector< std::vector< std::vector<double> > > SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits);
     void load_weights(std::string save_path);
     void load_bias(std::string save_path);
     void show_weights();
@@ -76,6 +79,22 @@ double Conv2D::calc(int coordinate_x, int coordinate_y, int kernel_num, std::vec
     return temp;
 }
 
+double Conv2D::SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits)
+{
+    SC sc("bipolar", RNG_type, data_bits, 3);
+
+    double temp = 0;
+
+    int size = kernels[kernel_num].shape().first;
+
+    for(int i = coordinate_x; i < coordinate_x + size; i++)
+        for(int j = coordinate_y; j < coordinate_y + size; j++)
+            temp += sc.SC_Mul(inputs[i][j], kernels[kernel_num].v[i - coordinate_x][j - coordinate_y]);
+
+    return temp;
+}
+
+
 
 std::vector< std::vector< std::vector<double> > > Conv2D::forward(std::vector< std::vector<double> > inputs)
 {
@@ -102,6 +121,39 @@ std::vector< std::vector< std::vector<double> > > Conv2D::forward(std::vector< s
             temp_j.reserve(m_output_size);
             for(int j = 0; j < m_output_size; j += m_stride)
                 temp_j.push_back(ReLu(calc(i, j, k, inputs) + bias[k]));
+            temp_i.push_back(temp_j);
+        }
+        outputs.push_back(temp_i);
+    }
+
+    return outputs;
+}
+
+std::vector< std::vector< std::vector<double> > > Conv2D::SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits)
+{
+    //forward prop with ReLu activation function. (8, 26, 26)
+    std::vector< std::vector< std::vector<double> > > outputs;
+
+    m_input_size = inputs.size();
+
+    int n = m_input_size;
+
+    int m = kernels[0].shape().first;
+
+    m_output_size = n - m + 1;
+
+    outputs.reserve(m_output_channels);
+
+    for(int k = 0; k < m_output_channels; k++)
+    {
+        std::vector< std::vector<double> > temp_i;
+        temp_i.reserve(m_output_size);
+        for(int i = 0; i < m_output_size; i += m_stride)
+        {
+            std::vector<double> temp_j;
+            temp_j.reserve(m_output_size);
+            for(int j = 0; j < m_output_size; j += m_stride)
+                temp_j.push_back(ReLu(SC_calc(i, j, k, inputs, RNG_type, data_bits) + bias[k]));
             temp_i.push_back(temp_j);
         }
         outputs.push_back(temp_i);
