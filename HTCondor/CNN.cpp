@@ -102,10 +102,10 @@ void Test_SC(std::string RNG_type, int data_bits, int trials)
 
         temp = flatten(out);
 
-        //print_vector(temp);
+        print_vector(temp);
         temp = c.forward(temp);
         //temp = c.SC_forward(temp, RNG_type, data_bits);
-        //print_vector(temp);
+        print_vector(temp);
 
         int prediction = argmax(temp);
         
@@ -118,6 +118,8 @@ void Test_SC(std::string RNG_type, int data_bits, int trials)
     }
 
     printf("overall accuracy is %lf%%, loss is %lf\n", pos / trials * 100, loss / trials);
+    
+    printf("%lf %lf\n", pos / trials, loss / trials);
 
     if(RNG_type == "true")
     {
@@ -177,15 +179,17 @@ int main(int argc, char *argv[])
     
     //std::cout << path << std::endl;
     
+    /*
     if(RNG_type == "true")
         fwrite_vec(path, SC_true_acc[Sequence_length], SC_true_loss[Sequence_length]);
         
     if(RNG_type == "LFSR")
         fwrite_vec(path, SC_LFSR_acc[Sequence_length], SC_LFSR_loss[Sequence_length]);
 
-    if(RNG_type == "Halton")
+    if(RNG_type == "LD")
         fwrite_vec(path, SC_LD_acc[Sequence_length], SC_LD_loss[Sequence_length]);
-
+    */
+    
     return 0;
 }
 
