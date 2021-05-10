@@ -10,6 +10,6 @@ error      = err/$(RNG_type)_$(Sequence_length)_$(trials).err
 log        = log/$(RNG_type)_$(Sequence_length)_$(trials).log
 
 notify_user = rachel2804195717@icloud.com
-notification = never
+notification = error
 
 Queue RNG_type,Sequence_length,trials from var_list_10k
