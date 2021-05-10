@@ -102,21 +102,19 @@ void Test_SC(std::string RNG_type, int data_bits, int trials)
 
         temp = flatten(out);
 
-        print_vector(temp);
-
+        //print_vector(temp);
         temp = c.forward(temp);
         //temp = c.SC_forward(temp, RNG_type, data_bits);
-
-        print_vector(temp);
+        //print_vector(temp);
 
         int prediction = argmax(temp);
-
-        if(prediction == test_labels[i])
+        
+	if(prediction == test_labels[i])
             pos++;
-
-        loss += cross_entropy_loss(temp[test_labels[i]]);
-
-        printf("%lf %lf\n", temp[test_labels[i]], cross_entropy_loss(temp[test_labels[i]]));
+        
+	loss += cross_entropy_loss(temp[test_labels[i]]);
+        
+	printf("%lf %lf\n", temp[test_labels[i]], cross_entropy_loss(temp[test_labels[i]]));
     }
 
     printf("overall accuracy is %lf%%, loss is %lf\n", pos / trials * 100, loss / trials);

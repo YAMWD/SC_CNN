@@ -98,7 +98,7 @@ void load_test_set()
     if((fp = freopen("test_images.out", "r", stdin)) == NULL)
     {
         fprintf(stderr, "error redirecting test_images\n");
-        exit(-1);
+	exit(-1);
     }
 
     printf("loading test set...\n");
@@ -117,7 +117,7 @@ void load_test_set()
                 double temp;
                 std::cin >> temp;
                 //temp_j.push_back(temp); //original pic
-                temp_j.push_back(temp / 255); //pre-processing
+		temp_j.push_back(temp / 255); //pre-processing
             }
             temp_i.push_back(temp_j);
         }
