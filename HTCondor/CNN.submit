@@ -6,6 +6,6 @@ transfer_input_files = test_images.out,test_labels.out,conv1.0.bias,conv1.0.weig
 error      = err/$(RNG_type)_$(Sequence_length)_$(trials).err
 log        = log/$(RNG_type)_$(Sequence_length)_$(trials).log
 notify_user = rachel2804195717@icloud.com
-notification = always
+notification = never
 
 Queue RNG_type,Sequence_length,trials from var_list
