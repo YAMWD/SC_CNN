@@ -31,6 +31,7 @@ Complement::Complement(int data_bits, double value)
 {
     m_data_bits = data_bits;
     m_effective_bit = 0;
+    
 
     v.reserve(data_bits);
     if(value < 0)
@@ -41,7 +42,7 @@ Complement::Complement(int data_bits, double value)
     double tmp = abs(value);
     for(int i = 1; i < data_bits; i++)
     {
-        //printf("%lf\n", tmp);
+        printf("%lf\n", tmp);
         if(tmp)
             m_effective_bit = i;
 
@@ -50,7 +51,7 @@ Complement::Complement(int data_bits, double value)
 
         v.push_back(x);
         
-        std::cout << x;
+        std::cout << x << std::endl;
     }
     
     std::cout << std::endl;
