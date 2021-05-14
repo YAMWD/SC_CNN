@@ -172,9 +172,6 @@ bool compare(Complement a, Complement b, bool p)
 
         b.show();
         std::cout << b.to_double() << std::endl;
-
-        c.show();
-
     }
 
     std::cout << flag << std::endl;
