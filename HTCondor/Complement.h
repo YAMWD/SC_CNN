@@ -1,7 +1,6 @@
 #ifndef _COMPLEMENT_H_
 #define _COMPLEMENT_H_
 
-#include <cmath>
 #include "boost/dynamic_bitset.hpp"
 
 class Complement
@@ -41,7 +40,7 @@ Complement::Complement(int data_bits, double value)
         v.push_back(0);
     
     printf("ori value is %lf\n", value);
-    double tmp = abs(value);
+    double tmp = std::abs(value);
     printf("the abs of ori value is %lf\n", tmp);
     for(int i = 1; i < data_bits; i++)
     {
