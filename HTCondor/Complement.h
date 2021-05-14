@@ -66,6 +66,8 @@ Complement::Complement(boost::dynamic_bitset<> x)
 
     v.reserve(m_data_bits);
 
+    std::cout << x << std::endl;
+    
     for(int i = 0; i < m_data_bits; i++)
     {
         v.push_back(x[i]);
