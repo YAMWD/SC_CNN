@@ -38,9 +38,10 @@ Complement::Complement(int data_bits, double value)
         v.push_back(1);
     else
         v.push_back(0);
-
+    
+    printf("ori value is %lf\n", value);
     double tmp = abs(value);
-    printf("the abs of ori value if %lf\n", tmp);
+    printf("the abs of ori value is %lf\n", tmp);
     for(int i = 1; i < data_bits; i++)
     {
         printf("%lf\n", tmp);
