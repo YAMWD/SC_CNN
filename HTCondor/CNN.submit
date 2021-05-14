@@ -12,4 +12,4 @@ log        = log/$(RNG_type)_$(Sequence_length)_$(trials)_revert_$(if_revert).lo
 notify_user = rachel2804195717@icloud.com
 notification = error
 
-Queue RNG_type,Sequence_length,trials from var_list
+Queue RNG_type,Sequence_length,trials,if_revert from var_list
