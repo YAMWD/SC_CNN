@@ -98,7 +98,7 @@ void Test_SC_err(std::string RNG_type, int data_bits, int scaling_factor, int nu
 
         double ans = sc.SC_Mul(a, b);
 
-        double abs_err = abs(ans - a * b);
+        double abs_err = std::abs(ans - a * b);
         tmp_abs.push_back(abs_err);
         tmp_RMSE.push_back(abs_err * abs_err);
     }

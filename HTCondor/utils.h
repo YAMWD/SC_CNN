@@ -432,9 +432,9 @@ void check(std::string path, std::vector< std::vector< std::vector<double> > > i
             {
                 double now;
                 std::cin >> now;
-                if(abs(now - inputs[i][j][k]) >= 1e-6)
+                if(std::abs(now - inputs[i][j][k]) >= 1e-6)
                 {
-                    printf("%lf\n", abs(now - inputs[i][j][k]));
+                    printf("%lf\n", std::abs(now - inputs[i][j][k]));
                     printf("mismatch detected in (%d, %d, %d)\n", i, j, k);
                     printf("should be %lf, found %lf\n", now, inputs[i][j][k]);
                     fp = freopen("/dev/tty", "r", stdin);
@@ -467,7 +467,7 @@ void check(std::string path, std::vector< std::vector<double> > inputs)
         {
             double now;
             std::cin >> now;
-            if(abs(now - inputs[i][j]) >= 1e-6)
+            if(std::abs(now - inputs[i][j]) >= 1e-6)
             {
                 printf("mismatch detected in (%d, %d)\n", i, j);
                 printf("should be %lf, found %lf\n", now, inputs[i][j]);
@@ -499,7 +499,7 @@ void check(std::string path, std::vector<double> inputs)
     {
         double now;
         std::cin >> now;
-        if(abs(now - inputs[i]) >= 1e-6)
+        if(std::abs(now - inputs[i]) >= 1e-6)
         {
             printf("mismatch detected in (%d,)\n", i);
             printf("should be %lf, found %lf\n", now, inputs[i]);
