@@ -157,6 +157,12 @@ void Test()
     //printf("%lf\n", ans);
 }
 
+void Test_Complement()
+{
+    Complement a(4, -0.25);
+    a.show();
+}
+
 void write(int x, int y)
 {
     //write results of data_bits x to data_bits y to file for storing
@@ -185,6 +191,9 @@ int main()
     init();
     
     //Test_LD();
+
+    Test_Complement();
+    return 0;
 
     int trials = 10000;
 
