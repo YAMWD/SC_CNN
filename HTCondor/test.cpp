@@ -14,6 +14,7 @@ std::vector< std::vector<double> > SC_LD_abs_err;
 std::vector<double> SC_true_RMSE;
 std::vector<double> SC_LFSR_RMSE;
 std::vector<double> SC_LD_RMSE;
+std::vector<double> SC_DC_RMSE;
 
 void init()
 {
@@ -28,6 +29,7 @@ void init()
     SC_true_RMSE.reserve(size);
     SC_LFSR_RMSE.reserve(size);
     SC_LD_RMSE.reserve(size);
+    SC_DC_RMSE.reserve(size);
 
     std::vector<double> tmp(1);
 
@@ -40,6 +42,7 @@ void init()
         SC_true_RMSE.push_back(0);
         SC_LFSR_RMSE.push_back(0);
         SC_LD_RMSE.push_back(0);
+        SC_DC_RMSE.push_back(0);
     }
 }
 
@@ -73,6 +76,58 @@ void Test_utils_compare()
 
 }
 
+void Test_DC_err(std::string RNG_type, int data_bits, int scaling_factor, int num)
+{
+    //return abs error and RMSE(Root Mean Squared Error) of different type of SN
+
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_real_distribution<> dis(-8.0, 8.0);
+
+    //printf("%d start\n", data_bits);
+
+    std::vector<double> tmp_abs;
+    std::vector<double> tmp_RMSE;
+
+    tmp_abs.reserve(num);
+    tmp_RMSE.reserve(num);
+
+    for(int i = 0; i < num; i++)
+    {
+        double a = dis(gen);
+        double b = dis(gen);
+        int a_int,b_int;
+        double ans;
+        if(data_bits <= 4){
+            a_int = (int)round( a / (1 << -(data_bits - scaling_factor - 1)));
+            b_int = (int)round( b / (1 << -(data_bits - scaling_factor - 1)));
+        }
+        else {
+            a_int = (int)round( a * (1 << (data_bits - scaling_factor - 1)));
+            b_int = (int)round( b * (1 << (data_bits - scaling_factor - 1)));
+
+        }
+        if(a_int == 1<<(data_bits-1)) a_int = a_int-1;//in case of overflow
+        if(b_int == 1<<(data_bits-1)) b_int = b_int-1;
+
+        //printf("%lf,%d,%d,bit:%d\n",a,(int)a,a_int,data_bits);//check the mode of quantization
+        if(data_bits <= 6){
+            ans = (double)LD_mult_ap(a_int, b_int, data_bits) * (1 << -(data_bits - scaling_factor * 2 - 1));
+
+        }else{
+            ans = (double)LD_mult_ap(a_int, b_int, data_bits) / (1 << (data_bits - scaling_factor * 2 - 1));
+        }
+        //printf("%lf  * %lf, %d * %d : ori = %lf, SC = %lf, bit:%d\n", a, b,a_int, b_int,  a * b, ans,data_bits);
+
+        double abs_err = std::abs(ans - a * b);
+        tmp_abs.push_back(abs_err);
+        tmp_RMSE.push_back(abs_err * abs_err);
+    }
+
+    SC_DC_RMSE[data_bits] = Std_Dev(tmp_abs);
+
+}
+
 void Test_SC_err(std::string RNG_type, int data_bits, int scaling_factor, int num)
 {
     //return abs error and RMSE(Root Mean Squared Error) of different type of SN
@@ -98,6 +153,8 @@ void Test_SC_err(std::string RNG_type, int data_bits, int scaling_factor, int nu
 
         double ans = sc.SC_Mul(a, b);
 
+        //printf("%lf * %lf: ori = %lf, SC = %lf\n", a, b, a * b, ans);
+
         double abs_err = std::abs(ans - a * b);
         tmp_abs.push_back(abs_err);
         tmp_RMSE.push_back(abs_err * abs_err);
@@ -108,19 +165,19 @@ void Test_SC_err(std::string RNG_type, int data_bits, int scaling_factor, int nu
     if(RNG_type == "true")
     {
         SC_true_abs_err[data_bits] = tmp_abs;
-        SC_true_RMSE[data_bits] = Std_Dev(tmp_RMSE);
+        SC_true_RMSE[data_bits] = Std_Dev(tmp_abs);
     }
 
     if(RNG_type == "LFSR")
     {
         SC_LFSR_abs_err[data_bits] = tmp_abs;
-        SC_LFSR_RMSE[data_bits] = Std_Dev(tmp_RMSE);
+        SC_LFSR_RMSE[data_bits] = Std_Dev(tmp_abs);
     }
 
     if(RNG_type == "LD")
     {
         SC_LD_abs_err[data_bits] = tmp_abs;
-        SC_LD_RMSE[data_bits] = Std_Dev(tmp_RMSE);
+        SC_LD_RMSE[data_bits] = Std_Dev(tmp_abs);
     }
 }
 
@@ -168,22 +225,47 @@ void write(int x, int y)
     //write results of data_bits x to data_bits y to file for storing
 
     //true random
-    for(int i = 2; i <= 16; i++)
+    for(int i = x; i <= y; i++)
         printf("%lf ", SC_true_RMSE[i]);
 
     printf("\n");
 
     //LFSR
-    for(int i = 2; i <= 16; i++)
+    for(int i = x; i <= y; i++)
         printf("%lf ", SC_LFSR_RMSE[i]);
 
     printf("\n");
 
     //LD
-    for(int i = 2; i <= 16; i++)
+    for(int i = x; i <= y; i++)
         printf("%lf ", SC_LD_RMSE[i]);
 
     printf("\n");
+
+    //DC DownCounter
+    for(int i = x; i <= y; i++)
+        printf("%lf ", SC_DC_RMSE[i]);
+
+    printf("\n");
+
+    //print_vector(SC_LFSR_abs_err);
+
+    /*
+    //for test
+    //fwrite abs err
+    //fwrite_vec("../data/results/true_abs_err_test.out", SC_true_abs_err);
+
+    fwrite_vec("../data/results/LFSR_abs_err_test.out", SC_LFSR_abs_err);
+
+    fwrite_vec("../data/results/Halton_abs_err_test.out", SC_LD_abs_err);
+
+    //fwrite RMSE
+    //fwrite_vec("../data/results/true_RMSE_test.out", SC_true_RMSE);
+
+    fwrite_vec("../data/results/LFSR_RMSE_test.out", SC_LFSR_RMSE);
+
+    fwrite_vec("../data/results/Halton_RMSE_test.out", SC_LD_RMSE);
+    */
 }
 
 int main(int argc, char *argv[])
@@ -196,36 +278,51 @@ int main(int argc, char *argv[])
     
     int trials = 10000;
 
-    SC sc("bipolar", "LD", 16, 3);
+    /*
+    std::string RNG_type = std::string(argv[1]);
+    int bits = atoi(argv[2]);
+    double a = atof(argv[3]);
+    double b = atof(argv[4]);
 
-    int a = atoi(argv[1]);
-    int b = atoi(argv[2]);
+    SC sc("bipolar", RNG_type, bits, 3);
+
     printf("%lf\n", sc.SC_Mul(a, b));
 
     return 0;
+    */
     
-    for(int i = 2; i <= 16; i++)
+    int s = 4;
+    int e = 16;
+
+    for(int i = s; i <= e; i++)
     {
-        Test_SC_err("true", i, 3, trials);
+        //Test_SC_err("true", i, 3, trials);
         Test_SC_err("LFSR", i, 3, trials);
         Test_SC_err("LD", i, 3, trials);
+        Test_DC_err("DC", i, 3, trials); //downcounter
     }
     
-    write(2, 16);
+    write(s, e);
 
+    return 0;
+
+    /*
     //fwrite abs err
     fwrite_vec("../data/results/true_abs_err_10k.out", SC_true_abs_err);
 
     fwrite_vec("../data/results/LFSR_abs_err_10k.out", SC_LFSR_abs_err);
 
     fwrite_vec("../data/results/Halton_abs_err_10k.out", SC_LD_abs_err);
+    */
 
     //fwrite RMSE
-    fwrite_vec("../data/results/true_RMSE_10k.out", SC_true_RMSE);
+    //fwrite_vec("../data/results/true_RMSE_10k.out", SC_true_RMSE);
 
     fwrite_vec("../data/results/LFSR_RMSE_10k.out", SC_LFSR_RMSE);
 
     fwrite_vec("../data/results/Halton_RMSE_10k.out", SC_LD_RMSE);
+
+    fwrite_vec("../data/results/Halton_DC_RMSE_10k.out", SC_DC_RMSE);
 
     //Test();
 

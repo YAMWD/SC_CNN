@@ -14,6 +14,7 @@ public:
     std::vector<bool> v;
     Complement(int data_bits, double value);
     Complement(boost::dynamic_bitset<> x);
+    Complement(boost::dynamic_bitset<> x, int if_revert);
     void inc(); //+1 from the Lowest bit, including sign bit.
     void inc(int x); //+1 from the designated bit, without sign bit.
     void flip();
@@ -68,7 +69,22 @@ Complement::Complement(boost::dynamic_bitset<> x)
     v.reserve(m_data_bits);
     
     for(int i = 0; i < m_data_bits; i++)
-        v.push_back(x[m_data_bits - 1 - i]);
+        v.push_back(x[i]);
+
+}
+
+Complement::Complement(boost::dynamic_bitset<> x, int if_revert)
+{
+    m_data_bits = x.size();
+    m_effective_bit = x.size() - 1;
+
+    v.reserve(m_data_bits);
+    
+    for(int i = 0; i < m_data_bits; i++)
+        if(if_revert)
+            v.push_back(x[i]); //LD in a reversed mode, higher accuracy?!
+        else
+            v.push_back(x[m_data_bits - 1 - i]);
 
 }
 

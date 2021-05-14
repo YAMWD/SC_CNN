@@ -9,6 +9,57 @@
 
 const unsigned int us = 10000;
 
+int LD_mult_ap(int x_in, int w_in, int bit)
+{
+
+    //int result;
+  
+    int w_abs;
+    int cape_cnt;
+    int cape_cnt_flip;
+    int cnt;
+    int x_lowerbits;
+    int x_signbit;
+    int i,j;
+    int cape_cnt_bit;
+    //int ld_seq;
+    if(w_in >= 0)
+        w_abs = w_in;
+    else
+        w_abs = -w_in;
+    
+    cape_cnt = 0;
+    cnt = 0;
+    x_signbit = (x_in>>(bit-1))&1;
+    if(x_signbit == 0 )
+        x_lowerbits = x_in << 1;
+    else
+        x_lowerbits = (x_in + (1 << (bit - 1))) << 1;
+    
+    for(i = 0; i < w_abs; i++)
+    {
+        //-----------bit flip----------
+        cape_cnt_flip = 0;
+        cape_cnt = i;
+        for(j = 0; j < bit;j++){
+            cape_cnt_bit = (cape_cnt>>j)&1;
+            cape_cnt_flip += cape_cnt_bit<<(bit-1-j);
+        }
+        //-----------ldseq--------------
+        if ( cape_cnt_flip<x_lowerbits )
+            cnt += 1;
+        //-----------cnt----------------
+    }
+    
+    int result;
+    if(w_in>=0)
+        result = cnt - x_signbit * w_abs;
+    else
+        result = x_signbit * w_abs - cnt;
+
+    return result;
+}
+
 void fwrite_vec(std::string path, double acc, double loss)
 {
     FILE* fp;
@@ -167,13 +218,16 @@ bool compare(Complement a, Complement b, bool p)
 
     if(p)
     {
+        printf("binary number\n");
         a.show();
         std::cout << a.to_double() << std::endl;
 
+        printf("random number\n");
         b.show();
         std::cout << b.to_double() << std::endl;
     }
 
+    printf("flag\n");
     std::cout << flag << std::endl;
 
     return flag;

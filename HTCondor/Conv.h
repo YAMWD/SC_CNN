@@ -25,9 +25,9 @@ public:
     int get_input_size();
     int get_output_size();
     double calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs);
-    double SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits);
+    double SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits, int if_revert);
     std::vector< std::vector< std::vector<double> > > forward(std::vector< std::vector<double> > inputs);
-    std::vector< std::vector< std::vector<double> > > SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits);
+    std::vector< std::vector< std::vector<double> > > SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits, int if_revert);
     void load_weights(std::string save_path);
     void load_bias(std::string save_path);
     void show_weights();
@@ -79,9 +79,9 @@ double Conv2D::calc(int coordinate_x, int coordinate_y, int kernel_num, std::vec
     return temp;
 }
 
-double Conv2D::SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits)
+double Conv2D::SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits, int if_revert)
 {
-    SC sc("bipolar", RNG_type, data_bits, 3);
+    SC sc("bipolar", RNG_type, data_bits, 3, if_revert);
 
     double temp = 0;
 
@@ -135,7 +135,7 @@ std::vector< std::vector< std::vector<double> > > Conv2D::forward(std::vector< s
     return outputs;
 }
 
-std::vector< std::vector< std::vector<double> > > Conv2D::SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits)
+std::vector< std::vector< std::vector<double> > > Conv2D::SC_forward(std::vector< std::vector<double> > inputs, std::string RNG_type, int data_bits, int if_revert)
 {
     //forward prop with ReLu activation function. (8, 26, 26)
     std::vector< std::vector< std::vector<double> > > outputs;
@@ -159,7 +159,7 @@ std::vector< std::vector< std::vector<double> > > Conv2D::SC_forward(std::vector
             std::vector<double> temp_j;
             temp_j.reserve(m_output_size);
             for(int j = 0; j < m_output_size; j += m_stride)
-                temp_j.push_back(ReLu(SC_calc(i, j, k, inputs, RNG_type, data_bits) + bias[k]));
+                temp_j.push_back(ReLu(SC_calc(i, j, k, inputs, RNG_type, data_bits, if_revert) + bias[k]));
             temp_i.push_back(temp_j);
         }
         outputs.push_back(temp_i);

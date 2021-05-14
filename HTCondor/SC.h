@@ -17,9 +17,11 @@ private:
     int m_data_bits;
     int m_SC_LEN;
     int m_scaling_factor;
+    int m_if_revert;
 
 public:
     SC(std::string SN_type, std::string RNG_type, int data_bits, int scaling_factor);
+    SC(std::string SN_type, std::string RNG_type, int data_bits, int scaling_factor, int if_revert);
     double normalize(double x);
     double normalize_back(double x);
     double normalize_back_twice(double x);
@@ -37,9 +39,25 @@ SC::SC(std::string SN_type, std::string RNG_type, int data_bits, int scaling_fac
     m_data_bits = data_bits;
 
     if(RNG_type == "LFSR")
-        m_SC_LEN = pow(2, m_data_bits) - 1;
+        m_SC_LEN = (1 << m_data_bits) - 1;
     else
-        m_SC_LEN = pow(2, m_data_bits);
+        m_SC_LEN = 1 << m_data_bits;
+
+    m_scaling_factor = scaling_factor;
+
+}
+
+SC::SC(std::string SN_type, std::string RNG_type, int data_bits, int scaling_factor, int if_revert)
+{
+    m_SN_type = SN_type;
+    m_RNG_type = RNG_type;
+    m_data_bits = data_bits;
+    m_if_revert = if_revert;
+
+    if(RNG_type == "LFSR")
+        m_SC_LEN = (1 << m_data_bits) - 1;
+    else
+        m_SC_LEN = 1 << m_data_bits;
 
     m_scaling_factor = scaling_factor;
 
@@ -148,7 +166,7 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
         {
             boost::dynamic_bitset<> RN_INT = ld.next();
             
-            Complement RN(RN_INT);
+            Complement RN(RN_INT, m_if_revert);
 
             SN.v[i] = compare(BN, RN);
 
@@ -188,13 +206,14 @@ double SC::SC_Mul(double a, double b)
     Complement ans_SN(m_SC_LEN, 0);
 
     //intermediate variable, for debug use
+    
     /*
     printf("SN a: ");
-    a_SN.show();
+    //a_SN.show();
     printf("value is %lf\n", a_SN.to_SC_double(type));
 
     printf("SN b: ");
-    b_SN.show();
+    //b_SN.show();
     printf("value is %lf\n", b_SN.to_SC_double(type));
     */
 

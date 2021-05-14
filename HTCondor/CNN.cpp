@@ -65,7 +65,7 @@ void Test()
 
 }
 
-void Test_SC(std::string RNG_type, int data_bits, int trials)
+void Test_SC(std::string RNG_type, int data_bits, int trials, int if_revert)
 {
     Conv2D a(8, 3, 3, 1);
 
@@ -93,7 +93,7 @@ void Test_SC(std::string RNG_type, int data_bits, int trials)
     {
         printf("RNG type %s, Sequence length %d, processing case %d\n", RNG_type.c_str(), data_bits, i);
 
-        out = a.SC_forward(test_images[i], RNG_type, data_bits);
+        out = a.SC_forward(test_images[i], RNG_type, data_bits, if_revert);
 
         out = b.forward(out);
         //out = b.SC_forward(out, RNG_type, data_bits);
@@ -171,7 +171,9 @@ int main(int argc, char *argv[])
     
     int num_of_trials = atoi(argv[3]);
 
-    Test_SC(RNG_type, Sequence_length, num_of_trials);
+    int if_revert = atoi(argv[4]);
+
+    Test_SC(RNG_type, Sequence_length, num_of_trials, if_revert);
 
     std::string path = RNG_type + "_bits_" + std::string(argv[2]) + "_trials_" + std::string(argv[3]);
     
