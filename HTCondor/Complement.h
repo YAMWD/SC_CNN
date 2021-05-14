@@ -49,7 +49,13 @@ Complement::Complement(int data_bits, double value)
         tmp = tmp * 2 - floor(tmp * 2);
 
         v.push_back(x);
+        
+        std::cout << x;
     }
+    
+    std::cout << std::endl;
+    
+    std::cout << m_effective_bit << std::endl;
 
     if(value < 0)
     {
