@@ -1,6 +1,7 @@
 #ifndef _COMPLEMENT_H_
 #define _COMPLEMENT_H_
 
+#include <cmath>
 #include "boost/dynamic_bitset.hpp"
 
 class Complement
