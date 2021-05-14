@@ -159,7 +159,7 @@ void Test()
 
 void Test_Complement()
 {
-    Complement a(4, -0.25);
+    Complement a(8, -0.25);
     a.show();
 }
 
