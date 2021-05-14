@@ -152,7 +152,7 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
             //SN.v[i] = compare(BN, RN);
 
             //for debug use
-            SN.v[i] = comapre(BN, RN, 1);
+            SN.v[i] = compare(BN, RN, 1);
 
             /*
             printf("Binary: ");
