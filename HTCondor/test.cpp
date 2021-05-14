@@ -192,9 +192,9 @@ int main()
     
     //Test_LD();
 
-    //Test_Complement();
+    Test_Complement();
     
-    //return 0;
+    return 0;
 
     int trials = 10000;
 
