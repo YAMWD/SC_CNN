@@ -10,4 +10,6 @@ g++ -I /home/zyao09/boost_1_76_0 -std=c++11 -O3 CNN.cpp -o CNN
 
 g++ -I /home/zyao09/boost_1_76_0 -std=c++11 -O3 test.cpp -o test
 
+g++ -I /home/zyao09/boost_1_76_0 -std=c++11 -O3 test.cpp -o test
+
 find ./ -name "Halton_bits*" -exec rm {} \;

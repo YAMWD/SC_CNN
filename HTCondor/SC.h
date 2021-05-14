@@ -147,6 +147,7 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
         if(RNG_type == "LD")
         {
             boost::dynamic_bitset<> RN_INT = ld.next();
+            std::cout << "LD: " << RN_INT << std::endl;
             Complement RN(RN_INT);
 
             //SN.v[i] = compare(BN, RN);
