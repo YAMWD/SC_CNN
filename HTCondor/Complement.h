@@ -39,12 +39,9 @@ Complement::Complement(int data_bits, double value)
     else
         v.push_back(0);
     
-    printf("ori value is %lf\n", value);
     double tmp = std::abs(value);
-    printf("the abs of ori value is %lf\n", tmp);
     for(int i = 1; i < data_bits; i++)
     {
-        printf("%lf\n", tmp);
         if(tmp)
             m_effective_bit = i;
 
@@ -53,13 +50,8 @@ Complement::Complement(int data_bits, double value)
 
         v.push_back(x);
         
-        std::cout << x << std::endl;
     }
     
-    std::cout << std::endl;
-    
-    std::cout << m_effective_bit << std::endl;
-
     if(value < 0)
     {
         flip(1, m_effective_bit);

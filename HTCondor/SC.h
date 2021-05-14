@@ -147,13 +147,13 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
         if(RNG_type == "LD")
         {
             boost::dynamic_bitset<> RN_INT = ld.next();
-            std::cout << "LD: " << RN_INT << std::endl;
+            
             Complement RN(RN_INT);
 
-            //SN.v[i] = compare(BN, RN);
+            SN.v[i] = compare(BN, RN);
 
             //for debug use
-            SN.v[i] = compare(BN, RN, 1);
+            //SN.v[i] = compare(BN, RN, 1);
 
             /*
             printf("Binary: ");
@@ -188,7 +188,7 @@ double SC::SC_Mul(double a, double b)
     Complement ans_SN(m_SC_LEN, 0);
 
     //intermediate variable, for debug use
-    
+    /*
     printf("SN a: ");
     a_SN.show();
     printf("value is %lf\n", a_SN.to_SC_double(type));
@@ -196,7 +196,7 @@ double SC::SC_Mul(double a, double b)
     printf("SN b: ");
     b_SN.show();
     printf("value is %lf\n", b_SN.to_SC_double(type));
-    
+    */
 
     if(a_SN.size() != b_SN.size())
     {

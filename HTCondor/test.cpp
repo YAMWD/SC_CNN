@@ -186,21 +186,21 @@ void write(int x, int y)
     printf("\n");
 }
 
-int main()
+int main(int argc, char *argv[])
 {
     init();
     
     //Test_LD();
 
-    Test_Complement();
+    //Test_Complement();
     
-    return 0;
-
     int trials = 10000;
 
     SC sc("bipolar", "LD", 16, 3);
 
-    printf("%lf\n", sc.SC_Mul(4, 3));
+    int a = atoi(argv[1]);
+    int b = atoi(argv[2]);
+    printf("%lf\n", sc.SC_Mul(a, b));
 
     return 0;
     
