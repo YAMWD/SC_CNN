@@ -163,21 +163,7 @@ bool compare(Complement a, Complement b)
 bool compare(Complement a, Complement b, bool p)
 {
     //if p = true, then the function will show the intermediate variables
-    int size = a.size();
-
-    Complement c(size, 0);
-
-    //get complement 
-    b.flip();
-    b.inc();
-
-    bool flag = false;
-    for(int i = size - 1; i >= 0; i--)
-    {
-        int tmp = flag + a.v[i] + b.v[i];
-        flag = tmp / 2;
-        c.v[i] = tmp % 2;
-    }
+    bool flag = a.to_double() > b.to_double();
 
     if(p)
     {
@@ -193,10 +179,7 @@ bool compare(Complement a, Complement b, bool p)
 
     std::cout << flag << std::endl;
 
-    if(flag)
-        return 0;
-    else
-        return !c.v[0]; //sign bit is 0 means the result of subtraction is positive and a > b, then true, vice versa.
+    return flag;
 }
 
 double ReLu(double x)

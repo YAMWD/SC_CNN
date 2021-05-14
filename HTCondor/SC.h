@@ -149,7 +149,10 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
             boost::dynamic_bitset<> RN_INT = ld.next();
             Complement RN(RN_INT);
 
-            SN.v[i] = compare(BN, RN);
+            //SN.v[i] = compare(BN, RN);
+
+            //for debug use
+            SN.v[i] = comapre(BN, RN, 1);
 
             /*
             printf("Binary: ");
