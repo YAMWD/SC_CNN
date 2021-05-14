@@ -92,7 +92,7 @@ double Conv2D::SC_calc(int coordinate_x, int coordinate_y, int kernel_num, std::
         {
             double ori = inputs[i][j] * kernels[kernel_num].v[i - coordinate_x][j - coordinate_y];
             double sc_ans = sc.SC_Mul(inputs[i][j], kernels[kernel_num].v[i - coordinate_x][j - coordinate_y]);
-            //printf("Ori: %lf, SC: %lf\n", ori, sc_ans);
+            printf("Ori: %lf, SC: %lf\n", ori, sc_ans);
 
             temp += sc_ans;
         }

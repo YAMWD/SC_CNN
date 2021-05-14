@@ -102,10 +102,8 @@ void Test_SC(std::string RNG_type, int data_bits, int trials)
 
         temp = flatten(out);
 
-        print_vector(temp);
         temp = c.forward(temp);
         //temp = c.SC_forward(temp, RNG_type, data_bits);
-        print_vector(temp);
 
         int prediction = argmax(temp);
         

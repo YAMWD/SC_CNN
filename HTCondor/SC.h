@@ -184,7 +184,7 @@ double SC::SC_Mul(double a, double b)
     Complement ans_SN(m_SC_LEN, 0);
 
     //intermediate variable, for debug use
-    /*
+    
     printf("SN a: ");
     a_SN.show();
     printf("value is %lf\n", a_SN.to_SC_double(type));
@@ -192,7 +192,7 @@ double SC::SC_Mul(double a, double b)
     printf("SN b: ");
     b_SN.show();
     printf("value is %lf\n", b_SN.to_SC_double(type));
-    */
+    
 
     if(a_SN.size() != b_SN.size())
     {

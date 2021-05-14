@@ -133,6 +133,13 @@ void Test_LFSR()
 
 }
 
+void Test_LD()
+{
+    LD ld(2, 8);
+    for(int i = 0; i < 10; i++)
+	std::cout << ld.next() << std::endl;
+}
+
 void Test_SC_LFSR()
 {
     SC sc("bipolar", "LFSR", 16, 3);
@@ -177,7 +184,15 @@ int main()
 {
     init();
     
+    //Test_LD();
+
     int trials = 10000;
+
+    SC sc("bipolar", "LD", 16, 3);
+
+    printf("%lf\n", sc.SC_Mul(4, 3));
+
+    return 0;
     
     for(int i = 2; i <= 16; i++)
     {
