@@ -29,6 +29,7 @@ public:
     double float2fixed_normalize_back(double x);
     Complement binary2SN(double ori_value, std::string RNG_type, int base); //base is used for LD sequence
     double SC_Mul(double a, double b);
+    double LD_DC_Mul(double a, double b);
 
 };
 
@@ -185,9 +186,43 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
     return SN;
 }  
 
+double SC::LD_DC_Mul(double a, double b)
+{
+    int a_int,b_int;
+
+    double ans;
+
+    if(m_data_bits <= 4)
+    {
+        a_int = (int)round( a / (1 << -(m_data_bits - m_scaling_factor - 1)));
+        b_int = (int)round( b / (1 << -(m_data_bits - m_scaling_factor - 1)));
+    }
+    else 
+    {
+        a_int = (int)round( a * (1 << (m_data_bits - m_scaling_factor - 1)));
+        b_int = (int)round( b * (1 << (m_data_bits - m_scaling_factor - 1)));
+    }
+
+    if(a_int == 1<<(m_data_bits-1)) 
+        a_int = a_int-1;//in case of overflow
+
+    if(b_int == 1<<(m_data_bits-1)) 
+        b_int = b_int-1;
+
+    if(m_data_bits <= 6)
+        ans = (double)LD_mult_ap(a_int, b_int, m_data_bits) * (1 << -(m_data_bits - m_scaling_factor * 2 - 1));
+    else
+        ans = (double)LD_mult_ap(a_int, b_int, m_data_bits) / (1 << (m_data_bits - m_scaling_factor * 2 - 1));
+
+    return ans;
+}
+
 double SC::SC_Mul(double a, double b)
 {
     std::string type = "bipolar";
+
+    if(m_RNG_type == "LD_DC")
+        return LD_DC_Mul(a, b);
 
     /*
     int a_int = float2fixed_normalize(a);
