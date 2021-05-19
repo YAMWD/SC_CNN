@@ -27,7 +27,7 @@ public:
     double normalize_back_twice(double x);
     int float2fixed_normalize(double x);
     double float2fixed_normalize_back(double x);
-    Complement binary2SN(double ori_value, std::string RNG_type, int base); //base is used for LD sequence
+    Complement binary2SN(double ori_value, std::string RNG_type, int base, int init_value); //base is used for LD sequence
     double SC_Mul(double a, double b);
     double LD_DC_Mul(double a, double b);
 
@@ -105,7 +105,7 @@ double SC::float2fixed_normalize_back(double x)
 }
 
 
-Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
+Complement SC::binary2SN(double ori_value, std::string RNG_type, int base, int init_value)
 {
     //if the length of binary sequence is m_data_bits(signed bit + m_data_bits - 1 bits), then the length of SC sequence should be 2 ^ (m_data_bits - 1)
     int rd_value;
@@ -119,7 +119,7 @@ Complement SC::binary2SN(double ori_value, std::string RNG_type, int base)
     printf("binary value is %lf\n", BN.to_double());
     */
 
-    LFSR lfsr(m_data_bits);
+    LFSR lfsr(m_data_bits, init_value);
 
     LD ld(base, m_data_bits);
 
@@ -236,8 +236,34 @@ double SC::SC_Mul(double a, double b)
 
     //printf("%lf %lf\n", a_normalized, b_normalized);
 
-    Complement a_SN = binary2SN(a_normalized, m_RNG_type, 2);
-    Complement b_SN = binary2SN(b_normalized, m_RNG_type, 3);
+    int init_value_a;
+    int init_value_b;
+
+    while(1)
+    {
+        init_value_a = get_n_bit_true_random(m_data_bits);
+
+        if(!init_value_a)
+            continue;
+
+        break;
+    }
+
+    while(1)
+    {
+        init_value_b = get_n_bit_true_random(m_data_bits);
+
+        if(!init_value_b)
+            continue;
+
+        if(init_value_a == init_value_b)
+            continue;
+
+        break;
+    }
+
+    Complement a_SN = binary2SN(a_normalized, m_RNG_type, 2, init_value_a);
+    Complement b_SN = binary2SN(b_normalized, m_RNG_type, 3, init_value_b);
     Complement ans_SN(m_SC_LEN, 0);
 
     //intermediate variable, for debug use

@@ -1,0 +1,15 @@
+getenv     = True
+executable = ./CNN
+universe   = vanilla
+Arguments  = $(RNG_type) $(Sequence_length) $(trials) $(if_revert)
+should_transfer_files = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+transfer_input_files = test_images.out,test_labels.out,conv1.0.bias,conv1.0.weight,FC.bias,FC.weight
+output     = results_100/$(RNG_type)_bits_$(Sequence_length)_trials_$(trials)_revert_$(if_revert)
+error      = err/$(RNG_type)_$(Sequence_length)_$(trials)_revert_$(if_revert).err
+log        = log/$(RNG_type)_$(Sequence_length)_$(trials)_revert_$(if_revert).log
+
+notify_user = rachel2804195717@icloud.com
+notification = error
+
+Queue RNG_type,Sequence_length,trials,if_revert from var_LFSR_list_100
