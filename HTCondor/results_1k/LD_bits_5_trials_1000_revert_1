@@ -1,0 +1,2008 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type LD, Sequence length 5, processing case 0
+0.000000 35.940069
+RNG type LD, Sequence length 5, processing case 1
+0.000000 110.553461
+RNG type LD, Sequence length 5, processing case 2
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 3
+0.000000 99.653794
+RNG type LD, Sequence length 5, processing case 4
+0.000000 121.450410
+RNG type LD, Sequence length 5, processing case 5
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 6
+0.000000 116.680137
+RNG type LD, Sequence length 5, processing case 7
+0.000000 97.199143
+RNG type LD, Sequence length 5, processing case 8
+0.000000 26.487635
+RNG type LD, Sequence length 5, processing case 9
+0.000000 68.317661
+RNG type LD, Sequence length 5, processing case 10
+0.000000 126.975134
+RNG type LD, Sequence length 5, processing case 11
+0.000000 129.034516
+RNG type LD, Sequence length 5, processing case 12
+0.000000 66.341818
+RNG type LD, Sequence length 5, processing case 13
+0.000000 100.148750
+RNG type LD, Sequence length 5, processing case 14
+0.002976 5.817115
+RNG type LD, Sequence length 5, processing case 15
+0.000012 11.344123
+RNG type LD, Sequence length 5, processing case 16
+0.000000 57.467642
+RNG type LD, Sequence length 5, processing case 17
+0.000000 43.548825
+RNG type LD, Sequence length 5, processing case 18
+0.000000 113.119963
+RNG type LD, Sequence length 5, processing case 19
+0.000000 133.284834
+RNG type LD, Sequence length 5, processing case 20
+0.000000 78.649494
+RNG type LD, Sequence length 5, processing case 21
+0.000000 138.685655
+RNG type LD, Sequence length 5, processing case 22
+0.000000 144.352964
+RNG type LD, Sequence length 5, processing case 23
+0.000000 33.600239
+RNG type LD, Sequence length 5, processing case 24
+0.000000 106.641989
+RNG type LD, Sequence length 5, processing case 25
+0.000000 58.879119
+RNG type LD, Sequence length 5, processing case 26
+0.000000 49.403423
+RNG type LD, Sequence length 5, processing case 27
+0.000000 120.798221
+RNG type LD, Sequence length 5, processing case 28
+0.000000 101.974830
+RNG type LD, Sequence length 5, processing case 29
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 30
+0.000000 116.625851
+RNG type LD, Sequence length 5, processing case 31
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 32
+0.000000 112.194167
+RNG type LD, Sequence length 5, processing case 33
+0.000000 145.076554
+RNG type LD, Sequence length 5, processing case 34
+0.000000 26.305353
+RNG type LD, Sequence length 5, processing case 35
+0.000000 71.284244
+RNG type LD, Sequence length 5, processing case 36
+0.000000 39.280892
+RNG type LD, Sequence length 5, processing case 37
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 38
+0.000000 114.022602
+RNG type LD, Sequence length 5, processing case 39
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 40
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 41
+0.000000 37.108070
+RNG type LD, Sequence length 5, processing case 42
+0.000000 98.804638
+RNG type LD, Sequence length 5, processing case 43
+0.000000 87.874941
+RNG type LD, Sequence length 5, processing case 44
+0.000000 138.013581
+RNG type LD, Sequence length 5, processing case 45
+0.000000 47.743493
+RNG type LD, Sequence length 5, processing case 46
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 47
+0.000000 60.524986
+RNG type LD, Sequence length 5, processing case 48
+0.000000 107.565297
+RNG type LD, Sequence length 5, processing case 49
+0.000000 126.707560
+RNG type LD, Sequence length 5, processing case 50
+0.000000 148.666730
+RNG type LD, Sequence length 5, processing case 51
+0.000000 91.921777
+RNG type LD, Sequence length 5, processing case 52
+0.000000 40.257026
+RNG type LD, Sequence length 5, processing case 53
+0.000000 15.201902
+RNG type LD, Sequence length 5, processing case 54
+0.000000 146.035828
+RNG type LD, Sequence length 5, processing case 55
+0.000000 127.776917
+RNG type LD, Sequence length 5, processing case 56
+0.000000 136.119654
+RNG type LD, Sequence length 5, processing case 57
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 58
+0.000000 59.536703
+RNG type LD, Sequence length 5, processing case 59
+0.000000 46.182673
+RNG type LD, Sequence length 5, processing case 60
+0.000000 21.812698
+RNG type LD, Sequence length 5, processing case 61
+0.000000 125.218534
+RNG type LD, Sequence length 5, processing case 62
+0.000000 96.997180
+RNG type LD, Sequence length 5, processing case 63
+0.000000 104.397322
+RNG type LD, Sequence length 5, processing case 64
+0.000000 32.117522
+RNG type LD, Sequence length 5, processing case 65
+0.000000 106.113138
+RNG type LD, Sequence length 5, processing case 66
+0.000000 163.095933
+RNG type LD, Sequence length 5, processing case 67
+0.000000 114.120134
+RNG type LD, Sequence length 5, processing case 68
+0.000000 86.200175
+RNG type LD, Sequence length 5, processing case 69
+0.000000 135.495006
+RNG type LD, Sequence length 5, processing case 70
+0.000000 40.863998
+RNG type LD, Sequence length 5, processing case 71
+0.000000 91.097292
+RNG type LD, Sequence length 5, processing case 72
+0.000000 72.618990
+RNG type LD, Sequence length 5, processing case 73
+0.000000 84.947971
+RNG type LD, Sequence length 5, processing case 74
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 75
+0.000000 31.434525
+RNG type LD, Sequence length 5, processing case 76
+0.000000 105.860682
+RNG type LD, Sequence length 5, processing case 77
+0.000000 90.040313
+RNG type LD, Sequence length 5, processing case 78
+0.000000 104.333229
+RNG type LD, Sequence length 5, processing case 79
+0.000000 18.258445
+RNG type LD, Sequence length 5, processing case 80
+0.000000 50.359436
+RNG type LD, Sequence length 5, processing case 81
+0.000000 126.579829
+RNG type LD, Sequence length 5, processing case 82
+0.000000 67.472451
+RNG type LD, Sequence length 5, processing case 83
+0.000000 48.463830
+RNG type LD, Sequence length 5, processing case 84
+0.000000 140.112153
+RNG type LD, Sequence length 5, processing case 85
+0.000000 101.659489
+RNG type LD, Sequence length 5, processing case 86
+0.000000 31.832864
+RNG type LD, Sequence length 5, processing case 87
+0.000000 114.071807
+RNG type LD, Sequence length 5, processing case 88
+0.000000 126.559821
+RNG type LD, Sequence length 5, processing case 89
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 90
+0.000000 81.828007
+RNG type LD, Sequence length 5, processing case 91
+0.000000 136.363546
+RNG type LD, Sequence length 5, processing case 92
+0.000000 109.061017
+RNG type LD, Sequence length 5, processing case 93
+0.000000 103.587639
+RNG type LD, Sequence length 5, processing case 94
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 95
+0.000000 70.466566
+RNG type LD, Sequence length 5, processing case 96
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 97
+0.000000 43.945402
+RNG type LD, Sequence length 5, processing case 98
+0.000000 127.333902
+RNG type LD, Sequence length 5, processing case 99
+0.000000 54.497427
+RNG type LD, Sequence length 5, processing case 100
+0.000000 156.222872
+RNG type LD, Sequence length 5, processing case 101
+0.000000 111.817807
+RNG type LD, Sequence length 5, processing case 102
+0.000000 14.744751
+RNG type LD, Sequence length 5, processing case 103
+0.000000 116.207566
+RNG type LD, Sequence length 5, processing case 104
+0.000000 66.801716
+RNG type LD, Sequence length 5, processing case 105
+0.000000 53.976972
+RNG type LD, Sequence length 5, processing case 106
+0.000000 74.752347
+RNG type LD, Sequence length 5, processing case 107
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 108
+0.000000 69.437189
+RNG type LD, Sequence length 5, processing case 109
+0.000000 147.281702
+RNG type LD, Sequence length 5, processing case 110
+0.000000 145.738829
+RNG type LD, Sequence length 5, processing case 111
+0.000000 43.478613
+RNG type LD, Sequence length 5, processing case 112
+0.000000 112.558281
+RNG type LD, Sequence length 5, processing case 113
+0.000000 68.021292
+RNG type LD, Sequence length 5, processing case 114
+0.000000 58.070169
+RNG type LD, Sequence length 5, processing case 115
+0.000000 109.781595
+RNG type LD, Sequence length 5, processing case 116
+0.000000 132.690584
+RNG type LD, Sequence length 5, processing case 117
+0.000000 144.920929
+RNG type LD, Sequence length 5, processing case 118
+0.000000 80.427090
+RNG type LD, Sequence length 5, processing case 119
+0.000000 68.433207
+RNG type LD, Sequence length 5, processing case 120
+0.000000 15.050869
+RNG type LD, Sequence length 5, processing case 121
+0.000000 126.542360
+RNG type LD, Sequence length 5, processing case 122
+0.000000 68.646588
+RNG type LD, Sequence length 5, processing case 123
+0.000000 143.783852
+RNG type LD, Sequence length 5, processing case 124
+0.000000 38.608433
+RNG type LD, Sequence length 5, processing case 125
+0.000000 81.664926
+RNG type LD, Sequence length 5, processing case 126
+0.000000 125.904350
+RNG type LD, Sequence length 5, processing case 127
+0.000000 21.530436
+RNG type LD, Sequence length 5, processing case 128
+0.000000 125.558760
+RNG type LD, Sequence length 5, processing case 129
+0.000000 35.321022
+RNG type LD, Sequence length 5, processing case 130
+0.000000 102.956146
+RNG type LD, Sequence length 5, processing case 131
+0.000000 102.919077
+RNG type LD, Sequence length 5, processing case 132
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 133
+0.000000 35.548625
+RNG type LD, Sequence length 5, processing case 134
+0.000000 154.811240
+RNG type LD, Sequence length 5, processing case 135
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 136
+0.000000 136.322045
+RNG type LD, Sequence length 5, processing case 137
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 138
+0.000000 118.356438
+RNG type LD, Sequence length 5, processing case 139
+0.000000 112.856130
+RNG type LD, Sequence length 5, processing case 140
+0.000000 146.760663
+RNG type LD, Sequence length 5, processing case 141
+0.000000 53.053996
+RNG type LD, Sequence length 5, processing case 142
+0.000000 77.781028
+RNG type LD, Sequence length 5, processing case 143
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 144
+0.000000 31.471526
+RNG type LD, Sequence length 5, processing case 145
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 146
+0.000000 116.977286
+RNG type LD, Sequence length 5, processing case 147
+0.000000 48.616174
+RNG type LD, Sequence length 5, processing case 148
+0.000000 122.829128
+RNG type LD, Sequence length 5, processing case 149
+0.000000 100.073263
+RNG type LD, Sequence length 5, processing case 150
+0.000000 50.386590
+RNG type LD, Sequence length 5, processing case 151
+0.000000 45.323531
+RNG type LD, Sequence length 5, processing case 152
+0.000000 36.916448
+RNG type LD, Sequence length 5, processing case 153
+0.000000 39.976361
+RNG type LD, Sequence length 5, processing case 154
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 155
+0.000000 37.732499
+RNG type LD, Sequence length 5, processing case 156
+0.000000 138.818569
+RNG type LD, Sequence length 5, processing case 157
+0.000000 137.116542
+RNG type LD, Sequence length 5, processing case 158
+0.000000 82.919527
+RNG type LD, Sequence length 5, processing case 159
+0.000000 122.628317
+RNG type LD, Sequence length 5, processing case 160
+0.000000 100.085021
+RNG type LD, Sequence length 5, processing case 161
+0.000000 117.862899
+RNG type LD, Sequence length 5, processing case 162
+0.000000 21.593942
+RNG type LD, Sequence length 5, processing case 163
+0.000000 117.562101
+RNG type LD, Sequence length 5, processing case 164
+0.000000 146.931508
+RNG type LD, Sequence length 5, processing case 165
+0.000000 15.580556
+RNG type LD, Sequence length 5, processing case 166
+0.000000 117.045619
+RNG type LD, Sequence length 5, processing case 167
+0.000000 70.009068
+RNG type LD, Sequence length 5, processing case 168
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 169
+0.000000 106.410104
+RNG type LD, Sequence length 5, processing case 170
+0.000000 115.141381
+RNG type LD, Sequence length 5, processing case 171
+0.000000 22.405253
+RNG type LD, Sequence length 5, processing case 172
+0.000000 84.398184
+RNG type LD, Sequence length 5, processing case 173
+0.000000 78.948776
+RNG type LD, Sequence length 5, processing case 174
+0.000000 63.708404
+RNG type LD, Sequence length 5, processing case 175
+0.000000 63.034642
+RNG type LD, Sequence length 5, processing case 176
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 177
+0.000000 153.010617
+RNG type LD, Sequence length 5, processing case 178
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 179
+0.000000 128.535305
+RNG type LD, Sequence length 5, processing case 180
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 181
+0.000000 137.221790
+RNG type LD, Sequence length 5, processing case 182
+0.000000 24.914063
+RNG type LD, Sequence length 5, processing case 183
+0.000000 149.191529
+RNG type LD, Sequence length 5, processing case 184
+0.000000 165.949186
+RNG type LD, Sequence length 5, processing case 185
+0.000000 59.574070
+RNG type LD, Sequence length 5, processing case 186
+0.000000 85.650487
+RNG type LD, Sequence length 5, processing case 187
+0.000000 22.744485
+RNG type LD, Sequence length 5, processing case 188
+0.000000 105.763709
+RNG type LD, Sequence length 5, processing case 189
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 190
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 191
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 192
+0.000000 121.286214
+RNG type LD, Sequence length 5, processing case 193
+0.000000 70.583869
+RNG type LD, Sequence length 5, processing case 194
+0.000000 103.757262
+RNG type LD, Sequence length 5, processing case 195
+0.000000 131.787519
+RNG type LD, Sequence length 5, processing case 196
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 197
+0.000000 163.316477
+RNG type LD, Sequence length 5, processing case 198
+0.000000 116.239940
+RNG type LD, Sequence length 5, processing case 199
+0.000000 57.492147
+RNG type LD, Sequence length 5, processing case 200
+0.000000 90.652159
+RNG type LD, Sequence length 5, processing case 201
+0.000000 130.375173
+RNG type LD, Sequence length 5, processing case 202
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 203
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 204
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 205
+0.000000 116.186898
+RNG type LD, Sequence length 5, processing case 206
+0.000000 66.423784
+RNG type LD, Sequence length 5, processing case 207
+0.000000 23.997572
+RNG type LD, Sequence length 5, processing case 208
+0.000000 64.672041
+RNG type LD, Sequence length 5, processing case 209
+0.000000 65.171771
+RNG type LD, Sequence length 5, processing case 210
+0.000000 141.520343
+RNG type LD, Sequence length 5, processing case 211
+0.000000 38.824298
+RNG type LD, Sequence length 5, processing case 212
+0.000000 59.182134
+RNG type LD, Sequence length 5, processing case 213
+0.000000 120.785043
+RNG type LD, Sequence length 5, processing case 214
+0.000000 57.679686
+RNG type LD, Sequence length 5, processing case 215
+0.000000 101.643698
+RNG type LD, Sequence length 5, processing case 216
+0.000000 109.349680
+RNG type LD, Sequence length 5, processing case 217
+0.000000 130.621963
+RNG type LD, Sequence length 5, processing case 218
+0.000000 46.712132
+RNG type LD, Sequence length 5, processing case 219
+0.000000 68.112267
+RNG type LD, Sequence length 5, processing case 220
+0.000000 51.511774
+RNG type LD, Sequence length 5, processing case 221
+0.000000 58.693949
+RNG type LD, Sequence length 5, processing case 222
+0.000000 60.135036
+RNG type LD, Sequence length 5, processing case 223
+0.000000 31.206121
+RNG type LD, Sequence length 5, processing case 224
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 225
+0.000000 69.144567
+RNG type LD, Sequence length 5, processing case 226
+0.000000 142.150271
+RNG type LD, Sequence length 5, processing case 227
+0.000000 143.147665
+RNG type LD, Sequence length 5, processing case 228
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 229
+0.000000 41.365729
+RNG type LD, Sequence length 5, processing case 230
+0.000000 103.537039
+RNG type LD, Sequence length 5, processing case 231
+0.000000 107.276289
+RNG type LD, Sequence length 5, processing case 232
+0.000000 131.969692
+RNG type LD, Sequence length 5, processing case 233
+0.000000 144.640490
+RNG type LD, Sequence length 5, processing case 234
+0.000000 35.256930
+RNG type LD, Sequence length 5, processing case 235
+0.000000 57.497622
+RNG type LD, Sequence length 5, processing case 236
+0.000000 76.678259
+RNG type LD, Sequence length 5, processing case 237
+0.000000 62.910423
+RNG type LD, Sequence length 5, processing case 238
+0.000000 113.844706
+RNG type LD, Sequence length 5, processing case 239
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 240
+0.000000 20.701552
+RNG type LD, Sequence length 5, processing case 241
+0.000000 36.149668
+RNG type LD, Sequence length 5, processing case 242
+0.000000 131.170499
+RNG type LD, Sequence length 5, processing case 243
+0.000000 68.524841
+RNG type LD, Sequence length 5, processing case 244
+0.000000 95.637224
+RNG type LD, Sequence length 5, processing case 245
+0.000000 123.068601
+RNG type LD, Sequence length 5, processing case 246
+0.000000 102.939257
+RNG type LD, Sequence length 5, processing case 247
+0.000000 118.315635
+RNG type LD, Sequence length 5, processing case 248
+0.000000 93.093399
+RNG type LD, Sequence length 5, processing case 249
+0.000000 84.122858
+RNG type LD, Sequence length 5, processing case 250
+0.000000 76.742905
+RNG type LD, Sequence length 5, processing case 251
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 252
+0.000000 81.789402
+RNG type LD, Sequence length 5, processing case 253
+0.000000 32.795324
+RNG type LD, Sequence length 5, processing case 254
+0.000000 45.972743
+RNG type LD, Sequence length 5, processing case 255
+0.000000 54.978099
+RNG type LD, Sequence length 5, processing case 256
+0.000000 81.866809
+RNG type LD, Sequence length 5, processing case 257
+0.000000 162.180316
+RNG type LD, Sequence length 5, processing case 258
+0.000000 56.669099
+RNG type LD, Sequence length 5, processing case 259
+0.000000 114.442216
+RNG type LD, Sequence length 5, processing case 260
+0.000000 131.286835
+RNG type LD, Sequence length 5, processing case 261
+0.000000 44.968254
+RNG type LD, Sequence length 5, processing case 262
+0.000000 44.513316
+RNG type LD, Sequence length 5, processing case 263
+0.000000 37.592442
+RNG type LD, Sequence length 5, processing case 264
+0.000000 97.965557
+RNG type LD, Sequence length 5, processing case 265
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 266
+0.000000 118.456418
+RNG type LD, Sequence length 5, processing case 267
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 268
+0.000000 146.714472
+RNG type LD, Sequence length 5, processing case 269
+0.000000 131.428025
+RNG type LD, Sequence length 5, processing case 270
+0.000000 102.551309
+RNG type LD, Sequence length 5, processing case 271
+0.000000 116.280262
+RNG type LD, Sequence length 5, processing case 272
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 273
+0.000000 66.312519
+RNG type LD, Sequence length 5, processing case 274
+0.000000 42.311393
+RNG type LD, Sequence length 5, processing case 275
+0.000000 106.807728
+RNG type LD, Sequence length 5, processing case 276
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 277
+0.000000 136.135965
+RNG type LD, Sequence length 5, processing case 278
+0.000000 85.188615
+RNG type LD, Sequence length 5, processing case 279
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 280
+0.000000 77.447228
+RNG type LD, Sequence length 5, processing case 281
+0.000000 65.408372
+RNG type LD, Sequence length 5, processing case 282
+0.000000 33.376935
+RNG type LD, Sequence length 5, processing case 283
+0.000000 33.299225
+RNG type LD, Sequence length 5, processing case 284
+0.000000 40.832930
+RNG type LD, Sequence length 5, processing case 285
+0.000000 84.652112
+RNG type LD, Sequence length 5, processing case 286
+0.000000 147.882227
+RNG type LD, Sequence length 5, processing case 287
+0.000000 127.894447
+RNG type LD, Sequence length 5, processing case 288
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 289
+0.000000 20.646930
+RNG type LD, Sequence length 5, processing case 290
+0.000000 141.726963
+RNG type LD, Sequence length 5, processing case 291
+0.000000 89.196912
+RNG type LD, Sequence length 5, processing case 292
+0.000000 48.957828
+RNG type LD, Sequence length 5, processing case 293
+0.000000 69.812909
+RNG type LD, Sequence length 5, processing case 294
+0.000000 111.971069
+RNG type LD, Sequence length 5, processing case 295
+0.000000 103.666669
+RNG type LD, Sequence length 5, processing case 296
+0.000000 90.996483
+RNG type LD, Sequence length 5, processing case 297
+0.000000 125.599433
+RNG type LD, Sequence length 5, processing case 298
+0.000000 74.384728
+RNG type LD, Sequence length 5, processing case 299
+0.000000 147.906973
+RNG type LD, Sequence length 5, processing case 300
+0.000000 141.716835
+RNG type LD, Sequence length 5, processing case 301
+0.000000 49.960280
+RNG type LD, Sequence length 5, processing case 302
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 303
+0.000000 80.914360
+RNG type LD, Sequence length 5, processing case 304
+0.000000 94.172547
+RNG type LD, Sequence length 5, processing case 305
+0.000000 126.240635
+RNG type LD, Sequence length 5, processing case 306
+0.000000 88.191165
+RNG type LD, Sequence length 5, processing case 307
+0.000000 42.275839
+RNG type LD, Sequence length 5, processing case 308
+0.000000 102.687102
+RNG type LD, Sequence length 5, processing case 309
+0.000000 113.942267
+RNG type LD, Sequence length 5, processing case 310
+0.000000 92.271720
+RNG type LD, Sequence length 5, processing case 311
+0.000000 63.135815
+RNG type LD, Sequence length 5, processing case 312
+0.000000 108.754597
+RNG type LD, Sequence length 5, processing case 313
+0.000000 115.809789
+RNG type LD, Sequence length 5, processing case 314
+0.052079 2.954995
+RNG type LD, Sequence length 5, processing case 315
+0.000000 43.071908
+RNG type LD, Sequence length 5, processing case 316
+0.000000 143.353653
+RNG type LD, Sequence length 5, processing case 317
+0.000000 65.650674
+RNG type LD, Sequence length 5, processing case 318
+0.000000 73.212357
+RNG type LD, Sequence length 5, processing case 319
+0.000094 9.277108
+RNG type LD, Sequence length 5, processing case 320
+0.000000 110.131175
+RNG type LD, Sequence length 5, processing case 321
+0.000000 80.619786
+RNG type LD, Sequence length 5, processing case 322
+0.000000 83.597999
+RNG type LD, Sequence length 5, processing case 323
+0.000000 94.514361
+RNG type LD, Sequence length 5, processing case 324
+0.000000 149.275874
+RNG type LD, Sequence length 5, processing case 325
+0.000000 128.167119
+RNG type LD, Sequence length 5, processing case 326
+0.000000 100.405936
+RNG type LD, Sequence length 5, processing case 327
+0.000000 171.109345
+RNG type LD, Sequence length 5, processing case 328
+0.000000 35.394450
+RNG type LD, Sequence length 5, processing case 329
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 330
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 331
+0.000000 78.080317
+RNG type LD, Sequence length 5, processing case 332
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 333
+0.000000 15.919268
+RNG type LD, Sequence length 5, processing case 334
+0.000000 88.539775
+RNG type LD, Sequence length 5, processing case 335
+0.000000 103.883194
+RNG type LD, Sequence length 5, processing case 336
+0.000000 53.707027
+RNG type LD, Sequence length 5, processing case 337
+0.000000 39.205615
+RNG type LD, Sequence length 5, processing case 338
+0.000000 133.093995
+RNG type LD, Sequence length 5, processing case 339
+0.000000 132.405932
+RNG type LD, Sequence length 5, processing case 340
+0.000000 50.430353
+RNG type LD, Sequence length 5, processing case 341
+0.000000 151.828927
+RNG type LD, Sequence length 5, processing case 342
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 343
+0.000000 67.772196
+RNG type LD, Sequence length 5, processing case 344
+0.000000 149.777260
+RNG type LD, Sequence length 5, processing case 345
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 346
+0.000000 128.520728
+RNG type LD, Sequence length 5, processing case 347
+0.000000 44.968257
+RNG type LD, Sequence length 5, processing case 348
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 349
+0.000000 94.125450
+RNG type LD, Sequence length 5, processing case 350
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 351
+0.000000 19.812937
+RNG type LD, Sequence length 5, processing case 352
+0.000000 28.946189
+RNG type LD, Sequence length 5, processing case 353
+0.000000 105.350110
+RNG type LD, Sequence length 5, processing case 354
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 355
+0.000000 149.524737
+RNG type LD, Sequence length 5, processing case 356
+0.000000 48.256460
+RNG type LD, Sequence length 5, processing case 357
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 358
+0.000000 34.382910
+RNG type LD, Sequence length 5, processing case 359
+0.000000 46.273731
+RNG type LD, Sequence length 5, processing case 360
+0.000000 153.008622
+RNG type LD, Sequence length 5, processing case 361
+0.000000 132.704526
+RNG type LD, Sequence length 5, processing case 362
+0.000000 65.475754
+RNG type LD, Sequence length 5, processing case 363
+0.000000 114.161239
+RNG type LD, Sequence length 5, processing case 364
+0.000000 17.133625
+RNG type LD, Sequence length 5, processing case 365
+0.000000 143.312330
+RNG type LD, Sequence length 5, processing case 366
+0.000000 149.341315
+RNG type LD, Sequence length 5, processing case 367
+0.082693 2.492624
+RNG type LD, Sequence length 5, processing case 368
+0.000000 142.830722
+RNG type LD, Sequence length 5, processing case 369
+0.000000 86.313329
+RNG type LD, Sequence length 5, processing case 370
+0.000000 51.374509
+RNG type LD, Sequence length 5, processing case 371
+0.000000 111.452615
+RNG type LD, Sequence length 5, processing case 372
+0.000000 134.186585
+RNG type LD, Sequence length 5, processing case 373
+0.000000 121.848949
+RNG type LD, Sequence length 5, processing case 374
+0.000000 155.265142
+RNG type LD, Sequence length 5, processing case 375
+0.000000 27.020245
+RNG type LD, Sequence length 5, processing case 376
+0.000000 103.512961
+RNG type LD, Sequence length 5, processing case 377
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 378
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 379
+0.000000 118.301458
+RNG type LD, Sequence length 5, processing case 380
+0.000000 134.305261
+RNG type LD, Sequence length 5, processing case 381
+0.000000 82.353338
+RNG type LD, Sequence length 5, processing case 382
+0.000000 73.408671
+RNG type LD, Sequence length 5, processing case 383
+0.000000 53.041337
+RNG type LD, Sequence length 5, processing case 384
+0.000000 113.443676
+RNG type LD, Sequence length 5, processing case 385
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 386
+0.000000 152.949761
+RNG type LD, Sequence length 5, processing case 387
+0.000000 99.071913
+RNG type LD, Sequence length 5, processing case 388
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 389
+0.000000 81.378142
+RNG type LD, Sequence length 5, processing case 390
+0.000000 57.126901
+RNG type LD, Sequence length 5, processing case 391
+0.000000 138.365738
+RNG type LD, Sequence length 5, processing case 392
+0.000000 141.566140
+RNG type LD, Sequence length 5, processing case 393
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 394
+0.000000 65.276553
+RNG type LD, Sequence length 5, processing case 395
+0.000000 49.113088
+RNG type LD, Sequence length 5, processing case 396
+0.000000 61.089561
+RNG type LD, Sequence length 5, processing case 397
+0.000000 20.952656
+RNG type LD, Sequence length 5, processing case 398
+0.000000 149.726668
+RNG type LD, Sequence length 5, processing case 399
+0.000000 110.841167
+RNG type LD, Sequence length 5, processing case 400
+0.000000 54.690561
+RNG type LD, Sequence length 5, processing case 401
+0.000000 159.444267
+RNG type LD, Sequence length 5, processing case 402
+0.000000 84.351634
+RNG type LD, Sequence length 5, processing case 403
+0.000000 145.916763
+RNG type LD, Sequence length 5, processing case 404
+0.000000 77.563415
+RNG type LD, Sequence length 5, processing case 405
+0.000000 116.995502
+RNG type LD, Sequence length 5, processing case 406
+0.000000 53.587310
+RNG type LD, Sequence length 5, processing case 407
+0.000000 113.112212
+RNG type LD, Sequence length 5, processing case 408
+0.000000 110.764698
+RNG type LD, Sequence length 5, processing case 409
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 410
+0.000000 41.390562
+RNG type LD, Sequence length 5, processing case 411
+0.000000 42.136149
+RNG type LD, Sequence length 5, processing case 412
+0.000000 45.939040
+RNG type LD, Sequence length 5, processing case 413
+0.000000 40.136699
+RNG type LD, Sequence length 5, processing case 414
+0.000000 93.949803
+RNG type LD, Sequence length 5, processing case 415
+0.000000 50.389232
+RNG type LD, Sequence length 5, processing case 416
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 417
+0.000000 81.168712
+RNG type LD, Sequence length 5, processing case 418
+0.000000 67.206631
+RNG type LD, Sequence length 5, processing case 419
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 420
+0.000000 137.340509
+RNG type LD, Sequence length 5, processing case 421
+0.000000 77.197293
+RNG type LD, Sequence length 5, processing case 422
+0.000000 65.567145
+RNG type LD, Sequence length 5, processing case 423
+0.000000 76.827224
+RNG type LD, Sequence length 5, processing case 424
+0.000000 137.865684
+RNG type LD, Sequence length 5, processing case 425
+0.000000 93.762878
+RNG type LD, Sequence length 5, processing case 426
+0.000000 96.735402
+RNG type LD, Sequence length 5, processing case 427
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 428
+0.000000 91.667508
+RNG type LD, Sequence length 5, processing case 429
+0.000000 139.203266
+RNG type LD, Sequence length 5, processing case 430
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 431
+0.000000 152.081341
+RNG type LD, Sequence length 5, processing case 432
+0.000000 151.239137
+RNG type LD, Sequence length 5, processing case 433
+0.000000 56.069636
+RNG type LD, Sequence length 5, processing case 434
+0.000000 82.655404
+RNG type LD, Sequence length 5, processing case 435
+0.000000 165.846106
+RNG type LD, Sequence length 5, processing case 436
+0.000000 154.730566
+RNG type LD, Sequence length 5, processing case 437
+0.000000 74.820132
+RNG type LD, Sequence length 5, processing case 438
+0.000000 38.487914
+RNG type LD, Sequence length 5, processing case 439
+0.000000 145.644848
+RNG type LD, Sequence length 5, processing case 440
+0.000000 62.240692
+RNG type LD, Sequence length 5, processing case 441
+0.000000 129.284784
+RNG type LD, Sequence length 5, processing case 442
+0.000000 109.084743
+RNG type LD, Sequence length 5, processing case 443
+0.000000 161.396978
+RNG type LD, Sequence length 5, processing case 444
+0.000000 61.787241
+RNG type LD, Sequence length 5, processing case 445
+0.000000 134.554785
+RNG type LD, Sequence length 5, processing case 446
+0.000000 108.266166
+RNG type LD, Sequence length 5, processing case 447
+0.000000 90.749350
+RNG type LD, Sequence length 5, processing case 448
+0.000000 74.893700
+RNG type LD, Sequence length 5, processing case 449
+0.000000 78.161033
+RNG type LD, Sequence length 5, processing case 450
+0.000000 99.862104
+RNG type LD, Sequence length 5, processing case 451
+0.000000 45.089734
+RNG type LD, Sequence length 5, processing case 452
+0.000000 109.146677
+RNG type LD, Sequence length 5, processing case 453
+0.000000 74.754841
+RNG type LD, Sequence length 5, processing case 454
+0.000000 60.955261
+RNG type LD, Sequence length 5, processing case 455
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 456
+0.000000 81.649709
+RNG type LD, Sequence length 5, processing case 457
+0.000000 136.682928
+RNG type LD, Sequence length 5, processing case 458
+0.000000 146.036332
+RNG type LD, Sequence length 5, processing case 459
+0.000000 135.945935
+RNG type LD, Sequence length 5, processing case 460
+0.000000 36.638496
+RNG type LD, Sequence length 5, processing case 461
+0.000000 94.515082
+RNG type LD, Sequence length 5, processing case 462
+0.000000 87.160812
+RNG type LD, Sequence length 5, processing case 463
+0.000000 116.225590
+RNG type LD, Sequence length 5, processing case 464
+0.000000 106.530985
+RNG type LD, Sequence length 5, processing case 465
+0.000000 158.174502
+RNG type LD, Sequence length 5, processing case 466
+0.000000 147.930943
+RNG type LD, Sequence length 5, processing case 467
+0.000000 89.329779
+RNG type LD, Sequence length 5, processing case 468
+0.000004 12.463690
+RNG type LD, Sequence length 5, processing case 469
+0.000425 7.762728
+RNG type LD, Sequence length 5, processing case 470
+0.000000 137.930202
+RNG type LD, Sequence length 5, processing case 471
+0.000000 74.548172
+RNG type LD, Sequence length 5, processing case 472
+0.000000 127.350610
+RNG type LD, Sequence length 5, processing case 473
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 474
+0.000000 135.036188
+RNG type LD, Sequence length 5, processing case 475
+0.000000 121.040251
+RNG type LD, Sequence length 5, processing case 476
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 477
+0.000000 65.980683
+RNG type LD, Sequence length 5, processing case 478
+0.000000 30.257580
+RNG type LD, Sequence length 5, processing case 479
+0.000000 62.361229
+RNG type LD, Sequence length 5, processing case 480
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 481
+0.000000 73.317937
+RNG type LD, Sequence length 5, processing case 482
+0.000000 58.643285
+RNG type LD, Sequence length 5, processing case 483
+0.000000 50.721138
+RNG type LD, Sequence length 5, processing case 484
+0.000000 109.849697
+RNG type LD, Sequence length 5, processing case 485
+0.000000 130.382281
+RNG type LD, Sequence length 5, processing case 486
+0.000000 151.605764
+RNG type LD, Sequence length 5, processing case 487
+0.000000 79.781624
+RNG type LD, Sequence length 5, processing case 488
+0.000000 65.514508
+RNG type LD, Sequence length 5, processing case 489
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 490
+0.000000 124.269481
+RNG type LD, Sequence length 5, processing case 491
+0.000000 33.925762
+RNG type LD, Sequence length 5, processing case 492
+0.000000 51.753363
+RNG type LD, Sequence length 5, processing case 493
+0.000000 77.151570
+RNG type LD, Sequence length 5, processing case 494
+0.000000 29.255317
+RNG type LD, Sequence length 5, processing case 495
+0.000000 104.780053
+RNG type LD, Sequence length 5, processing case 496
+0.000000 68.994765
+RNG type LD, Sequence length 5, processing case 497
+0.000000 115.966814
+RNG type LD, Sequence length 5, processing case 498
+0.000000 135.590102
+RNG type LD, Sequence length 5, processing case 499
+0.000000 164.264499
+RNG type LD, Sequence length 5, processing case 500
+0.000000 92.739046
+RNG type LD, Sequence length 5, processing case 501
+0.000000 45.625926
+RNG type LD, Sequence length 5, processing case 502
+0.000000 51.772895
+RNG type LD, Sequence length 5, processing case 503
+0.000000 53.375713
+RNG type LD, Sequence length 5, processing case 504
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 505
+0.000000 96.608649
+RNG type LD, Sequence length 5, processing case 506
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 507
+0.000000 114.228784
+RNG type LD, Sequence length 5, processing case 508
+0.000000 122.321092
+RNG type LD, Sequence length 5, processing case 509
+0.000000 24.335869
+RNG type LD, Sequence length 5, processing case 510
+0.001077 6.833827
+RNG type LD, Sequence length 5, processing case 511
+0.000000 138.929167
+RNG type LD, Sequence length 5, processing case 512
+0.000000 81.535307
+RNG type LD, Sequence length 5, processing case 513
+0.000000 80.252890
+RNG type LD, Sequence length 5, processing case 514
+0.000000 165.274606
+RNG type LD, Sequence length 5, processing case 515
+0.000000 95.273154
+RNG type LD, Sequence length 5, processing case 516
+0.000000 61.975755
+RNG type LD, Sequence length 5, processing case 517
+0.000000 135.410304
+RNG type LD, Sequence length 5, processing case 518
+0.000000 21.184555
+RNG type LD, Sequence length 5, processing case 519
+0.000000 104.749804
+RNG type LD, Sequence length 5, processing case 520
+0.000000 171.210841
+RNG type LD, Sequence length 5, processing case 521
+0.000000 91.659319
+RNG type LD, Sequence length 5, processing case 522
+0.000000 45.392462
+RNG type LD, Sequence length 5, processing case 523
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 524
+0.000000 109.824880
+RNG type LD, Sequence length 5, processing case 525
+0.000000 134.053527
+RNG type LD, Sequence length 5, processing case 526
+0.000000 79.569797
+RNG type LD, Sequence length 5, processing case 527
+0.000000 109.919034
+RNG type LD, Sequence length 5, processing case 528
+0.000000 116.785497
+RNG type LD, Sequence length 5, processing case 529
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 530
+0.000000 74.401635
+RNG type LD, Sequence length 5, processing case 531
+0.000000 123.002065
+RNG type LD, Sequence length 5, processing case 532
+0.000000 99.511935
+RNG type LD, Sequence length 5, processing case 533
+0.000000 104.717883
+RNG type LD, Sequence length 5, processing case 534
+0.000000 123.165076
+RNG type LD, Sequence length 5, processing case 535
+0.000000 141.316827
+RNG type LD, Sequence length 5, processing case 536
+0.000000 119.963691
+RNG type LD, Sequence length 5, processing case 537
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 538
+0.000000 165.111913
+RNG type LD, Sequence length 5, processing case 539
+0.000000 43.640112
+RNG type LD, Sequence length 5, processing case 540
+0.000000 27.839559
+RNG type LD, Sequence length 5, processing case 541
+0.000000 96.809927
+RNG type LD, Sequence length 5, processing case 542
+0.000000 197.106392
+RNG type LD, Sequence length 5, processing case 543
+0.000000 202.258747
+RNG type LD, Sequence length 5, processing case 544
+0.000000 112.332868
+RNG type LD, Sequence length 5, processing case 545
+0.000000 137.772430
+RNG type LD, Sequence length 5, processing case 546
+0.000000 124.902782
+RNG type LD, Sequence length 5, processing case 547
+0.000000 68.950667
+RNG type LD, Sequence length 5, processing case 548
+0.000000 122.100007
+RNG type LD, Sequence length 5, processing case 549
+0.000000 62.212361
+RNG type LD, Sequence length 5, processing case 550
+0.000000 44.371663
+RNG type LD, Sequence length 5, processing case 551
+0.000000 52.370939
+RNG type LD, Sequence length 5, processing case 552
+0.000000 93.041715
+RNG type LD, Sequence length 5, processing case 553
+0.000000 136.907595
+RNG type LD, Sequence length 5, processing case 554
+0.000000 39.476253
+RNG type LD, Sequence length 5, processing case 555
+0.000000 119.996793
+RNG type LD, Sequence length 5, processing case 556
+0.000000 119.414376
+RNG type LD, Sequence length 5, processing case 557
+0.000000 44.172361
+RNG type LD, Sequence length 5, processing case 558
+0.000000 86.793879
+RNG type LD, Sequence length 5, processing case 559
+0.000000 111.666920
+RNG type LD, Sequence length 5, processing case 560
+0.000000 74.525764
+RNG type LD, Sequence length 5, processing case 561
+0.000000 123.239576
+RNG type LD, Sequence length 5, processing case 562
+0.000000 70.489083
+RNG type LD, Sequence length 5, processing case 563
+0.000000 160.030621
+RNG type LD, Sequence length 5, processing case 564
+0.000000 116.093725
+RNG type LD, Sequence length 5, processing case 565
+0.000000 79.236053
+RNG type LD, Sequence length 5, processing case 566
+0.000000 160.040103
+RNG type LD, Sequence length 5, processing case 567
+0.000000 142.214038
+RNG type LD, Sequence length 5, processing case 568
+0.000000 129.901623
+RNG type LD, Sequence length 5, processing case 569
+0.000000 116.016041
+RNG type LD, Sequence length 5, processing case 570
+0.000000 36.413791
+RNG type LD, Sequence length 5, processing case 571
+0.000000 93.395166
+RNG type LD, Sequence length 5, processing case 572
+0.000000 151.260645
+RNG type LD, Sequence length 5, processing case 573
+0.000000 106.234401
+RNG type LD, Sequence length 5, processing case 574
+0.000000 85.907136
+RNG type LD, Sequence length 5, processing case 575
+0.000000 65.580115
+RNG type LD, Sequence length 5, processing case 576
+0.000000 88.039514
+RNG type LD, Sequence length 5, processing case 577
+0.000000 86.369546
+RNG type LD, Sequence length 5, processing case 578
+0.000000 87.325048
+RNG type LD, Sequence length 5, processing case 579
+0.000000 35.320614
+RNG type LD, Sequence length 5, processing case 580
+0.000000 133.929679
+RNG type LD, Sequence length 5, processing case 581
+0.000000 120.648317
+RNG type LD, Sequence length 5, processing case 582
+0.000000 142.169712
+RNG type LD, Sequence length 5, processing case 583
+0.000000 52.917014
+RNG type LD, Sequence length 5, processing case 584
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 585
+0.000000 47.129115
+RNG type LD, Sequence length 5, processing case 586
+0.000000 129.755999
+RNG type LD, Sequence length 5, processing case 587
+0.000000 125.296525
+RNG type LD, Sequence length 5, processing case 588
+0.000000 19.372267
+RNG type LD, Sequence length 5, processing case 589
+0.000000 114.177663
+RNG type LD, Sequence length 5, processing case 590
+0.000000 67.770338
+RNG type LD, Sequence length 5, processing case 591
+0.000000 166.808176
+RNG type LD, Sequence length 5, processing case 592
+0.000000 100.229809
+RNG type LD, Sequence length 5, processing case 593
+0.000000 76.815933
+RNG type LD, Sequence length 5, processing case 594
+0.000000 140.638790
+RNG type LD, Sequence length 5, processing case 595
+0.000000 109.280398
+RNG type LD, Sequence length 5, processing case 596
+0.000000 158.899930
+RNG type LD, Sequence length 5, processing case 597
+0.000000 101.949274
+RNG type LD, Sequence length 5, processing case 598
+0.000000 67.466948
+RNG type LD, Sequence length 5, processing case 599
+0.000000 45.501294
+RNG type LD, Sequence length 5, processing case 600
+0.000000 133.256984
+RNG type LD, Sequence length 5, processing case 601
+0.000000 171.452681
+RNG type LD, Sequence length 5, processing case 602
+0.000000 141.597063
+RNG type LD, Sequence length 5, processing case 603
+0.000000 153.798889
+RNG type LD, Sequence length 5, processing case 604
+0.000000 29.894042
+RNG type LD, Sequence length 5, processing case 605
+0.000000 27.552035
+RNG type LD, Sequence length 5, processing case 606
+0.000000 159.032209
+RNG type LD, Sequence length 5, processing case 607
+0.000000 142.250950
+RNG type LD, Sequence length 5, processing case 608
+0.000000 140.331859
+RNG type LD, Sequence length 5, processing case 609
+0.000000 79.534418
+RNG type LD, Sequence length 5, processing case 610
+0.000000 93.524062
+RNG type LD, Sequence length 5, processing case 611
+0.000000 104.040306
+RNG type LD, Sequence length 5, processing case 612
+0.000000 94.848614
+RNG type LD, Sequence length 5, processing case 613
+0.000000 85.612985
+RNG type LD, Sequence length 5, processing case 614
+0.000000 123.410810
+RNG type LD, Sequence length 5, processing case 615
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 616
+0.000000 70.487467
+RNG type LD, Sequence length 5, processing case 617
+0.000000 23.984921
+RNG type LD, Sequence length 5, processing case 618
+0.000000 21.448058
+RNG type LD, Sequence length 5, processing case 619
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 620
+0.000000 113.889661
+RNG type LD, Sequence length 5, processing case 621
+0.000000 149.003535
+RNG type LD, Sequence length 5, processing case 622
+0.000000 102.911231
+RNG type LD, Sequence length 5, processing case 623
+0.000000 137.850948
+RNG type LD, Sequence length 5, processing case 624
+0.000000 84.750775
+RNG type LD, Sequence length 5, processing case 625
+0.000000 98.013609
+RNG type LD, Sequence length 5, processing case 626
+0.000000 29.268533
+RNG type LD, Sequence length 5, processing case 627
+0.000000 81.898238
+RNG type LD, Sequence length 5, processing case 628
+0.000000 114.213254
+RNG type LD, Sequence length 5, processing case 629
+0.000000 80.934930
+RNG type LD, Sequence length 5, processing case 630
+0.000000 65.268019
+RNG type LD, Sequence length 5, processing case 631
+0.000000 139.508075
+RNG type LD, Sequence length 5, processing case 632
+0.000000 73.367008
+RNG type LD, Sequence length 5, processing case 633
+0.000000 72.617485
+RNG type LD, Sequence length 5, processing case 634
+0.000000 45.272092
+RNG type LD, Sequence length 5, processing case 635
+0.000000 81.435335
+RNG type LD, Sequence length 5, processing case 636
+0.000000 40.967128
+RNG type LD, Sequence length 5, processing case 637
+0.000000 118.842505
+RNG type LD, Sequence length 5, processing case 638
+0.000000 48.580642
+RNG type LD, Sequence length 5, processing case 639
+0.000000 79.110840
+RNG type LD, Sequence length 5, processing case 640
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 641
+0.000000 149.042045
+RNG type LD, Sequence length 5, processing case 642
+0.000000 115.478154
+RNG type LD, Sequence length 5, processing case 643
+0.000000 82.174125
+RNG type LD, Sequence length 5, processing case 644
+0.000000 114.959864
+RNG type LD, Sequence length 5, processing case 645
+0.000000 42.283189
+RNG type LD, Sequence length 5, processing case 646
+0.000000 102.824714
+RNG type LD, Sequence length 5, processing case 647
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 648
+0.000000 82.846028
+RNG type LD, Sequence length 5, processing case 649
+0.000000 51.670487
+RNG type LD, Sequence length 5, processing case 650
+0.000000 134.689524
+RNG type LD, Sequence length 5, processing case 651
+0.000000 36.756145
+RNG type LD, Sequence length 5, processing case 652
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 653
+0.000000 92.913114
+RNG type LD, Sequence length 5, processing case 654
+0.000000 19.751093
+RNG type LD, Sequence length 5, processing case 655
+0.000000 114.077493
+RNG type LD, Sequence length 5, processing case 656
+0.000000 93.614592
+RNG type LD, Sequence length 5, processing case 657
+0.000000 95.170064
+RNG type LD, Sequence length 5, processing case 658
+0.000000 28.461242
+RNG type LD, Sequence length 5, processing case 659
+0.000000 83.405758
+RNG type LD, Sequence length 5, processing case 660
+0.000000 113.017486
+RNG type LD, Sequence length 5, processing case 661
+0.000000 134.241576
+RNG type LD, Sequence length 5, processing case 662
+0.000000 77.513883
+RNG type LD, Sequence length 5, processing case 663
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 664
+0.000000 145.337919
+RNG type LD, Sequence length 5, processing case 665
+0.000000 120.891378
+RNG type LD, Sequence length 5, processing case 666
+0.000000 31.665942
+RNG type LD, Sequence length 5, processing case 667
+0.000000 49.773705
+RNG type LD, Sequence length 5, processing case 668
+0.000000 206.843045
+RNG type LD, Sequence length 5, processing case 669
+0.000000 119.450286
+RNG type LD, Sequence length 5, processing case 670
+0.000000 125.242665
+RNG type LD, Sequence length 5, processing case 671
+0.000000 42.475471
+RNG type LD, Sequence length 5, processing case 672
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 673
+0.000000 77.900282
+RNG type LD, Sequence length 5, processing case 674
+0.000000 41.801810
+RNG type LD, Sequence length 5, processing case 675
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 676
+0.000000 23.132580
+RNG type LD, Sequence length 5, processing case 677
+0.000000 77.695386
+RNG type LD, Sequence length 5, processing case 678
+0.000000 54.382758
+RNG type LD, Sequence length 5, processing case 679
+0.000000 49.512035
+RNG type LD, Sequence length 5, processing case 680
+0.000000 112.330790
+RNG type LD, Sequence length 5, processing case 681
+0.000000 51.709332
+RNG type LD, Sequence length 5, processing case 682
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 683
+0.000000 123.258397
+RNG type LD, Sequence length 5, processing case 684
+0.000000 64.746727
+RNG type LD, Sequence length 5, processing case 685
+0.000000 176.660432
+RNG type LD, Sequence length 5, processing case 686
+0.000000 94.002605
+RNG type LD, Sequence length 5, processing case 687
+0.000000 112.683362
+RNG type LD, Sequence length 5, processing case 688
+0.000000 141.359719
+RNG type LD, Sequence length 5, processing case 689
+0.000000 47.802842
+RNG type LD, Sequence length 5, processing case 690
+0.000000 48.612294
+RNG type LD, Sequence length 5, processing case 691
+0.000000 156.490220
+RNG type LD, Sequence length 5, processing case 692
+0.000000 47.110243
+RNG type LD, Sequence length 5, processing case 693
+0.000000 148.479750
+RNG type LD, Sequence length 5, processing case 694
+0.000000 54.262277
+RNG type LD, Sequence length 5, processing case 695
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 696
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 697
+0.000000 113.577837
+RNG type LD, Sequence length 5, processing case 698
+0.000000 131.520543
+RNG type LD, Sequence length 5, processing case 699
+0.000000 117.478523
+RNG type LD, Sequence length 5, processing case 700
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 701
+0.000000 98.590437
+RNG type LD, Sequence length 5, processing case 702
+0.000000 45.229358
+RNG type LD, Sequence length 5, processing case 703
+0.000000 46.424550
+RNG type LD, Sequence length 5, processing case 704
+0.000000 128.973605
+RNG type LD, Sequence length 5, processing case 705
+0.000000 44.825143
+RNG type LD, Sequence length 5, processing case 706
+0.000000 75.313267
+RNG type LD, Sequence length 5, processing case 707
+0.000000 92.821404
+RNG type LD, Sequence length 5, processing case 708
+0.000000 102.023293
+RNG type LD, Sequence length 5, processing case 709
+0.000000 139.170626
+RNG type LD, Sequence length 5, processing case 710
+0.000000 32.181158
+RNG type LD, Sequence length 5, processing case 711
+0.000000 52.829368
+RNG type LD, Sequence length 5, processing case 712
+0.000000 90.613306
+RNG type LD, Sequence length 5, processing case 713
+0.000000 126.390589
+RNG type LD, Sequence length 5, processing case 714
+0.000000 148.447641
+RNG type LD, Sequence length 5, processing case 715
+0.000000 69.860256
+RNG type LD, Sequence length 5, processing case 716
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 717
+0.000000 125.824240
+RNG type LD, Sequence length 5, processing case 718
+0.000000 138.606066
+RNG type LD, Sequence length 5, processing case 719
+0.000000 141.833391
+RNG type LD, Sequence length 5, processing case 720
+0.000081 9.421946
+RNG type LD, Sequence length 5, processing case 721
+0.000000 134.263707
+RNG type LD, Sequence length 5, processing case 722
+0.000000 114.717110
+RNG type LD, Sequence length 5, processing case 723
+0.000000 119.708569
+RNG type LD, Sequence length 5, processing case 724
+0.000000 145.060282
+RNG type LD, Sequence length 5, processing case 725
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 726
+0.000000 69.044549
+RNG type LD, Sequence length 5, processing case 727
+0.000000 92.557245
+RNG type LD, Sequence length 5, processing case 728
+0.000000 73.316152
+RNG type LD, Sequence length 5, processing case 729
+0.000000 130.979394
+RNG type LD, Sequence length 5, processing case 730
+0.000000 48.197194
+RNG type LD, Sequence length 5, processing case 731
+0.000000 56.208060
+RNG type LD, Sequence length 5, processing case 732
+0.000000 119.351744
+RNG type LD, Sequence length 5, processing case 733
+0.000000 71.060967
+RNG type LD, Sequence length 5, processing case 734
+0.000000 122.223869
+RNG type LD, Sequence length 5, processing case 735
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 736
+0.000000 102.501925
+RNG type LD, Sequence length 5, processing case 737
+0.000000 150.487064
+RNG type LD, Sequence length 5, processing case 738
+0.000000 85.364498
+RNG type LD, Sequence length 5, processing case 739
+0.000000 52.537937
+RNG type LD, Sequence length 5, processing case 740
+0.000000 87.952623
+RNG type LD, Sequence length 5, processing case 741
+0.000000 74.060825
+RNG type LD, Sequence length 5, processing case 742
+0.000000 99.023251
+RNG type LD, Sequence length 5, processing case 743
+0.000000 144.356868
+RNG type LD, Sequence length 5, processing case 744
+0.000000 73.445843
+RNG type LD, Sequence length 5, processing case 745
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 746
+0.000000 45.176176
+RNG type LD, Sequence length 5, processing case 747
+0.000000 93.413671
+RNG type LD, Sequence length 5, processing case 748
+0.000000 90.669060
+RNG type LD, Sequence length 5, processing case 749
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 750
+0.000000 117.175773
+RNG type LD, Sequence length 5, processing case 751
+0.000000 31.838676
+RNG type LD, Sequence length 5, processing case 752
+0.000000 105.055153
+RNG type LD, Sequence length 5, processing case 753
+0.000000 100.891155
+RNG type LD, Sequence length 5, processing case 754
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 755
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 756
+0.000000 49.093777
+RNG type LD, Sequence length 5, processing case 757
+0.000000 115.556901
+RNG type LD, Sequence length 5, processing case 758
+0.000000 61.190259
+RNG type LD, Sequence length 5, processing case 759
+0.000000 72.844994
+RNG type LD, Sequence length 5, processing case 760
+0.000000 112.391695
+RNG type LD, Sequence length 5, processing case 761
+0.000000 133.209549
+RNG type LD, Sequence length 5, processing case 762
+0.000000 116.780033
+RNG type LD, Sequence length 5, processing case 763
+0.000000 130.612326
+RNG type LD, Sequence length 5, processing case 764
+0.000000 65.051770
+RNG type LD, Sequence length 5, processing case 765
+0.000000 113.100638
+RNG type LD, Sequence length 5, processing case 766
+0.000000 27.856066
+RNG type LD, Sequence length 5, processing case 767
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 768
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 769
+0.000000 145.244247
+RNG type LD, Sequence length 5, processing case 770
+0.000000 107.787714
+RNG type LD, Sequence length 5, processing case 771
+0.000000 32.016086
+RNG type LD, Sequence length 5, processing case 772
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 773
+0.000000 67.331649
+RNG type LD, Sequence length 5, processing case 774
+0.000000 110.678586
+RNG type LD, Sequence length 5, processing case 775
+0.000000 64.747004
+RNG type LD, Sequence length 5, processing case 776
+0.000000 138.172096
+RNG type LD, Sequence length 5, processing case 777
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 778
+0.000009 11.601827
+RNG type LD, Sequence length 5, processing case 779
+0.000000 37.790571
+RNG type LD, Sequence length 5, processing case 780
+0.000000 83.414176
+RNG type LD, Sequence length 5, processing case 781
+0.000000 170.680962
+RNG type LD, Sequence length 5, processing case 782
+0.000000 97.087031
+RNG type LD, Sequence length 5, processing case 783
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 784
+0.000000 126.817866
+RNG type LD, Sequence length 5, processing case 785
+0.000000 20.291023
+RNG type LD, Sequence length 5, processing case 786
+0.000000 125.810662
+RNG type LD, Sequence length 5, processing case 787
+0.000000 124.781312
+RNG type LD, Sequence length 5, processing case 788
+0.000000 79.086758
+RNG type LD, Sequence length 5, processing case 789
+0.000000 120.954795
+RNG type LD, Sequence length 5, processing case 790
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 791
+0.000005 12.233966
+RNG type LD, Sequence length 5, processing case 792
+0.000000 41.801240
+RNG type LD, Sequence length 5, processing case 793
+0.000000 132.153380
+RNG type LD, Sequence length 5, processing case 794
+0.000000 123.430809
+RNG type LD, Sequence length 5, processing case 795
+0.000000 116.351491
+RNG type LD, Sequence length 5, processing case 796
+0.000000 60.945561
+RNG type LD, Sequence length 5, processing case 797
+0.000000 45.796771
+RNG type LD, Sequence length 5, processing case 798
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 799
+0.000000 79.247560
+RNG type LD, Sequence length 5, processing case 800
+0.000000 145.200292
+RNG type LD, Sequence length 5, processing case 801
+0.000000 65.285811
+RNG type LD, Sequence length 5, processing case 802
+0.000000 117.286245
+RNG type LD, Sequence length 5, processing case 803
+0.000000 136.462566
+RNG type LD, Sequence length 5, processing case 804
+0.000000 106.859528
+RNG type LD, Sequence length 5, processing case 805
+0.000000 137.385434
+RNG type LD, Sequence length 5, processing case 806
+0.000000 133.633197
+RNG type LD, Sequence length 5, processing case 807
+0.000000 86.069042
+RNG type LD, Sequence length 5, processing case 808
+0.000000 93.324006
+RNG type LD, Sequence length 5, processing case 809
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 810
+0.000000 14.828501
+RNG type LD, Sequence length 5, processing case 811
+0.000000 83.164900
+RNG type LD, Sequence length 5, processing case 812
+0.000000 34.504602
+RNG type LD, Sequence length 5, processing case 813
+0.000000 59.753352
+RNG type LD, Sequence length 5, processing case 814
+0.000000 141.729951
+RNG type LD, Sequence length 5, processing case 815
+0.000000 86.161032
+RNG type LD, Sequence length 5, processing case 816
+0.000000 68.427911
+RNG type LD, Sequence length 5, processing case 817
+0.000000 118.799364
+RNG type LD, Sequence length 5, processing case 818
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 819
+0.000000 70.949915
+RNG type LD, Sequence length 5, processing case 820
+0.000000 114.113562
+RNG type LD, Sequence length 5, processing case 821
+0.000000 146.569320
+RNG type LD, Sequence length 5, processing case 822
+0.000000 40.508495
+RNG type LD, Sequence length 5, processing case 823
+0.000000 40.540570
+RNG type LD, Sequence length 5, processing case 824
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 825
+0.000000 45.069034
+RNG type LD, Sequence length 5, processing case 826
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 827
+0.000000 136.016108
+RNG type LD, Sequence length 5, processing case 828
+0.000000 73.229402
+RNG type LD, Sequence length 5, processing case 829
+0.000000 118.526565
+RNG type LD, Sequence length 5, processing case 830
+0.000000 76.152170
+RNG type LD, Sequence length 5, processing case 831
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 832
+0.000000 34.928475
+RNG type LD, Sequence length 5, processing case 833
+0.000000 78.051632
+RNG type LD, Sequence length 5, processing case 834
+0.000000 149.170282
+RNG type LD, Sequence length 5, processing case 835
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 836
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 837
+0.000000 94.992092
+RNG type LD, Sequence length 5, processing case 838
+0.000000 116.062568
+RNG type LD, Sequence length 5, processing case 839
+0.000000 139.620001
+RNG type LD, Sequence length 5, processing case 840
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 841
+0.000000 40.041560
+RNG type LD, Sequence length 5, processing case 842
+0.000000 42.209386
+RNG type LD, Sequence length 5, processing case 843
+0.000000 134.897313
+RNG type LD, Sequence length 5, processing case 844
+0.000000 180.340484
+RNG type LD, Sequence length 5, processing case 845
+0.000000 109.384317
+RNG type LD, Sequence length 5, processing case 846
+0.000000 44.003214
+RNG type LD, Sequence length 5, processing case 847
+0.000000 97.669682
+RNG type LD, Sequence length 5, processing case 848
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 849
+0.000000 74.043711
+RNG type LD, Sequence length 5, processing case 850
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 851
+0.000000 119.669613
+RNG type LD, Sequence length 5, processing case 852
+0.000000 48.417866
+RNG type LD, Sequence length 5, processing case 853
+0.000000 38.174238
+RNG type LD, Sequence length 5, processing case 854
+0.000000 112.158842
+RNG type LD, Sequence length 5, processing case 855
+0.000000 97.903329
+RNG type LD, Sequence length 5, processing case 856
+0.000000 33.705492
+RNG type LD, Sequence length 5, processing case 857
+0.000000 38.997726
+RNG type LD, Sequence length 5, processing case 858
+0.000000 61.896309
+RNG type LD, Sequence length 5, processing case 859
+0.000000 35.384451
+RNG type LD, Sequence length 5, processing case 860
+0.000000 113.584687
+RNG type LD, Sequence length 5, processing case 861
+0.000000 128.083416
+RNG type LD, Sequence length 5, processing case 862
+0.000000 57.101763
+RNG type LD, Sequence length 5, processing case 863
+0.000000 60.876250
+RNG type LD, Sequence length 5, processing case 864
+0.000000 87.608969
+RNG type LD, Sequence length 5, processing case 865
+0.000000 104.347214
+RNG type LD, Sequence length 5, processing case 866
+0.000000 34.179819
+RNG type LD, Sequence length 5, processing case 867
+0.000000 91.569590
+RNG type LD, Sequence length 5, processing case 868
+0.000000 64.523041
+RNG type LD, Sequence length 5, processing case 869
+0.000000 36.805119
+RNG type LD, Sequence length 5, processing case 870
+0.000000 135.113450
+RNG type LD, Sequence length 5, processing case 871
+0.000000 98.711829
+RNG type LD, Sequence length 5, processing case 872
+0.000000 152.226943
+RNG type LD, Sequence length 5, processing case 873
+0.000000 88.202521
+RNG type LD, Sequence length 5, processing case 874
+0.000000 98.590318
+RNG type LD, Sequence length 5, processing case 875
+0.000000 64.191588
+RNG type LD, Sequence length 5, processing case 876
+0.000000 119.759589
+RNG type LD, Sequence length 5, processing case 877
+0.000000 122.385119
+RNG type LD, Sequence length 5, processing case 878
+0.000000 106.379479
+RNG type LD, Sequence length 5, processing case 879
+0.000000 131.805035
+RNG type LD, Sequence length 5, processing case 880
+0.000000 35.224254
+RNG type LD, Sequence length 5, processing case 881
+0.000000 98.100904
+RNG type LD, Sequence length 5, processing case 882
+0.000000 99.180750
+RNG type LD, Sequence length 5, processing case 883
+0.000000 121.152763
+RNG type LD, Sequence length 5, processing case 884
+0.000000 119.401731
+RNG type LD, Sequence length 5, processing case 885
+0.000000 141.799894
+RNG type LD, Sequence length 5, processing case 886
+0.000000 132.152179
+RNG type LD, Sequence length 5, processing case 887
+0.000000 96.576586
+RNG type LD, Sequence length 5, processing case 888
+0.000000 64.224863
+RNG type LD, Sequence length 5, processing case 889
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 890
+0.000000 109.233512
+RNG type LD, Sequence length 5, processing case 891
+0.000000 87.457396
+RNG type LD, Sequence length 5, processing case 892
+0.000000 84.256268
+RNG type LD, Sequence length 5, processing case 893
+0.000000 59.645111
+RNG type LD, Sequence length 5, processing case 894
+0.000000 61.858537
+RNG type LD, Sequence length 5, processing case 895
+0.000000 97.455602
+RNG type LD, Sequence length 5, processing case 896
+0.000000 138.153794
+RNG type LD, Sequence length 5, processing case 897
+0.000000 32.044268
+RNG type LD, Sequence length 5, processing case 898
+0.000000 47.583350
+RNG type LD, Sequence length 5, processing case 899
+0.000000 128.631849
+RNG type LD, Sequence length 5, processing case 900
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 901
+0.000000 132.724922
+RNG type LD, Sequence length 5, processing case 902
+0.000000 100.102244
+RNG type LD, Sequence length 5, processing case 903
+0.000000 109.212426
+RNG type LD, Sequence length 5, processing case 904
+0.000000 106.651085
+RNG type LD, Sequence length 5, processing case 905
+0.000000 80.769532
+RNG type LD, Sequence length 5, processing case 906
+0.000000 61.329812
+RNG type LD, Sequence length 5, processing case 907
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 908
+0.000000 120.521988
+RNG type LD, Sequence length 5, processing case 909
+0.000000 50.530366
+RNG type LD, Sequence length 5, processing case 910
+0.000000 130.103889
+RNG type LD, Sequence length 5, processing case 911
+0.000000 38.104575
+RNG type LD, Sequence length 5, processing case 912
+0.000000 67.375916
+RNG type LD, Sequence length 5, processing case 913
+0.000000 51.819893
+RNG type LD, Sequence length 5, processing case 914
+0.000000 157.648655
+RNG type LD, Sequence length 5, processing case 915
+0.000000 170.552381
+RNG type LD, Sequence length 5, processing case 916
+0.000000 134.895599
+RNG type LD, Sequence length 5, processing case 917
+0.000000 48.702819
+RNG type LD, Sequence length 5, processing case 918
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 919
+0.000000 119.453706
+RNG type LD, Sequence length 5, processing case 920
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 921
+0.000000 51.378069
+RNG type LD, Sequence length 5, processing case 922
+0.000000 70.570990
+RNG type LD, Sequence length 5, processing case 923
+0.000000 56.161818
+RNG type LD, Sequence length 5, processing case 924
+0.000000 63.657740
+RNG type LD, Sequence length 5, processing case 925
+0.000000 92.396852
+RNG type LD, Sequence length 5, processing case 926
+0.000000 71.658777
+RNG type LD, Sequence length 5, processing case 927
+0.000000 84.623513
+RNG type LD, Sequence length 5, processing case 928
+0.000000 69.765475
+RNG type LD, Sequence length 5, processing case 929
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 930
+0.000000 54.513536
+RNG type LD, Sequence length 5, processing case 931
+0.000000 144.257302
+RNG type LD, Sequence length 5, processing case 932
+0.000000 133.402934
+RNG type LD, Sequence length 5, processing case 933
+0.000000 89.049646
+RNG type LD, Sequence length 5, processing case 934
+0.000000 34.360613
+RNG type LD, Sequence length 5, processing case 935
+0.000000 51.739523
+RNG type LD, Sequence length 5, processing case 936
+0.000000 147.463764
+RNG type LD, Sequence length 5, processing case 937
+0.000000 109.095151
+RNG type LD, Sequence length 5, processing case 938
+0.000000 88.142151
+RNG type LD, Sequence length 5, processing case 939
+0.000000 71.502152
+RNG type LD, Sequence length 5, processing case 940
+0.000000 122.513198
+RNG type LD, Sequence length 5, processing case 941
+0.000000 37.094582
+RNG type LD, Sequence length 5, processing case 942
+0.000000 135.650211
+RNG type LD, Sequence length 5, processing case 943
+0.000000 142.342596
+RNG type LD, Sequence length 5, processing case 944
+0.000000 117.609341
+RNG type LD, Sequence length 5, processing case 945
+0.000000 79.958212
+RNG type LD, Sequence length 5, processing case 946
+0.000000 41.893397
+RNG type LD, Sequence length 5, processing case 947
+0.000000 120.365401
+RNG type LD, Sequence length 5, processing case 948
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 949
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 950
+0.000000 39.534746
+RNG type LD, Sequence length 5, processing case 951
+0.000000 25.580814
+RNG type LD, Sequence length 5, processing case 952
+0.000000 158.339207
+RNG type LD, Sequence length 5, processing case 953
+0.000000 105.229534
+RNG type LD, Sequence length 5, processing case 954
+0.000000 92.656432
+RNG type LD, Sequence length 5, processing case 955
+0.000000 40.077174
+RNG type LD, Sequence length 5, processing case 956
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 957
+0.000000 66.877752
+RNG type LD, Sequence length 5, processing case 958
+0.000000 108.918626
+RNG type LD, Sequence length 5, processing case 959
+0.000000 153.296820
+RNG type LD, Sequence length 5, processing case 960
+0.000000 44.221141
+RNG type LD, Sequence length 5, processing case 961
+0.000000 138.237633
+RNG type LD, Sequence length 5, processing case 962
+0.000000 113.012564
+RNG type LD, Sequence length 5, processing case 963
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 964
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 965
+0.000000 134.437264
+RNG type LD, Sequence length 5, processing case 966
+0.000000 85.560023
+RNG type LD, Sequence length 5, processing case 967
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 968
+0.000000 132.659299
+RNG type LD, Sequence length 5, processing case 969
+0.000000 137.550772
+RNG type LD, Sequence length 5, processing case 970
+0.000000 18.807271
+RNG type LD, Sequence length 5, processing case 971
+0.000000 106.000040
+RNG type LD, Sequence length 5, processing case 972
+0.000000 110.170482
+RNG type LD, Sequence length 5, processing case 973
+0.000000 131.983524
+RNG type LD, Sequence length 5, processing case 974
+0.000000 84.029560
+RNG type LD, Sequence length 5, processing case 975
+0.000000 61.148433
+RNG type LD, Sequence length 5, processing case 976
+0.000000 91.769665
+RNG type LD, Sequence length 5, processing case 977
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 978
+0.999289 0.000712
+RNG type LD, Sequence length 5, processing case 979
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 980
+0.000000 62.447573
+RNG type LD, Sequence length 5, processing case 981
+0.000000 116.003032
+RNG type LD, Sequence length 5, processing case 982
+0.000000 109.759082
+RNG type LD, Sequence length 5, processing case 983
+0.000000 155.925066
+RNG type LD, Sequence length 5, processing case 984
+1.000000 -0.000000
+RNG type LD, Sequence length 5, processing case 985
+0.000000 65.115185
+RNG type LD, Sequence length 5, processing case 986
+0.000000 123.785079
+RNG type LD, Sequence length 5, processing case 987
+0.000000 43.898985
+RNG type LD, Sequence length 5, processing case 988
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 989
+0.000000 124.309130
+RNG type LD, Sequence length 5, processing case 990
+0.000000 65.968130
+RNG type LD, Sequence length 5, processing case 991
+0.000000 87.516109
+RNG type LD, Sequence length 5, processing case 992
+0.000000 53.041836
+RNG type LD, Sequence length 5, processing case 993
+0.000000 119.048131
+RNG type LD, Sequence length 5, processing case 994
+1.000000 0.000000
+RNG type LD, Sequence length 5, processing case 995
+0.000000 61.775998
+RNG type LD, Sequence length 5, processing case 996
+0.000000 83.755174
+RNG type LD, Sequence length 5, processing case 997
+0.000000 92.958650
+RNG type LD, Sequence length 5, processing case 998
+0.000000 108.945016
+RNG type LD, Sequence length 5, processing case 999
+0.000000 67.134963
+overall accuracy is 12.600000%, loss is 79.957844
+0.126000 79.957844

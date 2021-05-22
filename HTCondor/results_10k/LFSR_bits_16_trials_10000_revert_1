@@ -1,0 +1,232 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type LFSR, Sequence length 16, processing case 0
+0.000000 60.303980
+RNG type LFSR, Sequence length 16, processing case 1
+0.649438 0.431648
+RNG type LFSR, Sequence length 16, processing case 2
+0.000000 31.816215
+RNG type LFSR, Sequence length 16, processing case 3
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 4
+0.998756 0.001245
+RNG type LFSR, Sequence length 16, processing case 5
+0.999974 0.000026
+RNG type LFSR, Sequence length 16, processing case 6
+0.000000 92.148291
+RNG type LFSR, Sequence length 16, processing case 7
+0.044985 3.101433
+RNG type LFSR, Sequence length 16, processing case 8
+0.148295 1.908551
+RNG type LFSR, Sequence length 16, processing case 9
+0.003639 5.615916
+RNG type LFSR, Sequence length 16, processing case 10
+0.015706 4.153743
+RNG type LFSR, Sequence length 16, processing case 11
+0.999990 0.000010
+RNG type LFSR, Sequence length 16, processing case 12
+0.999357 0.000643
+RNG type LFSR, Sequence length 16, processing case 13
+0.000000 48.860160
+RNG type LFSR, Sequence length 16, processing case 14
+0.999980 0.000020
+RNG type LFSR, Sequence length 16, processing case 15
+0.999992 0.000008
+RNG type LFSR, Sequence length 16, processing case 16
+0.995142 0.004870
+RNG type LFSR, Sequence length 16, processing case 17
+0.179234 1.719061
+RNG type LFSR, Sequence length 16, processing case 18
+0.000000 14.740441
+RNG type LFSR, Sequence length 16, processing case 19
+0.011351 4.478423
+RNG type LFSR, Sequence length 16, processing case 20
+0.656172 0.421332
+RNG type LFSR, Sequence length 16, processing case 21
+0.044274 3.117350
+RNG type LFSR, Sequence length 16, processing case 22
+0.993920 0.006099
+RNG type LFSR, Sequence length 16, processing case 23
+0.000000 21.170525
+RNG type LFSR, Sequence length 16, processing case 24
+0.997601 0.002402
+RNG type LFSR, Sequence length 16, processing case 25
+0.000000 21.179943
+RNG type LFSR, Sequence length 16, processing case 26
+0.537261 0.621271
+RNG type LFSR, Sequence length 16, processing case 27
+0.000000 26.974221
+RNG type LFSR, Sequence length 16, processing case 28
+0.000000 36.236385
+RNG type LFSR, Sequence length 16, processing case 29
+0.980990 0.019193
+RNG type LFSR, Sequence length 16, processing case 30
+0.000000 62.475002
+RNG type LFSR, Sequence length 16, processing case 31
+0.000000 66.229033
+RNG type LFSR, Sequence length 16, processing case 32
+0.000155 8.775156
+RNG type LFSR, Sequence length 16, processing case 33
+0.463480 0.768991
+RNG type LFSR, Sequence length 16, processing case 34
+0.999981 0.000019
+RNG type LFSR, Sequence length 16, processing case 35
+0.999997 0.000003
+RNG type LFSR, Sequence length 16, processing case 36
+0.140637 1.961575
+RNG type LFSR, Sequence length 16, processing case 37
+0.613654 0.488324
+RNG type LFSR, Sequence length 16, processing case 38
+0.000000 65.173868
+RNG type LFSR, Sequence length 16, processing case 39
+0.000000 57.925958
+RNG type LFSR, Sequence length 16, processing case 40
+0.000000 40.902519
+RNG type LFSR, Sequence length 16, processing case 41
+0.995058 0.004954
+RNG type LFSR, Sequence length 16, processing case 42
+0.001049 6.859462
+RNG type LFSR, Sequence length 16, processing case 43
+0.997281 0.002723
+RNG type LFSR, Sequence length 16, processing case 44
+0.000000 41.064011
+RNG type LFSR, Sequence length 16, processing case 45
+0.000000 14.933510
+RNG type LFSR, Sequence length 16, processing case 46
+0.000000 95.918886
+RNG type LFSR, Sequence length 16, processing case 47
+0.000000 19.386936
+RNG type LFSR, Sequence length 16, processing case 48
+0.000004 12.498729
+RNG type LFSR, Sequence length 16, processing case 49
+0.974666 0.025660
+RNG type LFSR, Sequence length 16, processing case 50
+0.992514 0.007514
+RNG type LFSR, Sequence length 16, processing case 51
+0.999868 0.000132
+RNG type LFSR, Sequence length 16, processing case 52
+0.016446 4.107683
+RNG type LFSR, Sequence length 16, processing case 53
+0.999994 0.000006
+RNG type LFSR, Sequence length 16, processing case 54
+0.000000 34.903385
+RNG type LFSR, Sequence length 16, processing case 55
+0.997217 0.002786
+RNG type LFSR, Sequence length 16, processing case 56
+0.394014 0.931369
+RNG type LFSR, Sequence length 16, processing case 57
+0.036446 3.311922
+RNG type LFSR, Sequence length 16, processing case 58
+0.999975 0.000025
+RNG type LFSR, Sequence length 16, processing case 59
+0.997967 0.002035
+RNG type LFSR, Sequence length 16, processing case 60
+0.000000 25.221552
+RNG type LFSR, Sequence length 16, processing case 61
+0.000000 25.646100
+RNG type LFSR, Sequence length 16, processing case 62
+0.000000 14.523595
+RNG type LFSR, Sequence length 16, processing case 63
+0.000358 7.934636
+RNG type LFSR, Sequence length 16, processing case 64
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 65
+0.000000 69.196232
+RNG type LFSR, Sequence length 16, processing case 66
+0.008784 4.734835
+RNG type LFSR, Sequence length 16, processing case 67
+0.000000 24.411898
+RNG type LFSR, Sequence length 16, processing case 68
+0.999998 0.000002
+RNG type LFSR, Sequence length 16, processing case 69
+0.954108 0.046978
+RNG type LFSR, Sequence length 16, processing case 70
+0.000000 226.288381
+RNG type LFSR, Sequence length 16, processing case 71
+0.999999 0.000001
+RNG type LFSR, Sequence length 16, processing case 72
+0.000000 30.663476
+RNG type LFSR, Sequence length 16, processing case 73
+0.000000 75.932134
+RNG type LFSR, Sequence length 16, processing case 74
+0.972277 0.028115
+RNG type LFSR, Sequence length 16, processing case 75
+0.999905 0.000095
+RNG type LFSR, Sequence length 16, processing case 76
+0.994026 0.005992
+RNG type LFSR, Sequence length 16, processing case 77
+1.000000 -0.000000
+RNG type LFSR, Sequence length 16, processing case 78
+0.963182 0.037513
+RNG type LFSR, Sequence length 16, processing case 79
+0.000000 61.147629
+RNG type LFSR, Sequence length 16, processing case 80
+0.583529 0.538661
+RNG type LFSR, Sequence length 16, processing case 81
+0.999822 0.000178
+RNG type LFSR, Sequence length 16, processing case 82
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 83
+0.998997 0.001003
+RNG type LFSR, Sequence length 16, processing case 84
+0.999681 0.000319
+RNG type LFSR, Sequence length 16, processing case 85
+0.903102 0.101920
+RNG type LFSR, Sequence length 16, processing case 86
+0.004634 5.374378
+RNG type LFSR, Sequence length 16, processing case 87
+0.964709 0.035929
+RNG type LFSR, Sequence length 16, processing case 88
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 89
+0.000000 47.513287
+RNG type LFSR, Sequence length 16, processing case 90
+0.999509 0.000491
+RNG type LFSR, Sequence length 16, processing case 91
+0.000000 23.871236
+RNG type LFSR, Sequence length 16, processing case 92
+0.003187 5.748725
+RNG type LFSR, Sequence length 16, processing case 93
+0.987848 0.012227
+RNG type LFSR, Sequence length 16, processing case 94
+0.000000 60.667559
+RNG type LFSR, Sequence length 16, processing case 95
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 96
+0.220521 1.511763
+RNG type LFSR, Sequence length 16, processing case 97
+0.000000 15.311760
+RNG type LFSR, Sequence length 16, processing case 98
+0.000005 12.218013
+RNG type LFSR, Sequence length 16, processing case 99
+0.000000 54.269460
+RNG type LFSR, Sequence length 16, processing case 100
+0.999865 0.000135
+RNG type LFSR, Sequence length 16, processing case 101
+0.998114 0.001888
+RNG type LFSR, Sequence length 16, processing case 102
+0.999984 0.000016
+RNG type LFSR, Sequence length 16, processing case 103
+0.000000 14.992701
+RNG type LFSR, Sequence length 16, processing case 104
+0.960888 0.039897
+RNG type LFSR, Sequence length 16, processing case 105
+0.000000 61.372505
+RNG type LFSR, Sequence length 16, processing case 106
+1.000000 -0.000000
+RNG type LFSR, Sequence length 16, processing case 107
+0.890136 0.116381
+RNG type LFSR, Sequence length 16, processing case 108
+0.965161 0.035461
+RNG type LFSR, Sequence length 16, processing case 109
+1.000000 0.000000
+RNG type LFSR, Sequence length 16, processing case 110
+0.999905 0.000095
+RNG type LFSR, Sequence length 16, processing case 111
+0.000000 31.963732
+RNG type LFSR, Sequence length 16, processing case 112
+0.999952 

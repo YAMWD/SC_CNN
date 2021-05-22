@@ -1,0 +1,229 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type true, Sequence length 14, processing case 0
+0.000000 127.299254
+RNG type true, Sequence length 14, processing case 1
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 2
+0.000000 54.753656
+RNG type true, Sequence length 14, processing case 3
+0.000000 121.854329
+RNG type true, Sequence length 14, processing case 4
+0.000000 26.413341
+RNG type true, Sequence length 14, processing case 5
+0.000000 61.365193
+RNG type true, Sequence length 14, processing case 6
+0.000000 48.546524
+RNG type true, Sequence length 14, processing case 7
+0.000000 138.774813
+RNG type true, Sequence length 14, processing case 8
+0.000000 60.626351
+RNG type true, Sequence length 14, processing case 9
+0.000000 166.844194
+RNG type true, Sequence length 14, processing case 10
+0.000000 142.936879
+RNG type true, Sequence length 14, processing case 11
+0.000000 50.086579
+RNG type true, Sequence length 14, processing case 12
+0.000000 142.468968
+RNG type true, Sequence length 14, processing case 13
+0.000000 114.991642
+RNG type true, Sequence length 14, processing case 14
+0.000000 26.432324
+RNG type true, Sequence length 14, processing case 15
+0.000002 13.155010
+RNG type true, Sequence length 14, processing case 16
+0.000000 162.272717
+RNG type true, Sequence length 14, processing case 17
+0.000000 110.080739
+RNG type true, Sequence length 14, processing case 18
+0.000000 116.296656
+RNG type true, Sequence length 14, processing case 19
+0.000000 61.783237
+RNG type true, Sequence length 14, processing case 20
+0.000000 152.026250
+RNG type true, Sequence length 14, processing case 21
+0.000000 29.142641
+RNG type true, Sequence length 14, processing case 22
+0.000000 65.279947
+RNG type true, Sequence length 14, processing case 23
+0.000000 61.951794
+RNG type true, Sequence length 14, processing case 24
+0.000000 32.820780
+RNG type true, Sequence length 14, processing case 25
+0.000000 80.570666
+RNG type true, Sequence length 14, processing case 26
+0.000000 136.038490
+RNG type true, Sequence length 14, processing case 27
+0.000000 33.524604
+RNG type true, Sequence length 14, processing case 28
+0.000000 49.506993
+RNG type true, Sequence length 14, processing case 29
+0.000000 82.078289
+RNG type true, Sequence length 14, processing case 30
+0.000000 114.544927
+RNG type true, Sequence length 14, processing case 31
+0.000000 48.529546
+RNG type true, Sequence length 14, processing case 32
+0.000000 107.967959
+RNG type true, Sequence length 14, processing case 33
+0.000001 13.467361
+RNG type true, Sequence length 14, processing case 34
+0.000000 121.766710
+RNG type true, Sequence length 14, processing case 35
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 36
+0.000000 98.223476
+RNG type true, Sequence length 14, processing case 37
+0.000000 74.054366
+RNG type true, Sequence length 14, processing case 38
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 39
+0.000000 82.482624
+RNG type true, Sequence length 14, processing case 40
+0.000000 58.825160
+RNG type true, Sequence length 14, processing case 41
+0.000000 81.331974
+RNG type true, Sequence length 14, processing case 42
+0.000000 54.550821
+RNG type true, Sequence length 14, processing case 43
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 44
+0.000000 132.736549
+RNG type true, Sequence length 14, processing case 45
+0.000000 64.965220
+RNG type true, Sequence length 14, processing case 46
+0.000000 67.561414
+RNG type true, Sequence length 14, processing case 47
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 48
+0.000000 47.231777
+RNG type true, Sequence length 14, processing case 49
+0.000000 43.644216
+RNG type true, Sequence length 14, processing case 50
+0.000000 75.014381
+RNG type true, Sequence length 14, processing case 51
+0.000000 109.489263
+RNG type true, Sequence length 14, processing case 52
+0.000000 36.948566
+RNG type true, Sequence length 14, processing case 53
+0.000000 63.464484
+RNG type true, Sequence length 14, processing case 54
+0.004318 5.444998
+RNG type true, Sequence length 14, processing case 55
+0.000000 118.610378
+RNG type true, Sequence length 14, processing case 56
+0.000000 57.300900
+RNG type true, Sequence length 14, processing case 57
+0.000000 63.202263
+RNG type true, Sequence length 14, processing case 58
+0.000000 122.570313
+RNG type true, Sequence length 14, processing case 59
+0.000000 38.257607
+RNG type true, Sequence length 14, processing case 60
+0.000000 77.387223
+RNG type true, Sequence length 14, processing case 61
+0.000000 151.685220
+RNG type true, Sequence length 14, processing case 62
+0.000000 255.121294
+RNG type true, Sequence length 14, processing case 63
+0.000000 131.307875
+RNG type true, Sequence length 14, processing case 64
+0.000000 212.716010
+RNG type true, Sequence length 14, processing case 65
+0.000000 58.258777
+RNG type true, Sequence length 14, processing case 66
+0.000000 98.589955
+RNG type true, Sequence length 14, processing case 67
+0.000000 72.737013
+RNG type true, Sequence length 14, processing case 68
+0.000000 153.642868
+RNG type true, Sequence length 14, processing case 69
+0.000000 100.496392
+RNG type true, Sequence length 14, processing case 70
+0.000000 135.383375
+RNG type true, Sequence length 14, processing case 71
+0.000000 96.304810
+RNG type true, Sequence length 14, processing case 72
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 73
+0.000000 228.688328
+RNG type true, Sequence length 14, processing case 74
+0.000000 52.236443
+RNG type true, Sequence length 14, processing case 75
+0.000000 75.934595
+RNG type true, Sequence length 14, processing case 76
+0.000000 109.125885
+RNG type true, Sequence length 14, processing case 77
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 78
+0.000000 186.241306
+RNG type true, Sequence length 14, processing case 79
+0.000000 119.337661
+RNG type true, Sequence length 14, processing case 80
+0.000000 116.910422
+RNG type true, Sequence length 14, processing case 81
+0.000000 29.202985
+RNG type true, Sequence length 14, processing case 82
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 83
+0.000000 116.344865
+RNG type true, Sequence length 14, processing case 84
+0.000000 142.079474
+RNG type true, Sequence length 14, processing case 85
+0.999985 0.000015
+RNG type true, Sequence length 14, processing case 86
+0.000000 118.235643
+RNG type true, Sequence length 14, processing case 87
+0.000000 91.989892
+RNG type true, Sequence length 14, processing case 88
+0.000000 51.253870
+RNG type true, Sequence length 14, processing case 89
+0.000000 56.667942
+RNG type true, Sequence length 14, processing case 90
+0.000000 96.180494
+RNG type true, Sequence length 14, processing case 91
+0.000000 70.612191
+RNG type true, Sequence length 14, processing case 92
+0.000000 185.473640
+RNG type true, Sequence length 14, processing case 93
+0.000000 162.237214
+RNG type true, Sequence length 14, processing case 94
+0.000000 18.746444
+RNG type true, Sequence length 14, processing case 95
+0.000000 68.096107
+RNG type true, Sequence length 14, processing case 96
+0.000000 83.112978
+RNG type true, Sequence length 14, processing case 97
+0.000000 123.350579
+RNG type true, Sequence length 14, processing case 98
+0.000000 94.558636
+RNG type true, Sequence length 14, processing case 99
+0.000000 139.084830
+RNG type true, Sequence length 14, processing case 100
+0.000000 69.386963
+RNG type true, Sequence length 14, processing case 101
+0.000000 126.254871
+RNG type true, Sequence length 14, processing case 102
+0.000000 34.206566
+RNG type true, Sequence length 14, processing case 103
+0.000000 21.935421
+RNG type true, Sequence length 14, processing case 104
+0.000000 172.975520
+RNG type true, Sequence length 14, processing case 105
+0.000000 170.513130
+RNG type true, Sequence length 14, processing case 106
+1.000000 -0.000000
+RNG type true, Sequence length 14, processing case 107
+0.000000 103.398051
+RNG type true, Sequence length 14, processing case 108
+0.000000 130.992388
+RNG type true, Sequence length 14, processing case 109
+0.000000 28.915841
+RNG type true, Sequence length 14, processing case 110
+0.000000 191.864458
+RNG type true, Sequence l

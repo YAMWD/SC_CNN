@@ -1,0 +1,2008 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type true, Sequence length 11, processing case 0
+-nan nan
+RNG type true, Sequence length 11, processing case 1
+-nan nan
+RNG type true, Sequence length 11, processing case 2
+-nan nan
+RNG type true, Sequence length 11, processing case 3
+-nan nan
+RNG type true, Sequence length 11, processing case 4
+-nan nan
+RNG type true, Sequence length 11, processing case 5
+-nan nan
+RNG type true, Sequence length 11, processing case 6
+-nan nan
+RNG type true, Sequence length 11, processing case 7
+-nan nan
+RNG type true, Sequence length 11, processing case 8
+-nan nan
+RNG type true, Sequence length 11, processing case 9
+-nan nan
+RNG type true, Sequence length 11, processing case 10
+-nan nan
+RNG type true, Sequence length 11, processing case 11
+-nan nan
+RNG type true, Sequence length 11, processing case 12
+-nan nan
+RNG type true, Sequence length 11, processing case 13
+-nan nan
+RNG type true, Sequence length 11, processing case 14
+-nan nan
+RNG type true, Sequence length 11, processing case 15
+-nan nan
+RNG type true, Sequence length 11, processing case 16
+-nan nan
+RNG type true, Sequence length 11, processing case 17
+-nan nan
+RNG type true, Sequence length 11, processing case 18
+-nan nan
+RNG type true, Sequence length 11, processing case 19
+-nan nan
+RNG type true, Sequence length 11, processing case 20
+-nan nan
+RNG type true, Sequence length 11, processing case 21
+-nan nan
+RNG type true, Sequence length 11, processing case 22
+-nan nan
+RNG type true, Sequence length 11, processing case 23
+-nan nan
+RNG type true, Sequence length 11, processing case 24
+-nan nan
+RNG type true, Sequence length 11, processing case 25
+-nan nan
+RNG type true, Sequence length 11, processing case 26
+-nan nan
+RNG type true, Sequence length 11, processing case 27
+-nan nan
+RNG type true, Sequence length 11, processing case 28
+-nan nan
+RNG type true, Sequence length 11, processing case 29
+-nan nan
+RNG type true, Sequence length 11, processing case 30
+-nan nan
+RNG type true, Sequence length 11, processing case 31
+-nan nan
+RNG type true, Sequence length 11, processing case 32
+-nan nan
+RNG type true, Sequence length 11, processing case 33
+-nan nan
+RNG type true, Sequence length 11, processing case 34
+-nan nan
+RNG type true, Sequence length 11, processing case 35
+-nan nan
+RNG type true, Sequence length 11, processing case 36
+-nan nan
+RNG type true, Sequence length 11, processing case 37
+-nan nan
+RNG type true, Sequence length 11, processing case 38
+-nan nan
+RNG type true, Sequence length 11, processing case 39
+-nan nan
+RNG type true, Sequence length 11, processing case 40
+-nan nan
+RNG type true, Sequence length 11, processing case 41
+-nan nan
+RNG type true, Sequence length 11, processing case 42
+-nan nan
+RNG type true, Sequence length 11, processing case 43
+-nan nan
+RNG type true, Sequence length 11, processing case 44
+-nan nan
+RNG type true, Sequence length 11, processing case 45
+-nan nan
+RNG type true, Sequence length 11, processing case 46
+-nan nan
+RNG type true, Sequence length 11, processing case 47
+-nan nan
+RNG type true, Sequence length 11, processing case 48
+-nan nan
+RNG type true, Sequence length 11, processing case 49
+-nan nan
+RNG type true, Sequence length 11, processing case 50
+-nan nan
+RNG type true, Sequence length 11, processing case 51
+-nan nan
+RNG type true, Sequence length 11, processing case 52
+-nan nan
+RNG type true, Sequence length 11, processing case 53
+-nan nan
+RNG type true, Sequence length 11, processing case 54
+-nan nan
+RNG type true, Sequence length 11, processing case 55
+-nan nan
+RNG type true, Sequence length 11, processing case 56
+-nan nan
+RNG type true, Sequence length 11, processing case 57
+-nan nan
+RNG type true, Sequence length 11, processing case 58
+-nan nan
+RNG type true, Sequence length 11, processing case 59
+-nan nan
+RNG type true, Sequence length 11, processing case 60
+-nan nan
+RNG type true, Sequence length 11, processing case 61
+-nan nan
+RNG type true, Sequence length 11, processing case 62
+-nan nan
+RNG type true, Sequence length 11, processing case 63
+-nan nan
+RNG type true, Sequence length 11, processing case 64
+-nan nan
+RNG type true, Sequence length 11, processing case 65
+-nan nan
+RNG type true, Sequence length 11, processing case 66
+-nan nan
+RNG type true, Sequence length 11, processing case 67
+-nan nan
+RNG type true, Sequence length 11, processing case 68
+-nan nan
+RNG type true, Sequence length 11, processing case 69
+-nan nan
+RNG type true, Sequence length 11, processing case 70
+-nan nan
+RNG type true, Sequence length 11, processing case 71
+-nan nan
+RNG type true, Sequence length 11, processing case 72
+-nan nan
+RNG type true, Sequence length 11, processing case 73
+-nan nan
+RNG type true, Sequence length 11, processing case 74
+-nan nan
+RNG type true, Sequence length 11, processing case 75
+-nan nan
+RNG type true, Sequence length 11, processing case 76
+-nan nan
+RNG type true, Sequence length 11, processing case 77
+-nan nan
+RNG type true, Sequence length 11, processing case 78
+-nan nan
+RNG type true, Sequence length 11, processing case 79
+-nan nan
+RNG type true, Sequence length 11, processing case 80
+-nan nan
+RNG type true, Sequence length 11, processing case 81
+-nan nan
+RNG type true, Sequence length 11, processing case 82
+-nan nan
+RNG type true, Sequence length 11, processing case 83
+-nan nan
+RNG type true, Sequence length 11, processing case 84
+-nan nan
+RNG type true, Sequence length 11, processing case 85
+-nan nan
+RNG type true, Sequence length 11, processing case 86
+-nan nan
+RNG type true, Sequence length 11, processing case 87
+-nan nan
+RNG type true, Sequence length 11, processing case 88
+-nan nan
+RNG type true, Sequence length 11, processing case 89
+-nan nan
+RNG type true, Sequence length 11, processing case 90
+-nan nan
+RNG type true, Sequence length 11, processing case 91
+-nan nan
+RNG type true, Sequence length 11, processing case 92
+-nan nan
+RNG type true, Sequence length 11, processing case 93
+-nan nan
+RNG type true, Sequence length 11, processing case 94
+-nan nan
+RNG type true, Sequence length 11, processing case 95
+-nan nan
+RNG type true, Sequence length 11, processing case 96
+-nan nan
+RNG type true, Sequence length 11, processing case 97
+-nan nan
+RNG type true, Sequence length 11, processing case 98
+-nan nan
+RNG type true, Sequence length 11, processing case 99
+-nan nan
+RNG type true, Sequence length 11, processing case 100
+-nan nan
+RNG type true, Sequence length 11, processing case 101
+-nan nan
+RNG type true, Sequence length 11, processing case 102
+-nan nan
+RNG type true, Sequence length 11, processing case 103
+-nan nan
+RNG type true, Sequence length 11, processing case 104
+-nan nan
+RNG type true, Sequence length 11, processing case 105
+-nan nan
+RNG type true, Sequence length 11, processing case 106
+-nan nan
+RNG type true, Sequence length 11, processing case 107
+-nan nan
+RNG type true, Sequence length 11, processing case 108
+-nan nan
+RNG type true, Sequence length 11, processing case 109
+-nan nan
+RNG type true, Sequence length 11, processing case 110
+-nan nan
+RNG type true, Sequence length 11, processing case 111
+-nan nan
+RNG type true, Sequence length 11, processing case 112
+-nan nan
+RNG type true, Sequence length 11, processing case 113
+-nan nan
+RNG type true, Sequence length 11, processing case 114
+-nan nan
+RNG type true, Sequence length 11, processing case 115
+-nan nan
+RNG type true, Sequence length 11, processing case 116
+-nan nan
+RNG type true, Sequence length 11, processing case 117
+-nan nan
+RNG type true, Sequence length 11, processing case 118
+-nan nan
+RNG type true, Sequence length 11, processing case 119
+-nan nan
+RNG type true, Sequence length 11, processing case 120
+-nan nan
+RNG type true, Sequence length 11, processing case 121
+-nan nan
+RNG type true, Sequence length 11, processing case 122
+-nan nan
+RNG type true, Sequence length 11, processing case 123
+-nan nan
+RNG type true, Sequence length 11, processing case 124
+-nan nan
+RNG type true, Sequence length 11, processing case 125
+-nan nan
+RNG type true, Sequence length 11, processing case 126
+-nan nan
+RNG type true, Sequence length 11, processing case 127
+-nan nan
+RNG type true, Sequence length 11, processing case 128
+-nan nan
+RNG type true, Sequence length 11, processing case 129
+-nan nan
+RNG type true, Sequence length 11, processing case 130
+-nan nan
+RNG type true, Sequence length 11, processing case 131
+-nan nan
+RNG type true, Sequence length 11, processing case 132
+-nan nan
+RNG type true, Sequence length 11, processing case 133
+-nan nan
+RNG type true, Sequence length 11, processing case 134
+-nan nan
+RNG type true, Sequence length 11, processing case 135
+-nan nan
+RNG type true, Sequence length 11, processing case 136
+-nan nan
+RNG type true, Sequence length 11, processing case 137
+-nan nan
+RNG type true, Sequence length 11, processing case 138
+-nan nan
+RNG type true, Sequence length 11, processing case 139
+-nan nan
+RNG type true, Sequence length 11, processing case 140
+-nan nan
+RNG type true, Sequence length 11, processing case 141
+-nan nan
+RNG type true, Sequence length 11, processing case 142
+-nan nan
+RNG type true, Sequence length 11, processing case 143
+-nan nan
+RNG type true, Sequence length 11, processing case 144
+-nan nan
+RNG type true, Sequence length 11, processing case 145
+-nan nan
+RNG type true, Sequence length 11, processing case 146
+-nan nan
+RNG type true, Sequence length 11, processing case 147
+-nan nan
+RNG type true, Sequence length 11, processing case 148
+-nan nan
+RNG type true, Sequence length 11, processing case 149
+-nan nan
+RNG type true, Sequence length 11, processing case 150
+-nan nan
+RNG type true, Sequence length 11, processing case 151
+-nan nan
+RNG type true, Sequence length 11, processing case 152
+-nan nan
+RNG type true, Sequence length 11, processing case 153
+-nan nan
+RNG type true, Sequence length 11, processing case 154
+-nan nan
+RNG type true, Sequence length 11, processing case 155
+-nan nan
+RNG type true, Sequence length 11, processing case 156
+-nan nan
+RNG type true, Sequence length 11, processing case 157
+-nan nan
+RNG type true, Sequence length 11, processing case 158
+-nan nan
+RNG type true, Sequence length 11, processing case 159
+-nan nan
+RNG type true, Sequence length 11, processing case 160
+-nan nan
+RNG type true, Sequence length 11, processing case 161
+-nan nan
+RNG type true, Sequence length 11, processing case 162
+-nan nan
+RNG type true, Sequence length 11, processing case 163
+-nan nan
+RNG type true, Sequence length 11, processing case 164
+-nan nan
+RNG type true, Sequence length 11, processing case 165
+-nan nan
+RNG type true, Sequence length 11, processing case 166
+-nan nan
+RNG type true, Sequence length 11, processing case 167
+-nan nan
+RNG type true, Sequence length 11, processing case 168
+-nan nan
+RNG type true, Sequence length 11, processing case 169
+-nan nan
+RNG type true, Sequence length 11, processing case 170
+-nan nan
+RNG type true, Sequence length 11, processing case 171
+-nan nan
+RNG type true, Sequence length 11, processing case 172
+-nan nan
+RNG type true, Sequence length 11, processing case 173
+-nan nan
+RNG type true, Sequence length 11, processing case 174
+-nan nan
+RNG type true, Sequence length 11, processing case 175
+-nan nan
+RNG type true, Sequence length 11, processing case 176
+-nan nan
+RNG type true, Sequence length 11, processing case 177
+-nan nan
+RNG type true, Sequence length 11, processing case 178
+-nan nan
+RNG type true, Sequence length 11, processing case 179
+-nan nan
+RNG type true, Sequence length 11, processing case 180
+-nan nan
+RNG type true, Sequence length 11, processing case 181
+-nan nan
+RNG type true, Sequence length 11, processing case 182
+-nan nan
+RNG type true, Sequence length 11, processing case 183
+-nan nan
+RNG type true, Sequence length 11, processing case 184
+-nan nan
+RNG type true, Sequence length 11, processing case 185
+-nan nan
+RNG type true, Sequence length 11, processing case 186
+-nan nan
+RNG type true, Sequence length 11, processing case 187
+-nan nan
+RNG type true, Sequence length 11, processing case 188
+-nan nan
+RNG type true, Sequence length 11, processing case 189
+-nan nan
+RNG type true, Sequence length 11, processing case 190
+-nan nan
+RNG type true, Sequence length 11, processing case 191
+-nan nan
+RNG type true, Sequence length 11, processing case 192
+-nan nan
+RNG type true, Sequence length 11, processing case 193
+-nan nan
+RNG type true, Sequence length 11, processing case 194
+-nan nan
+RNG type true, Sequence length 11, processing case 195
+-nan nan
+RNG type true, Sequence length 11, processing case 196
+-nan nan
+RNG type true, Sequence length 11, processing case 197
+-nan nan
+RNG type true, Sequence length 11, processing case 198
+-nan nan
+RNG type true, Sequence length 11, processing case 199
+-nan nan
+RNG type true, Sequence length 11, processing case 200
+-nan nan
+RNG type true, Sequence length 11, processing case 201
+-nan nan
+RNG type true, Sequence length 11, processing case 202
+-nan nan
+RNG type true, Sequence length 11, processing case 203
+-nan nan
+RNG type true, Sequence length 11, processing case 204
+-nan nan
+RNG type true, Sequence length 11, processing case 205
+-nan nan
+RNG type true, Sequence length 11, processing case 206
+-nan nan
+RNG type true, Sequence length 11, processing case 207
+-nan nan
+RNG type true, Sequence length 11, processing case 208
+-nan nan
+RNG type true, Sequence length 11, processing case 209
+-nan nan
+RNG type true, Sequence length 11, processing case 210
+-nan nan
+RNG type true, Sequence length 11, processing case 211
+-nan nan
+RNG type true, Sequence length 11, processing case 212
+-nan nan
+RNG type true, Sequence length 11, processing case 213
+-nan nan
+RNG type true, Sequence length 11, processing case 214
+-nan nan
+RNG type true, Sequence length 11, processing case 215
+-nan nan
+RNG type true, Sequence length 11, processing case 216
+-nan nan
+RNG type true, Sequence length 11, processing case 217
+-nan nan
+RNG type true, Sequence length 11, processing case 218
+-nan nan
+RNG type true, Sequence length 11, processing case 219
+-nan nan
+RNG type true, Sequence length 11, processing case 220
+-nan nan
+RNG type true, Sequence length 11, processing case 221
+-nan nan
+RNG type true, Sequence length 11, processing case 222
+-nan nan
+RNG type true, Sequence length 11, processing case 223
+-nan nan
+RNG type true, Sequence length 11, processing case 224
+-nan nan
+RNG type true, Sequence length 11, processing case 225
+-nan nan
+RNG type true, Sequence length 11, processing case 226
+-nan nan
+RNG type true, Sequence length 11, processing case 227
+-nan nan
+RNG type true, Sequence length 11, processing case 228
+-nan nan
+RNG type true, Sequence length 11, processing case 229
+-nan nan
+RNG type true, Sequence length 11, processing case 230
+-nan nan
+RNG type true, Sequence length 11, processing case 231
+-nan nan
+RNG type true, Sequence length 11, processing case 232
+-nan nan
+RNG type true, Sequence length 11, processing case 233
+-nan nan
+RNG type true, Sequence length 11, processing case 234
+-nan nan
+RNG type true, Sequence length 11, processing case 235
+-nan nan
+RNG type true, Sequence length 11, processing case 236
+-nan nan
+RNG type true, Sequence length 11, processing case 237
+-nan nan
+RNG type true, Sequence length 11, processing case 238
+-nan nan
+RNG type true, Sequence length 11, processing case 239
+-nan nan
+RNG type true, Sequence length 11, processing case 240
+-nan nan
+RNG type true, Sequence length 11, processing case 241
+-nan nan
+RNG type true, Sequence length 11, processing case 242
+-nan nan
+RNG type true, Sequence length 11, processing case 243
+-nan nan
+RNG type true, Sequence length 11, processing case 244
+-nan nan
+RNG type true, Sequence length 11, processing case 245
+-nan nan
+RNG type true, Sequence length 11, processing case 246
+-nan nan
+RNG type true, Sequence length 11, processing case 247
+-nan nan
+RNG type true, Sequence length 11, processing case 248
+-nan nan
+RNG type true, Sequence length 11, processing case 249
+-nan nan
+RNG type true, Sequence length 11, processing case 250
+-nan nan
+RNG type true, Sequence length 11, processing case 251
+-nan nan
+RNG type true, Sequence length 11, processing case 252
+-nan nan
+RNG type true, Sequence length 11, processing case 253
+-nan nan
+RNG type true, Sequence length 11, processing case 254
+-nan nan
+RNG type true, Sequence length 11, processing case 255
+-nan nan
+RNG type true, Sequence length 11, processing case 256
+-nan nan
+RNG type true, Sequence length 11, processing case 257
+-nan nan
+RNG type true, Sequence length 11, processing case 258
+-nan nan
+RNG type true, Sequence length 11, processing case 259
+-nan nan
+RNG type true, Sequence length 11, processing case 260
+-nan nan
+RNG type true, Sequence length 11, processing case 261
+-nan nan
+RNG type true, Sequence length 11, processing case 262
+-nan nan
+RNG type true, Sequence length 11, processing case 263
+-nan nan
+RNG type true, Sequence length 11, processing case 264
+-nan nan
+RNG type true, Sequence length 11, processing case 265
+-nan nan
+RNG type true, Sequence length 11, processing case 266
+-nan nan
+RNG type true, Sequence length 11, processing case 267
+-nan nan
+RNG type true, Sequence length 11, processing case 268
+-nan nan
+RNG type true, Sequence length 11, processing case 269
+-nan nan
+RNG type true, Sequence length 11, processing case 270
+-nan nan
+RNG type true, Sequence length 11, processing case 271
+-nan nan
+RNG type true, Sequence length 11, processing case 272
+-nan nan
+RNG type true, Sequence length 11, processing case 273
+-nan nan
+RNG type true, Sequence length 11, processing case 274
+-nan nan
+RNG type true, Sequence length 11, processing case 275
+-nan nan
+RNG type true, Sequence length 11, processing case 276
+-nan nan
+RNG type true, Sequence length 11, processing case 277
+-nan nan
+RNG type true, Sequence length 11, processing case 278
+-nan nan
+RNG type true, Sequence length 11, processing case 279
+-nan nan
+RNG type true, Sequence length 11, processing case 280
+-nan nan
+RNG type true, Sequence length 11, processing case 281
+-nan nan
+RNG type true, Sequence length 11, processing case 282
+-nan nan
+RNG type true, Sequence length 11, processing case 283
+-nan nan
+RNG type true, Sequence length 11, processing case 284
+-nan nan
+RNG type true, Sequence length 11, processing case 285
+-nan nan
+RNG type true, Sequence length 11, processing case 286
+-nan nan
+RNG type true, Sequence length 11, processing case 287
+-nan nan
+RNG type true, Sequence length 11, processing case 288
+-nan nan
+RNG type true, Sequence length 11, processing case 289
+-nan nan
+RNG type true, Sequence length 11, processing case 290
+-nan nan
+RNG type true, Sequence length 11, processing case 291
+-nan nan
+RNG type true, Sequence length 11, processing case 292
+-nan nan
+RNG type true, Sequence length 11, processing case 293
+-nan nan
+RNG type true, Sequence length 11, processing case 294
+-nan nan
+RNG type true, Sequence length 11, processing case 295
+-nan nan
+RNG type true, Sequence length 11, processing case 296
+-nan nan
+RNG type true, Sequence length 11, processing case 297
+-nan nan
+RNG type true, Sequence length 11, processing case 298
+-nan nan
+RNG type true, Sequence length 11, processing case 299
+-nan nan
+RNG type true, Sequence length 11, processing case 300
+-nan nan
+RNG type true, Sequence length 11, processing case 301
+-nan nan
+RNG type true, Sequence length 11, processing case 302
+-nan nan
+RNG type true, Sequence length 11, processing case 303
+-nan nan
+RNG type true, Sequence length 11, processing case 304
+-nan nan
+RNG type true, Sequence length 11, processing case 305
+-nan nan
+RNG type true, Sequence length 11, processing case 306
+-nan nan
+RNG type true, Sequence length 11, processing case 307
+-nan nan
+RNG type true, Sequence length 11, processing case 308
+-nan nan
+RNG type true, Sequence length 11, processing case 309
+-nan nan
+RNG type true, Sequence length 11, processing case 310
+-nan nan
+RNG type true, Sequence length 11, processing case 311
+-nan nan
+RNG type true, Sequence length 11, processing case 312
+-nan nan
+RNG type true, Sequence length 11, processing case 313
+-nan nan
+RNG type true, Sequence length 11, processing case 314
+-nan nan
+RNG type true, Sequence length 11, processing case 315
+-nan nan
+RNG type true, Sequence length 11, processing case 316
+-nan nan
+RNG type true, Sequence length 11, processing case 317
+-nan nan
+RNG type true, Sequence length 11, processing case 318
+-nan nan
+RNG type true, Sequence length 11, processing case 319
+-nan nan
+RNG type true, Sequence length 11, processing case 320
+-nan nan
+RNG type true, Sequence length 11, processing case 321
+-nan nan
+RNG type true, Sequence length 11, processing case 322
+-nan nan
+RNG type true, Sequence length 11, processing case 323
+-nan nan
+RNG type true, Sequence length 11, processing case 324
+-nan nan
+RNG type true, Sequence length 11, processing case 325
+-nan nan
+RNG type true, Sequence length 11, processing case 326
+-nan nan
+RNG type true, Sequence length 11, processing case 327
+-nan nan
+RNG type true, Sequence length 11, processing case 328
+-nan nan
+RNG type true, Sequence length 11, processing case 329
+-nan nan
+RNG type true, Sequence length 11, processing case 330
+-nan nan
+RNG type true, Sequence length 11, processing case 331
+-nan nan
+RNG type true, Sequence length 11, processing case 332
+-nan nan
+RNG type true, Sequence length 11, processing case 333
+-nan nan
+RNG type true, Sequence length 11, processing case 334
+-nan nan
+RNG type true, Sequence length 11, processing case 335
+-nan nan
+RNG type true, Sequence length 11, processing case 336
+-nan nan
+RNG type true, Sequence length 11, processing case 337
+-nan nan
+RNG type true, Sequence length 11, processing case 338
+-nan nan
+RNG type true, Sequence length 11, processing case 339
+-nan nan
+RNG type true, Sequence length 11, processing case 340
+-nan nan
+RNG type true, Sequence length 11, processing case 341
+-nan nan
+RNG type true, Sequence length 11, processing case 342
+-nan nan
+RNG type true, Sequence length 11, processing case 343
+-nan nan
+RNG type true, Sequence length 11, processing case 344
+-nan nan
+RNG type true, Sequence length 11, processing case 345
+-nan nan
+RNG type true, Sequence length 11, processing case 346
+-nan nan
+RNG type true, Sequence length 11, processing case 347
+-nan nan
+RNG type true, Sequence length 11, processing case 348
+-nan nan
+RNG type true, Sequence length 11, processing case 349
+-nan nan
+RNG type true, Sequence length 11, processing case 350
+-nan nan
+RNG type true, Sequence length 11, processing case 351
+-nan nan
+RNG type true, Sequence length 11, processing case 352
+-nan nan
+RNG type true, Sequence length 11, processing case 353
+-nan nan
+RNG type true, Sequence length 11, processing case 354
+-nan nan
+RNG type true, Sequence length 11, processing case 355
+-nan nan
+RNG type true, Sequence length 11, processing case 356
+-nan nan
+RNG type true, Sequence length 11, processing case 357
+-nan nan
+RNG type true, Sequence length 11, processing case 358
+-nan nan
+RNG type true, Sequence length 11, processing case 359
+-nan nan
+RNG type true, Sequence length 11, processing case 360
+-nan nan
+RNG type true, Sequence length 11, processing case 361
+-nan nan
+RNG type true, Sequence length 11, processing case 362
+-nan nan
+RNG type true, Sequence length 11, processing case 363
+-nan nan
+RNG type true, Sequence length 11, processing case 364
+-nan nan
+RNG type true, Sequence length 11, processing case 365
+-nan nan
+RNG type true, Sequence length 11, processing case 366
+-nan nan
+RNG type true, Sequence length 11, processing case 367
+-nan nan
+RNG type true, Sequence length 11, processing case 368
+-nan nan
+RNG type true, Sequence length 11, processing case 369
+-nan nan
+RNG type true, Sequence length 11, processing case 370
+-nan nan
+RNG type true, Sequence length 11, processing case 371
+-nan nan
+RNG type true, Sequence length 11, processing case 372
+-nan nan
+RNG type true, Sequence length 11, processing case 373
+-nan nan
+RNG type true, Sequence length 11, processing case 374
+-nan nan
+RNG type true, Sequence length 11, processing case 375
+-nan nan
+RNG type true, Sequence length 11, processing case 376
+-nan nan
+RNG type true, Sequence length 11, processing case 377
+-nan nan
+RNG type true, Sequence length 11, processing case 378
+-nan nan
+RNG type true, Sequence length 11, processing case 379
+-nan nan
+RNG type true, Sequence length 11, processing case 380
+-nan nan
+RNG type true, Sequence length 11, processing case 381
+-nan nan
+RNG type true, Sequence length 11, processing case 382
+-nan nan
+RNG type true, Sequence length 11, processing case 383
+-nan nan
+RNG type true, Sequence length 11, processing case 384
+-nan nan
+RNG type true, Sequence length 11, processing case 385
+-nan nan
+RNG type true, Sequence length 11, processing case 386
+-nan nan
+RNG type true, Sequence length 11, processing case 387
+-nan nan
+RNG type true, Sequence length 11, processing case 388
+-nan nan
+RNG type true, Sequence length 11, processing case 389
+-nan nan
+RNG type true, Sequence length 11, processing case 390
+-nan nan
+RNG type true, Sequence length 11, processing case 391
+-nan nan
+RNG type true, Sequence length 11, processing case 392
+-nan nan
+RNG type true, Sequence length 11, processing case 393
+-nan nan
+RNG type true, Sequence length 11, processing case 394
+-nan nan
+RNG type true, Sequence length 11, processing case 395
+-nan nan
+RNG type true, Sequence length 11, processing case 396
+-nan nan
+RNG type true, Sequence length 11, processing case 397
+-nan nan
+RNG type true, Sequence length 11, processing case 398
+-nan nan
+RNG type true, Sequence length 11, processing case 399
+-nan nan
+RNG type true, Sequence length 11, processing case 400
+-nan nan
+RNG type true, Sequence length 11, processing case 401
+-nan nan
+RNG type true, Sequence length 11, processing case 402
+-nan nan
+RNG type true, Sequence length 11, processing case 403
+-nan nan
+RNG type true, Sequence length 11, processing case 404
+-nan nan
+RNG type true, Sequence length 11, processing case 405
+-nan nan
+RNG type true, Sequence length 11, processing case 406
+-nan nan
+RNG type true, Sequence length 11, processing case 407
+-nan nan
+RNG type true, Sequence length 11, processing case 408
+-nan nan
+RNG type true, Sequence length 11, processing case 409
+-nan nan
+RNG type true, Sequence length 11, processing case 410
+-nan nan
+RNG type true, Sequence length 11, processing case 411
+-nan nan
+RNG type true, Sequence length 11, processing case 412
+-nan nan
+RNG type true, Sequence length 11, processing case 413
+-nan nan
+RNG type true, Sequence length 11, processing case 414
+-nan nan
+RNG type true, Sequence length 11, processing case 415
+-nan nan
+RNG type true, Sequence length 11, processing case 416
+-nan nan
+RNG type true, Sequence length 11, processing case 417
+-nan nan
+RNG type true, Sequence length 11, processing case 418
+-nan nan
+RNG type true, Sequence length 11, processing case 419
+-nan nan
+RNG type true, Sequence length 11, processing case 420
+-nan nan
+RNG type true, Sequence length 11, processing case 421
+-nan nan
+RNG type true, Sequence length 11, processing case 422
+-nan nan
+RNG type true, Sequence length 11, processing case 423
+-nan nan
+RNG type true, Sequence length 11, processing case 424
+-nan nan
+RNG type true, Sequence length 11, processing case 425
+-nan nan
+RNG type true, Sequence length 11, processing case 426
+-nan nan
+RNG type true, Sequence length 11, processing case 427
+-nan nan
+RNG type true, Sequence length 11, processing case 428
+-nan nan
+RNG type true, Sequence length 11, processing case 429
+-nan nan
+RNG type true, Sequence length 11, processing case 430
+-nan nan
+RNG type true, Sequence length 11, processing case 431
+-nan nan
+RNG type true, Sequence length 11, processing case 432
+-nan nan
+RNG type true, Sequence length 11, processing case 433
+-nan nan
+RNG type true, Sequence length 11, processing case 434
+-nan nan
+RNG type true, Sequence length 11, processing case 435
+-nan nan
+RNG type true, Sequence length 11, processing case 436
+-nan nan
+RNG type true, Sequence length 11, processing case 437
+-nan nan
+RNG type true, Sequence length 11, processing case 438
+-nan nan
+RNG type true, Sequence length 11, processing case 439
+-nan nan
+RNG type true, Sequence length 11, processing case 440
+-nan nan
+RNG type true, Sequence length 11, processing case 441
+-nan nan
+RNG type true, Sequence length 11, processing case 442
+-nan nan
+RNG type true, Sequence length 11, processing case 443
+-nan nan
+RNG type true, Sequence length 11, processing case 444
+-nan nan
+RNG type true, Sequence length 11, processing case 445
+-nan nan
+RNG type true, Sequence length 11, processing case 446
+-nan nan
+RNG type true, Sequence length 11, processing case 447
+-nan nan
+RNG type true, Sequence length 11, processing case 448
+-nan nan
+RNG type true, Sequence length 11, processing case 449
+-nan nan
+RNG type true, Sequence length 11, processing case 450
+-nan nan
+RNG type true, Sequence length 11, processing case 451
+-nan nan
+RNG type true, Sequence length 11, processing case 452
+-nan nan
+RNG type true, Sequence length 11, processing case 453
+-nan nan
+RNG type true, Sequence length 11, processing case 454
+-nan nan
+RNG type true, Sequence length 11, processing case 455
+-nan nan
+RNG type true, Sequence length 11, processing case 456
+-nan nan
+RNG type true, Sequence length 11, processing case 457
+-nan nan
+RNG type true, Sequence length 11, processing case 458
+-nan nan
+RNG type true, Sequence length 11, processing case 459
+-nan nan
+RNG type true, Sequence length 11, processing case 460
+-nan nan
+RNG type true, Sequence length 11, processing case 461
+-nan nan
+RNG type true, Sequence length 11, processing case 462
+-nan nan
+RNG type true, Sequence length 11, processing case 463
+-nan nan
+RNG type true, Sequence length 11, processing case 464
+-nan nan
+RNG type true, Sequence length 11, processing case 465
+-nan nan
+RNG type true, Sequence length 11, processing case 466
+-nan nan
+RNG type true, Sequence length 11, processing case 467
+-nan nan
+RNG type true, Sequence length 11, processing case 468
+-nan nan
+RNG type true, Sequence length 11, processing case 469
+-nan nan
+RNG type true, Sequence length 11, processing case 470
+-nan nan
+RNG type true, Sequence length 11, processing case 471
+-nan nan
+RNG type true, Sequence length 11, processing case 472
+-nan nan
+RNG type true, Sequence length 11, processing case 473
+-nan nan
+RNG type true, Sequence length 11, processing case 474
+-nan nan
+RNG type true, Sequence length 11, processing case 475
+-nan nan
+RNG type true, Sequence length 11, processing case 476
+-nan nan
+RNG type true, Sequence length 11, processing case 477
+-nan nan
+RNG type true, Sequence length 11, processing case 478
+-nan nan
+RNG type true, Sequence length 11, processing case 479
+-nan nan
+RNG type true, Sequence length 11, processing case 480
+-nan nan
+RNG type true, Sequence length 11, processing case 481
+-nan nan
+RNG type true, Sequence length 11, processing case 482
+-nan nan
+RNG type true, Sequence length 11, processing case 483
+-nan nan
+RNG type true, Sequence length 11, processing case 484
+-nan nan
+RNG type true, Sequence length 11, processing case 485
+-nan nan
+RNG type true, Sequence length 11, processing case 486
+-nan nan
+RNG type true, Sequence length 11, processing case 487
+-nan nan
+RNG type true, Sequence length 11, processing case 488
+-nan nan
+RNG type true, Sequence length 11, processing case 489
+-nan nan
+RNG type true, Sequence length 11, processing case 490
+-nan nan
+RNG type true, Sequence length 11, processing case 491
+-nan nan
+RNG type true, Sequence length 11, processing case 492
+-nan nan
+RNG type true, Sequence length 11, processing case 493
+-nan nan
+RNG type true, Sequence length 11, processing case 494
+-nan nan
+RNG type true, Sequence length 11, processing case 495
+-nan nan
+RNG type true, Sequence length 11, processing case 496
+-nan nan
+RNG type true, Sequence length 11, processing case 497
+-nan nan
+RNG type true, Sequence length 11, processing case 498
+-nan nan
+RNG type true, Sequence length 11, processing case 499
+-nan nan
+RNG type true, Sequence length 11, processing case 500
+-nan nan
+RNG type true, Sequence length 11, processing case 501
+-nan nan
+RNG type true, Sequence length 11, processing case 502
+-nan nan
+RNG type true, Sequence length 11, processing case 503
+-nan nan
+RNG type true, Sequence length 11, processing case 504
+-nan nan
+RNG type true, Sequence length 11, processing case 505
+-nan nan
+RNG type true, Sequence length 11, processing case 506
+-nan nan
+RNG type true, Sequence length 11, processing case 507
+-nan nan
+RNG type true, Sequence length 11, processing case 508
+-nan nan
+RNG type true, Sequence length 11, processing case 509
+-nan nan
+RNG type true, Sequence length 11, processing case 510
+-nan nan
+RNG type true, Sequence length 11, processing case 511
+-nan nan
+RNG type true, Sequence length 11, processing case 512
+-nan nan
+RNG type true, Sequence length 11, processing case 513
+-nan nan
+RNG type true, Sequence length 11, processing case 514
+-nan nan
+RNG type true, Sequence length 11, processing case 515
+-nan nan
+RNG type true, Sequence length 11, processing case 516
+-nan nan
+RNG type true, Sequence length 11, processing case 517
+-nan nan
+RNG type true, Sequence length 11, processing case 518
+-nan nan
+RNG type true, Sequence length 11, processing case 519
+-nan nan
+RNG type true, Sequence length 11, processing case 520
+-nan nan
+RNG type true, Sequence length 11, processing case 521
+-nan nan
+RNG type true, Sequence length 11, processing case 522
+-nan nan
+RNG type true, Sequence length 11, processing case 523
+-nan nan
+RNG type true, Sequence length 11, processing case 524
+-nan nan
+RNG type true, Sequence length 11, processing case 525
+-nan nan
+RNG type true, Sequence length 11, processing case 526
+-nan nan
+RNG type true, Sequence length 11, processing case 527
+-nan nan
+RNG type true, Sequence length 11, processing case 528
+-nan nan
+RNG type true, Sequence length 11, processing case 529
+-nan nan
+RNG type true, Sequence length 11, processing case 530
+-nan nan
+RNG type true, Sequence length 11, processing case 531
+-nan nan
+RNG type true, Sequence length 11, processing case 532
+-nan nan
+RNG type true, Sequence length 11, processing case 533
+-nan nan
+RNG type true, Sequence length 11, processing case 534
+-nan nan
+RNG type true, Sequence length 11, processing case 535
+-nan nan
+RNG type true, Sequence length 11, processing case 536
+-nan nan
+RNG type true, Sequence length 11, processing case 537
+-nan nan
+RNG type true, Sequence length 11, processing case 538
+-nan nan
+RNG type true, Sequence length 11, processing case 539
+-nan nan
+RNG type true, Sequence length 11, processing case 540
+-nan nan
+RNG type true, Sequence length 11, processing case 541
+-nan nan
+RNG type true, Sequence length 11, processing case 542
+-nan nan
+RNG type true, Sequence length 11, processing case 543
+-nan nan
+RNG type true, Sequence length 11, processing case 544
+-nan nan
+RNG type true, Sequence length 11, processing case 545
+-nan nan
+RNG type true, Sequence length 11, processing case 546
+-nan nan
+RNG type true, Sequence length 11, processing case 547
+-nan nan
+RNG type true, Sequence length 11, processing case 548
+-nan nan
+RNG type true, Sequence length 11, processing case 549
+-nan nan
+RNG type true, Sequence length 11, processing case 550
+-nan nan
+RNG type true, Sequence length 11, processing case 551
+-nan nan
+RNG type true, Sequence length 11, processing case 552
+-nan nan
+RNG type true, Sequence length 11, processing case 553
+-nan nan
+RNG type true, Sequence length 11, processing case 554
+-nan nan
+RNG type true, Sequence length 11, processing case 555
+-nan nan
+RNG type true, Sequence length 11, processing case 556
+-nan nan
+RNG type true, Sequence length 11, processing case 557
+-nan nan
+RNG type true, Sequence length 11, processing case 558
+-nan nan
+RNG type true, Sequence length 11, processing case 559
+-nan nan
+RNG type true, Sequence length 11, processing case 560
+-nan nan
+RNG type true, Sequence length 11, processing case 561
+-nan nan
+RNG type true, Sequence length 11, processing case 562
+-nan nan
+RNG type true, Sequence length 11, processing case 563
+-nan nan
+RNG type true, Sequence length 11, processing case 564
+-nan nan
+RNG type true, Sequence length 11, processing case 565
+-nan nan
+RNG type true, Sequence length 11, processing case 566
+-nan nan
+RNG type true, Sequence length 11, processing case 567
+-nan nan
+RNG type true, Sequence length 11, processing case 568
+-nan nan
+RNG type true, Sequence length 11, processing case 569
+-nan nan
+RNG type true, Sequence length 11, processing case 570
+-nan nan
+RNG type true, Sequence length 11, processing case 571
+-nan nan
+RNG type true, Sequence length 11, processing case 572
+-nan nan
+RNG type true, Sequence length 11, processing case 573
+-nan nan
+RNG type true, Sequence length 11, processing case 574
+-nan nan
+RNG type true, Sequence length 11, processing case 575
+-nan nan
+RNG type true, Sequence length 11, processing case 576
+-nan nan
+RNG type true, Sequence length 11, processing case 577
+-nan nan
+RNG type true, Sequence length 11, processing case 578
+-nan nan
+RNG type true, Sequence length 11, processing case 579
+-nan nan
+RNG type true, Sequence length 11, processing case 580
+-nan nan
+RNG type true, Sequence length 11, processing case 581
+-nan nan
+RNG type true, Sequence length 11, processing case 582
+-nan nan
+RNG type true, Sequence length 11, processing case 583
+-nan nan
+RNG type true, Sequence length 11, processing case 584
+-nan nan
+RNG type true, Sequence length 11, processing case 585
+-nan nan
+RNG type true, Sequence length 11, processing case 586
+-nan nan
+RNG type true, Sequence length 11, processing case 587
+-nan nan
+RNG type true, Sequence length 11, processing case 588
+-nan nan
+RNG type true, Sequence length 11, processing case 589
+-nan nan
+RNG type true, Sequence length 11, processing case 590
+-nan nan
+RNG type true, Sequence length 11, processing case 591
+-nan nan
+RNG type true, Sequence length 11, processing case 592
+-nan nan
+RNG type true, Sequence length 11, processing case 593
+-nan nan
+RNG type true, Sequence length 11, processing case 594
+-nan nan
+RNG type true, Sequence length 11, processing case 595
+-nan nan
+RNG type true, Sequence length 11, processing case 596
+-nan nan
+RNG type true, Sequence length 11, processing case 597
+-nan nan
+RNG type true, Sequence length 11, processing case 598
+-nan nan
+RNG type true, Sequence length 11, processing case 599
+-nan nan
+RNG type true, Sequence length 11, processing case 600
+-nan nan
+RNG type true, Sequence length 11, processing case 601
+-nan nan
+RNG type true, Sequence length 11, processing case 602
+-nan nan
+RNG type true, Sequence length 11, processing case 603
+-nan nan
+RNG type true, Sequence length 11, processing case 604
+-nan nan
+RNG type true, Sequence length 11, processing case 605
+-nan nan
+RNG type true, Sequence length 11, processing case 606
+-nan nan
+RNG type true, Sequence length 11, processing case 607
+-nan nan
+RNG type true, Sequence length 11, processing case 608
+-nan nan
+RNG type true, Sequence length 11, processing case 609
+-nan nan
+RNG type true, Sequence length 11, processing case 610
+-nan nan
+RNG type true, Sequence length 11, processing case 611
+-nan nan
+RNG type true, Sequence length 11, processing case 612
+-nan nan
+RNG type true, Sequence length 11, processing case 613
+-nan nan
+RNG type true, Sequence length 11, processing case 614
+-nan nan
+RNG type true, Sequence length 11, processing case 615
+-nan nan
+RNG type true, Sequence length 11, processing case 616
+-nan nan
+RNG type true, Sequence length 11, processing case 617
+-nan nan
+RNG type true, Sequence length 11, processing case 618
+-nan nan
+RNG type true, Sequence length 11, processing case 619
+-nan nan
+RNG type true, Sequence length 11, processing case 620
+-nan nan
+RNG type true, Sequence length 11, processing case 621
+-nan nan
+RNG type true, Sequence length 11, processing case 622
+-nan nan
+RNG type true, Sequence length 11, processing case 623
+-nan nan
+RNG type true, Sequence length 11, processing case 624
+-nan nan
+RNG type true, Sequence length 11, processing case 625
+-nan nan
+RNG type true, Sequence length 11, processing case 626
+-nan nan
+RNG type true, Sequence length 11, processing case 627
+-nan nan
+RNG type true, Sequence length 11, processing case 628
+-nan nan
+RNG type true, Sequence length 11, processing case 629
+-nan nan
+RNG type true, Sequence length 11, processing case 630
+-nan nan
+RNG type true, Sequence length 11, processing case 631
+-nan nan
+RNG type true, Sequence length 11, processing case 632
+-nan nan
+RNG type true, Sequence length 11, processing case 633
+-nan nan
+RNG type true, Sequence length 11, processing case 634
+-nan nan
+RNG type true, Sequence length 11, processing case 635
+-nan nan
+RNG type true, Sequence length 11, processing case 636
+-nan nan
+RNG type true, Sequence length 11, processing case 637
+-nan nan
+RNG type true, Sequence length 11, processing case 638
+-nan nan
+RNG type true, Sequence length 11, processing case 639
+-nan nan
+RNG type true, Sequence length 11, processing case 640
+-nan nan
+RNG type true, Sequence length 11, processing case 641
+-nan nan
+RNG type true, Sequence length 11, processing case 642
+-nan nan
+RNG type true, Sequence length 11, processing case 643
+-nan nan
+RNG type true, Sequence length 11, processing case 644
+-nan nan
+RNG type true, Sequence length 11, processing case 645
+-nan nan
+RNG type true, Sequence length 11, processing case 646
+-nan nan
+RNG type true, Sequence length 11, processing case 647
+-nan nan
+RNG type true, Sequence length 11, processing case 648
+-nan nan
+RNG type true, Sequence length 11, processing case 649
+-nan nan
+RNG type true, Sequence length 11, processing case 650
+-nan nan
+RNG type true, Sequence length 11, processing case 651
+-nan nan
+RNG type true, Sequence length 11, processing case 652
+-nan nan
+RNG type true, Sequence length 11, processing case 653
+-nan nan
+RNG type true, Sequence length 11, processing case 654
+-nan nan
+RNG type true, Sequence length 11, processing case 655
+-nan nan
+RNG type true, Sequence length 11, processing case 656
+-nan nan
+RNG type true, Sequence length 11, processing case 657
+-nan nan
+RNG type true, Sequence length 11, processing case 658
+-nan nan
+RNG type true, Sequence length 11, processing case 659
+-nan nan
+RNG type true, Sequence length 11, processing case 660
+-nan nan
+RNG type true, Sequence length 11, processing case 661
+-nan nan
+RNG type true, Sequence length 11, processing case 662
+-nan nan
+RNG type true, Sequence length 11, processing case 663
+-nan nan
+RNG type true, Sequence length 11, processing case 664
+-nan nan
+RNG type true, Sequence length 11, processing case 665
+-nan nan
+RNG type true, Sequence length 11, processing case 666
+-nan nan
+RNG type true, Sequence length 11, processing case 667
+-nan nan
+RNG type true, Sequence length 11, processing case 668
+-nan nan
+RNG type true, Sequence length 11, processing case 669
+-nan nan
+RNG type true, Sequence length 11, processing case 670
+-nan nan
+RNG type true, Sequence length 11, processing case 671
+-nan nan
+RNG type true, Sequence length 11, processing case 672
+-nan nan
+RNG type true, Sequence length 11, processing case 673
+-nan nan
+RNG type true, Sequence length 11, processing case 674
+-nan nan
+RNG type true, Sequence length 11, processing case 675
+-nan nan
+RNG type true, Sequence length 11, processing case 676
+-nan nan
+RNG type true, Sequence length 11, processing case 677
+-nan nan
+RNG type true, Sequence length 11, processing case 678
+-nan nan
+RNG type true, Sequence length 11, processing case 679
+-nan nan
+RNG type true, Sequence length 11, processing case 680
+-nan nan
+RNG type true, Sequence length 11, processing case 681
+-nan nan
+RNG type true, Sequence length 11, processing case 682
+-nan nan
+RNG type true, Sequence length 11, processing case 683
+-nan nan
+RNG type true, Sequence length 11, processing case 684
+-nan nan
+RNG type true, Sequence length 11, processing case 685
+-nan nan
+RNG type true, Sequence length 11, processing case 686
+-nan nan
+RNG type true, Sequence length 11, processing case 687
+-nan nan
+RNG type true, Sequence length 11, processing case 688
+-nan nan
+RNG type true, Sequence length 11, processing case 689
+-nan nan
+RNG type true, Sequence length 11, processing case 690
+-nan nan
+RNG type true, Sequence length 11, processing case 691
+-nan nan
+RNG type true, Sequence length 11, processing case 692
+-nan nan
+RNG type true, Sequence length 11, processing case 693
+-nan nan
+RNG type true, Sequence length 11, processing case 694
+-nan nan
+RNG type true, Sequence length 11, processing case 695
+-nan nan
+RNG type true, Sequence length 11, processing case 696
+-nan nan
+RNG type true, Sequence length 11, processing case 697
+-nan nan
+RNG type true, Sequence length 11, processing case 698
+-nan nan
+RNG type true, Sequence length 11, processing case 699
+-nan nan
+RNG type true, Sequence length 11, processing case 700
+-nan nan
+RNG type true, Sequence length 11, processing case 701
+-nan nan
+RNG type true, Sequence length 11, processing case 702
+-nan nan
+RNG type true, Sequence length 11, processing case 703
+-nan nan
+RNG type true, Sequence length 11, processing case 704
+-nan nan
+RNG type true, Sequence length 11, processing case 705
+-nan nan
+RNG type true, Sequence length 11, processing case 706
+-nan nan
+RNG type true, Sequence length 11, processing case 707
+-nan nan
+RNG type true, Sequence length 11, processing case 708
+-nan nan
+RNG type true, Sequence length 11, processing case 709
+-nan nan
+RNG type true, Sequence length 11, processing case 710
+-nan nan
+RNG type true, Sequence length 11, processing case 711
+-nan nan
+RNG type true, Sequence length 11, processing case 712
+-nan nan
+RNG type true, Sequence length 11, processing case 713
+-nan nan
+RNG type true, Sequence length 11, processing case 714
+-nan nan
+RNG type true, Sequence length 11, processing case 715
+-nan nan
+RNG type true, Sequence length 11, processing case 716
+-nan nan
+RNG type true, Sequence length 11, processing case 717
+-nan nan
+RNG type true, Sequence length 11, processing case 718
+-nan nan
+RNG type true, Sequence length 11, processing case 719
+-nan nan
+RNG type true, Sequence length 11, processing case 720
+-nan nan
+RNG type true, Sequence length 11, processing case 721
+-nan nan
+RNG type true, Sequence length 11, processing case 722
+-nan nan
+RNG type true, Sequence length 11, processing case 723
+-nan nan
+RNG type true, Sequence length 11, processing case 724
+-nan nan
+RNG type true, Sequence length 11, processing case 725
+-nan nan
+RNG type true, Sequence length 11, processing case 726
+-nan nan
+RNG type true, Sequence length 11, processing case 727
+-nan nan
+RNG type true, Sequence length 11, processing case 728
+-nan nan
+RNG type true, Sequence length 11, processing case 729
+-nan nan
+RNG type true, Sequence length 11, processing case 730
+-nan nan
+RNG type true, Sequence length 11, processing case 731
+-nan nan
+RNG type true, Sequence length 11, processing case 732
+-nan nan
+RNG type true, Sequence length 11, processing case 733
+-nan nan
+RNG type true, Sequence length 11, processing case 734
+-nan nan
+RNG type true, Sequence length 11, processing case 735
+-nan nan
+RNG type true, Sequence length 11, processing case 736
+-nan nan
+RNG type true, Sequence length 11, processing case 737
+-nan nan
+RNG type true, Sequence length 11, processing case 738
+-nan nan
+RNG type true, Sequence length 11, processing case 739
+-nan nan
+RNG type true, Sequence length 11, processing case 740
+-nan nan
+RNG type true, Sequence length 11, processing case 741
+-nan nan
+RNG type true, Sequence length 11, processing case 742
+-nan nan
+RNG type true, Sequence length 11, processing case 743
+-nan nan
+RNG type true, Sequence length 11, processing case 744
+-nan nan
+RNG type true, Sequence length 11, processing case 745
+-nan nan
+RNG type true, Sequence length 11, processing case 746
+-nan nan
+RNG type true, Sequence length 11, processing case 747
+-nan nan
+RNG type true, Sequence length 11, processing case 748
+-nan nan
+RNG type true, Sequence length 11, processing case 749
+-nan nan
+RNG type true, Sequence length 11, processing case 750
+-nan nan
+RNG type true, Sequence length 11, processing case 751
+-nan nan
+RNG type true, Sequence length 11, processing case 752
+-nan nan
+RNG type true, Sequence length 11, processing case 753
+-nan nan
+RNG type true, Sequence length 11, processing case 754
+-nan nan
+RNG type true, Sequence length 11, processing case 755
+-nan nan
+RNG type true, Sequence length 11, processing case 756
+-nan nan
+RNG type true, Sequence length 11, processing case 757
+-nan nan
+RNG type true, Sequence length 11, processing case 758
+-nan nan
+RNG type true, Sequence length 11, processing case 759
+-nan nan
+RNG type true, Sequence length 11, processing case 760
+-nan nan
+RNG type true, Sequence length 11, processing case 761
+-nan nan
+RNG type true, Sequence length 11, processing case 762
+-nan nan
+RNG type true, Sequence length 11, processing case 763
+-nan nan
+RNG type true, Sequence length 11, processing case 764
+-nan nan
+RNG type true, Sequence length 11, processing case 765
+-nan nan
+RNG type true, Sequence length 11, processing case 766
+-nan nan
+RNG type true, Sequence length 11, processing case 767
+-nan nan
+RNG type true, Sequence length 11, processing case 768
+-nan nan
+RNG type true, Sequence length 11, processing case 769
+-nan nan
+RNG type true, Sequence length 11, processing case 770
+-nan nan
+RNG type true, Sequence length 11, processing case 771
+-nan nan
+RNG type true, Sequence length 11, processing case 772
+-nan nan
+RNG type true, Sequence length 11, processing case 773
+-nan nan
+RNG type true, Sequence length 11, processing case 774
+-nan nan
+RNG type true, Sequence length 11, processing case 775
+-nan nan
+RNG type true, Sequence length 11, processing case 776
+-nan nan
+RNG type true, Sequence length 11, processing case 777
+-nan nan
+RNG type true, Sequence length 11, processing case 778
+-nan nan
+RNG type true, Sequence length 11, processing case 779
+-nan nan
+RNG type true, Sequence length 11, processing case 780
+-nan nan
+RNG type true, Sequence length 11, processing case 781
+-nan nan
+RNG type true, Sequence length 11, processing case 782
+-nan nan
+RNG type true, Sequence length 11, processing case 783
+-nan nan
+RNG type true, Sequence length 11, processing case 784
+-nan nan
+RNG type true, Sequence length 11, processing case 785
+-nan nan
+RNG type true, Sequence length 11, processing case 786
+-nan nan
+RNG type true, Sequence length 11, processing case 787
+-nan nan
+RNG type true, Sequence length 11, processing case 788
+-nan nan
+RNG type true, Sequence length 11, processing case 789
+-nan nan
+RNG type true, Sequence length 11, processing case 790
+-nan nan
+RNG type true, Sequence length 11, processing case 791
+-nan nan
+RNG type true, Sequence length 11, processing case 792
+-nan nan
+RNG type true, Sequence length 11, processing case 793
+-nan nan
+RNG type true, Sequence length 11, processing case 794
+-nan nan
+RNG type true, Sequence length 11, processing case 795
+-nan nan
+RNG type true, Sequence length 11, processing case 796
+-nan nan
+RNG type true, Sequence length 11, processing case 797
+-nan nan
+RNG type true, Sequence length 11, processing case 798
+-nan nan
+RNG type true, Sequence length 11, processing case 799
+-nan nan
+RNG type true, Sequence length 11, processing case 800
+-nan nan
+RNG type true, Sequence length 11, processing case 801
+-nan nan
+RNG type true, Sequence length 11, processing case 802
+-nan nan
+RNG type true, Sequence length 11, processing case 803
+-nan nan
+RNG type true, Sequence length 11, processing case 804
+-nan nan
+RNG type true, Sequence length 11, processing case 805
+-nan nan
+RNG type true, Sequence length 11, processing case 806
+-nan nan
+RNG type true, Sequence length 11, processing case 807
+-nan nan
+RNG type true, Sequence length 11, processing case 808
+-nan nan
+RNG type true, Sequence length 11, processing case 809
+-nan nan
+RNG type true, Sequence length 11, processing case 810
+-nan nan
+RNG type true, Sequence length 11, processing case 811
+-nan nan
+RNG type true, Sequence length 11, processing case 812
+-nan nan
+RNG type true, Sequence length 11, processing case 813
+-nan nan
+RNG type true, Sequence length 11, processing case 814
+-nan nan
+RNG type true, Sequence length 11, processing case 815
+-nan nan
+RNG type true, Sequence length 11, processing case 816
+-nan nan
+RNG type true, Sequence length 11, processing case 817
+-nan nan
+RNG type true, Sequence length 11, processing case 818
+-nan nan
+RNG type true, Sequence length 11, processing case 819
+-nan nan
+RNG type true, Sequence length 11, processing case 820
+-nan nan
+RNG type true, Sequence length 11, processing case 821
+-nan nan
+RNG type true, Sequence length 11, processing case 822
+-nan nan
+RNG type true, Sequence length 11, processing case 823
+-nan nan
+RNG type true, Sequence length 11, processing case 824
+-nan nan
+RNG type true, Sequence length 11, processing case 825
+-nan nan
+RNG type true, Sequence length 11, processing case 826
+-nan nan
+RNG type true, Sequence length 11, processing case 827
+-nan nan
+RNG type true, Sequence length 11, processing case 828
+-nan nan
+RNG type true, Sequence length 11, processing case 829
+-nan nan
+RNG type true, Sequence length 11, processing case 830
+-nan nan
+RNG type true, Sequence length 11, processing case 831
+-nan nan
+RNG type true, Sequence length 11, processing case 832
+-nan nan
+RNG type true, Sequence length 11, processing case 833
+-nan nan
+RNG type true, Sequence length 11, processing case 834
+-nan nan
+RNG type true, Sequence length 11, processing case 835
+-nan nan
+RNG type true, Sequence length 11, processing case 836
+-nan nan
+RNG type true, Sequence length 11, processing case 837
+-nan nan
+RNG type true, Sequence length 11, processing case 838
+-nan nan
+RNG type true, Sequence length 11, processing case 839
+-nan nan
+RNG type true, Sequence length 11, processing case 840
+-nan nan
+RNG type true, Sequence length 11, processing case 841
+-nan nan
+RNG type true, Sequence length 11, processing case 842
+-nan nan
+RNG type true, Sequence length 11, processing case 843
+-nan nan
+RNG type true, Sequence length 11, processing case 844
+-nan nan
+RNG type true, Sequence length 11, processing case 845
+-nan nan
+RNG type true, Sequence length 11, processing case 846
+-nan nan
+RNG type true, Sequence length 11, processing case 847
+-nan nan
+RNG type true, Sequence length 11, processing case 848
+-nan nan
+RNG type true, Sequence length 11, processing case 849
+-nan nan
+RNG type true, Sequence length 11, processing case 850
+-nan nan
+RNG type true, Sequence length 11, processing case 851
+-nan nan
+RNG type true, Sequence length 11, processing case 852
+-nan nan
+RNG type true, Sequence length 11, processing case 853
+-nan nan
+RNG type true, Sequence length 11, processing case 854
+-nan nan
+RNG type true, Sequence length 11, processing case 855
+-nan nan
+RNG type true, Sequence length 11, processing case 856
+-nan nan
+RNG type true, Sequence length 11, processing case 857
+-nan nan
+RNG type true, Sequence length 11, processing case 858
+-nan nan
+RNG type true, Sequence length 11, processing case 859
+-nan nan
+RNG type true, Sequence length 11, processing case 860
+-nan nan
+RNG type true, Sequence length 11, processing case 861
+-nan nan
+RNG type true, Sequence length 11, processing case 862
+-nan nan
+RNG type true, Sequence length 11, processing case 863
+-nan nan
+RNG type true, Sequence length 11, processing case 864
+-nan nan
+RNG type true, Sequence length 11, processing case 865
+-nan nan
+RNG type true, Sequence length 11, processing case 866
+-nan nan
+RNG type true, Sequence length 11, processing case 867
+-nan nan
+RNG type true, Sequence length 11, processing case 868
+-nan nan
+RNG type true, Sequence length 11, processing case 869
+-nan nan
+RNG type true, Sequence length 11, processing case 870
+-nan nan
+RNG type true, Sequence length 11, processing case 871
+-nan nan
+RNG type true, Sequence length 11, processing case 872
+-nan nan
+RNG type true, Sequence length 11, processing case 873
+-nan nan
+RNG type true, Sequence length 11, processing case 874
+-nan nan
+RNG type true, Sequence length 11, processing case 875
+-nan nan
+RNG type true, Sequence length 11, processing case 876
+-nan nan
+RNG type true, Sequence length 11, processing case 877
+-nan nan
+RNG type true, Sequence length 11, processing case 878
+-nan nan
+RNG type true, Sequence length 11, processing case 879
+-nan nan
+RNG type true, Sequence length 11, processing case 880
+-nan nan
+RNG type true, Sequence length 11, processing case 881
+-nan nan
+RNG type true, Sequence length 11, processing case 882
+-nan nan
+RNG type true, Sequence length 11, processing case 883
+-nan nan
+RNG type true, Sequence length 11, processing case 884
+-nan nan
+RNG type true, Sequence length 11, processing case 885
+-nan nan
+RNG type true, Sequence length 11, processing case 886
+-nan nan
+RNG type true, Sequence length 11, processing case 887
+-nan nan
+RNG type true, Sequence length 11, processing case 888
+-nan nan
+RNG type true, Sequence length 11, processing case 889
+-nan nan
+RNG type true, Sequence length 11, processing case 890
+-nan nan
+RNG type true, Sequence length 11, processing case 891
+-nan nan
+RNG type true, Sequence length 11, processing case 892
+-nan nan
+RNG type true, Sequence length 11, processing case 893
+-nan nan
+RNG type true, Sequence length 11, processing case 894
+-nan nan
+RNG type true, Sequence length 11, processing case 895
+-nan nan
+RNG type true, Sequence length 11, processing case 896
+-nan nan
+RNG type true, Sequence length 11, processing case 897
+-nan nan
+RNG type true, Sequence length 11, processing case 898
+-nan nan
+RNG type true, Sequence length 11, processing case 899
+-nan nan
+RNG type true, Sequence length 11, processing case 900
+-nan nan
+RNG type true, Sequence length 11, processing case 901
+-nan nan
+RNG type true, Sequence length 11, processing case 902
+-nan nan
+RNG type true, Sequence length 11, processing case 903
+-nan nan
+RNG type true, Sequence length 11, processing case 904
+-nan nan
+RNG type true, Sequence length 11, processing case 905
+-nan nan
+RNG type true, Sequence length 11, processing case 906
+-nan nan
+RNG type true, Sequence length 11, processing case 907
+-nan nan
+RNG type true, Sequence length 11, processing case 908
+-nan nan
+RNG type true, Sequence length 11, processing case 909
+-nan nan
+RNG type true, Sequence length 11, processing case 910
+-nan nan
+RNG type true, Sequence length 11, processing case 911
+-nan nan
+RNG type true, Sequence length 11, processing case 912
+-nan nan
+RNG type true, Sequence length 11, processing case 913
+-nan nan
+RNG type true, Sequence length 11, processing case 914
+-nan nan
+RNG type true, Sequence length 11, processing case 915
+-nan nan
+RNG type true, Sequence length 11, processing case 916
+-nan nan
+RNG type true, Sequence length 11, processing case 917
+-nan nan
+RNG type true, Sequence length 11, processing case 918
+-nan nan
+RNG type true, Sequence length 11, processing case 919
+-nan nan
+RNG type true, Sequence length 11, processing case 920
+-nan nan
+RNG type true, Sequence length 11, processing case 921
+-nan nan
+RNG type true, Sequence length 11, processing case 922
+-nan nan
+RNG type true, Sequence length 11, processing case 923
+-nan nan
+RNG type true, Sequence length 11, processing case 924
+-nan nan
+RNG type true, Sequence length 11, processing case 925
+-nan nan
+RNG type true, Sequence length 11, processing case 926
+-nan nan
+RNG type true, Sequence length 11, processing case 927
+-nan nan
+RNG type true, Sequence length 11, processing case 928
+-nan nan
+RNG type true, Sequence length 11, processing case 929
+-nan nan
+RNG type true, Sequence length 11, processing case 930
+-nan nan
+RNG type true, Sequence length 11, processing case 931
+-nan nan
+RNG type true, Sequence length 11, processing case 932
+-nan nan
+RNG type true, Sequence length 11, processing case 933
+-nan nan
+RNG type true, Sequence length 11, processing case 934
+-nan nan
+RNG type true, Sequence length 11, processing case 935
+-nan nan
+RNG type true, Sequence length 11, processing case 936
+-nan nan
+RNG type true, Sequence length 11, processing case 937
+-nan nan
+RNG type true, Sequence length 11, processing case 938
+-nan nan
+RNG type true, Sequence length 11, processing case 939
+-nan nan
+RNG type true, Sequence length 11, processing case 940
+-nan nan
+RNG type true, Sequence length 11, processing case 941
+-nan nan
+RNG type true, Sequence length 11, processing case 942
+-nan nan
+RNG type true, Sequence length 11, processing case 943
+-nan nan
+RNG type true, Sequence length 11, processing case 944
+-nan nan
+RNG type true, Sequence length 11, processing case 945
+-nan nan
+RNG type true, Sequence length 11, processing case 946
+-nan nan
+RNG type true, Sequence length 11, processing case 947
+-nan nan
+RNG type true, Sequence length 11, processing case 948
+-nan nan
+RNG type true, Sequence length 11, processing case 949
+-nan nan
+RNG type true, Sequence length 11, processing case 950
+-nan nan
+RNG type true, Sequence length 11, processing case 951
+-nan nan
+RNG type true, Sequence length 11, processing case 952
+-nan nan
+RNG type true, Sequence length 11, processing case 953
+-nan nan
+RNG type true, Sequence length 11, processing case 954
+-nan nan
+RNG type true, Sequence length 11, processing case 955
+-nan nan
+RNG type true, Sequence length 11, processing case 956
+-nan nan
+RNG type true, Sequence length 11, processing case 957
+-nan nan
+RNG type true, Sequence length 11, processing case 958
+-nan nan
+RNG type true, Sequence length 11, processing case 959
+-nan nan
+RNG type true, Sequence length 11, processing case 960
+-nan nan
+RNG type true, Sequence length 11, processing case 961
+-nan nan
+RNG type true, Sequence length 11, processing case 962
+-nan nan
+RNG type true, Sequence length 11, processing case 963
+-nan nan
+RNG type true, Sequence length 11, processing case 964
+-nan nan
+RNG type true, Sequence length 11, processing case 965
+-nan nan
+RNG type true, Sequence length 11, processing case 966
+-nan nan
+RNG type true, Sequence length 11, processing case 967
+-nan nan
+RNG type true, Sequence length 11, processing case 968
+-nan nan
+RNG type true, Sequence length 11, processing case 969
+-nan nan
+RNG type true, Sequence length 11, processing case 970
+-nan nan
+RNG type true, Sequence length 11, processing case 971
+-nan nan
+RNG type true, Sequence length 11, processing case 972
+-nan nan
+RNG type true, Sequence length 11, processing case 973
+-nan nan
+RNG type true, Sequence length 11, processing case 974
+-nan nan
+RNG type true, Sequence length 11, processing case 975
+-nan nan
+RNG type true, Sequence length 11, processing case 976
+-nan nan
+RNG type true, Sequence length 11, processing case 977
+-nan nan
+RNG type true, Sequence length 11, processing case 978
+-nan nan
+RNG type true, Sequence length 11, processing case 979
+-nan nan
+RNG type true, Sequence length 11, processing case 980
+-nan nan
+RNG type true, Sequence length 11, processing case 981
+-nan nan
+RNG type true, Sequence length 11, processing case 982
+-nan nan
+RNG type true, Sequence length 11, processing case 983
+-nan nan
+RNG type true, Sequence length 11, processing case 984
+-nan nan
+RNG type true, Sequence length 11, processing case 985
+-nan nan
+RNG type true, Sequence length 11, processing case 986
+-nan nan
+RNG type true, Sequence length 11, processing case 987
+-nan nan
+RNG type true, Sequence length 11, processing case 988
+-nan nan
+RNG type true, Sequence length 11, processing case 989
+-nan nan
+RNG type true, Sequence length 11, processing case 990
+-nan nan
+RNG type true, Sequence length 11, processing case 991
+-nan nan
+RNG type true, Sequence length 11, processing case 992
+-nan nan
+RNG type true, Sequence length 11, processing case 993
+-nan nan
+RNG type true, Sequence length 11, processing case 994
+-nan nan
+RNG type true, Sequence length 11, processing case 995
+-nan nan
+RNG type true, Sequence length 11, processing case 996
+-nan nan
+RNG type true, Sequence length 11, processing case 997
+-nan nan
+RNG type true, Sequence length 11, processing case 998
+-nan nan
+RNG type true, Sequence length 11, processing case 999
+-nan nan
+overall accuracy is 8.500000%, loss is -nan
+0.085000 -nan

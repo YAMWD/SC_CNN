@@ -1,0 +1,208 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type LFSR, Sequence length 6, processing case 0
+0.000000 155.495546
+RNG type LFSR, Sequence length 6, processing case 1
+0.470199 0.754600
+RNG type LFSR, Sequence length 6, processing case 2
+0.000000 29.451153
+RNG type LFSR, Sequence length 6, processing case 3
+0.000000 67.528934
+RNG type LFSR, Sequence length 6, processing case 4
+0.000000 113.567202
+RNG type LFSR, Sequence length 6, processing case 5
+0.000162 8.729995
+RNG type LFSR, Sequence length 6, processing case 6
+0.000000 94.137316
+RNG type LFSR, Sequence length 6, processing case 7
+0.000000 104.688427
+RNG type LFSR, Sequence length 6, processing case 8
+0.000000 80.733745
+RNG type LFSR, Sequence length 6, processing case 9
+0.000000 110.382242
+RNG type LFSR, Sequence length 6, processing case 10
+0.000000 126.847175
+RNG type LFSR, Sequence length 6, processing case 11
+0.000017 10.964532
+RNG type LFSR, Sequence length 6, processing case 12
+0.000000 122.681071
+RNG type LFSR, Sequence length 6, processing case 13
+0.000000 182.231416
+RNG type LFSR, Sequence length 6, processing case 14
+0.000000 19.528791
+RNG type LFSR, Sequence length 6, processing case 15
+0.000000 39.181271
+RNG type LFSR, Sequence length 6, processing case 16
+0.000000 49.732525
+RNG type LFSR, Sequence length 6, processing case 17
+0.000000 31.905563
+RNG type LFSR, Sequence length 6, processing case 18
+0.000000 30.412068
+RNG type LFSR, Sequence length 6, processing case 19
+0.000000 44.637749
+RNG type LFSR, Sequence length 6, processing case 20
+0.000000 118.742953
+RNG type LFSR, Sequence length 6, processing case 21
+0.000000 125.385208
+RNG type LFSR, Sequence length 6, processing case 22
+0.000000 115.272886
+RNG type LFSR, Sequence length 6, processing case 23
+0.000000 54.623749
+RNG type LFSR, Sequence length 6, processing case 24
+0.000000 67.125916
+RNG type LFSR, Sequence length 6, processing case 25
+0.000000 178.126837
+RNG type LFSR, Sequence length 6, processing case 26
+0.000000 75.052540
+RNG type LFSR, Sequence length 6, processing case 27
+0.000000 55.397186
+RNG type LFSR, Sequence length 6, processing case 28
+0.000000 167.864298
+RNG type LFSR, Sequence length 6, processing case 29
+0.997327 0.002676
+RNG type LFSR, Sequence length 6, processing case 30
+0.000000 136.124482
+RNG type LFSR, Sequence length 6, processing case 31
+0.000000 64.095300
+RNG type LFSR, Sequence length 6, processing case 32
+0.000000 188.200055
+RNG type LFSR, Sequence length 6, processing case 33
+0.000000 106.195199
+RNG type LFSR, Sequence length 6, processing case 34
+0.000000 59.240538
+RNG type LFSR, Sequence length 6, processing case 35
+1.000000 -0.000000
+RNG type LFSR, Sequence length 6, processing case 36
+0.000000 47.187619
+RNG type LFSR, Sequence length 6, processing case 37
+1.000000 0.000000
+RNG type LFSR, Sequence length 6, processing case 38
+0.000000 35.439810
+RNG type LFSR, Sequence length 6, processing case 39
+0.000000 85.910283
+RNG type LFSR, Sequence length 6, processing case 40
+1.000000 0.000000
+RNG type LFSR, Sequence length 6, processing case 41
+0.000000 15.399099
+RNG type LFSR, Sequence length 6, processing case 42
+0.000000 105.456337
+RNG type LFSR, Sequence length 6, processing case 43
+0.000000 73.124577
+RNG type LFSR, Sequence length 6, processing case 44
+0.000000 136.862081
+RNG type LFSR, Sequence length 6, processing case 45
+0.000000 79.353773
+RNG type LFSR, Sequence length 6, processing case 46
+0.986887 0.013200
+RNG type LFSR, Sequence length 6, processing case 47
+0.000000 22.066955
+RNG type LFSR, Sequence length 6, processing case 48
+0.000000 42.465562
+RNG type LFSR, Sequence length 6, processing case 49
+0.000000 54.075403
+RNG type LFSR, Sequence length 6, processing case 50
+0.001798 6.321021
+RNG type LFSR, Sequence length 6, processing case 51
+0.000000 208.735347
+RNG type LFSR, Sequence length 6, processing case 52
+0.000000 48.382897
+RNG type LFSR, Sequence length 6, processing case 53
+0.000000 36.700350
+RNG type LFSR, Sequence length 6, processing case 54
+0.000000 25.671518
+RNG type LFSR, Sequence length 6, processing case 55
+0.000000 129.380023
+RNG type LFSR, Sequence length 6, processing case 56
+0.000000 104.312396
+RNG type LFSR, Sequence length 6, processing case 57
+0.000000 14.621029
+RNG type LFSR, Sequence length 6, processing case 58
+0.000000 154.388920
+RNG type LFSR, Sequence length 6, processing case 59
+0.000006 11.950090
+RNG type LFSR, Sequence length 6, processing case 60
+0.000000 29.893395
+RNG type LFSR, Sequence length 6, processing case 61
+0.000000 155.923860
+RNG type LFSR, Sequence length 6, processing case 62
+0.000000 267.527675
+RNG type LFSR, Sequence length 6, processing case 63
+0.000000 82.137463
+RNG type LFSR, Sequence length 6, processing case 64
+0.000000 146.000352
+RNG type LFSR, Sequence length 6, processing case 65
+0.000000 130.870167
+RNG type LFSR, Sequence length 6, processing case 66
+0.000000 83.111140
+RNG type LFSR, Sequence length 6, processing case 67
+0.000000 97.506369
+RNG type LFSR, Sequence length 6, processing case 68
+0.000000 79.470372
+RNG type LFSR, Sequence length 6, processing case 69
+0.000000 146.744620
+RNG type LFSR, Sequence length 6, processing case 70
+0.000000 40.102671
+RNG type LFSR, Sequence length 6, processing case 71
+0.000000 38.083685
+RNG type LFSR, Sequence length 6, processing case 72
+0.000000 40.071031
+RNG type LFSR, Sequence length 6, processing case 73
+0.000000 42.503672
+RNG type LFSR, Sequence length 6, processing case 74
+1.000000 0.000000
+RNG type LFSR, Sequence length 6, processing case 75
+0.000000 36.668399
+RNG type LFSR, Sequence length 6, processing case 76
+0.000000 97.418372
+RNG type LFSR, Sequence length 6, processing case 77
+0.000000 49.728773
+RNG type LFSR, Sequence length 6, processing case 78
+0.000000 156.588030
+RNG type LFSR, Sequence length 6, processing case 79
+0.000000 53.587571
+RNG type LFSR, Sequence length 6, processing case 80
+0.000000 107.915377
+RNG type LFSR, Sequence length 6, processing case 81
+0.000000 140.139221
+RNG type LFSR, Sequence length 6, processing case 82
+1.000000 -0.000000
+RNG type LFSR, Sequence length 6, processing case 83
+0.001077 6.833700
+RNG type LFSR, Sequence length 6, processing case 84
+0.000000 134.220419
+RNG type LFSR, Sequence length 6, processing case 85
+0.964711 0.035927
+RNG type LFSR, Sequence length 6, processing case 86
+0.999999 0.000001
+RNG type LFSR, Sequence length 6, processing case 87
+0.000000 61.749462
+RNG type LFSR, Sequence length 6, processing case 88
+0.000000 96.820209
+RNG type LFSR, Sequence length 6, processing case 89
+0.000020 10.832164
+RNG type LFSR, Sequence length 6, processing case 90
+0.000000 80.041402
+RNG type LFSR, Sequence length 6, processing case 91
+0.000000 135.557938
+RNG type LFSR, Sequence length 6, processing case 92
+0.000000 112.746207
+RNG type LFSR, Sequence length 6, processing case 93
+0.000000 76.863740
+RNG type LFSR, Sequence length 6, processing case 94
+0.855031 0.156618
+RNG type LFSR, Sequence length 6, processing case 95
+0.000000 23.643872
+RNG type LFSR, Sequence length 6, processing case 96
+0.000000 30.030120
+RNG type LFSR, Sequence length 6, processing case 97
+0.000000 78.235733
+RNG type LFSR, Sequence length 6, processing case 98
+0.000000 79.462016
+RNG type LFSR, Sequence length 6, processing case 99
+0.000000 91.354652
+overall accuracy is 10.000000%, loss is 74.134358
+0.100000 74.134358

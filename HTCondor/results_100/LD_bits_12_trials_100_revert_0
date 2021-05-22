@@ -1,0 +1,208 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type LD, Sequence length 12, processing case 0
+0.982446 0.017710
+RNG type LD, Sequence length 12, processing case 1
+0.910082 0.094220
+RNG type LD, Sequence length 12, processing case 2
+0.971736 0.028671
+RNG type LD, Sequence length 12, processing case 3
+0.892188 0.114078
+RNG type LD, Sequence length 12, processing case 4
+0.953761 0.047342
+RNG type LD, Sequence length 12, processing case 5
+0.923989 0.079055
+RNG type LD, Sequence length 12, processing case 6
+0.981677 0.018493
+RNG type LD, Sequence length 12, processing case 7
+0.671156 0.398753
+RNG type LD, Sequence length 12, processing case 8
+0.991196 0.008843
+RNG type LD, Sequence length 12, processing case 9
+0.541504 0.613405
+RNG type LD, Sequence length 12, processing case 10
+0.908272 0.096211
+RNG type LD, Sequence length 12, processing case 11
+0.969900 0.030562
+RNG type LD, Sequence length 12, processing case 12
+0.557232 0.584774
+RNG type LD, Sequence length 12, processing case 13
+0.805856 0.215850
+RNG type LD, Sequence length 12, processing case 14
+0.883834 0.123486
+RNG type LD, Sequence length 12, processing case 15
+0.983919 0.016211
+RNG type LD, Sequence length 12, processing case 16
+0.996385 0.003622
+RNG type LD, Sequence length 12, processing case 17
+0.976876 0.023396
+RNG type LD, Sequence length 12, processing case 18
+0.351169 1.046488
+RNG type LD, Sequence length 12, processing case 19
+0.991647 0.008388
+RNG type LD, Sequence length 12, processing case 20
+0.428611 0.847205
+RNG type LD, Sequence length 12, processing case 21
+0.876144 0.132225
+RNG type LD, Sequence length 12, processing case 22
+0.992126 0.007905
+RNG type LD, Sequence length 12, processing case 23
+0.988415 0.011653
+RNG type LD, Sequence length 12, processing case 24
+0.971070 0.029357
+RNG type LD, Sequence length 12, processing case 25
+0.450985 0.796322
+RNG type LD, Sequence length 12, processing case 26
+0.737421 0.304596
+RNG type LD, Sequence length 12, processing case 27
+0.997041 0.002964
+RNG type LD, Sequence length 12, processing case 28
+0.759404 0.275222
+RNG type LD, Sequence length 12, processing case 29
+0.617232 0.482510
+RNG type LD, Sequence length 12, processing case 30
+0.968687 0.031814
+RNG type LD, Sequence length 12, processing case 31
+0.505648 0.681915
+RNG type LD, Sequence length 12, processing case 32
+0.995866 0.004142
+RNG type LD, Sequence length 12, processing case 33
+0.664640 0.408510
+RNG type LD, Sequence length 12, processing case 34
+0.989966 0.010085
+RNG type LD, Sequence length 12, processing case 35
+0.986893 0.013194
+RNG type LD, Sequence length 12, processing case 36
+0.838217 0.176478
+RNG type LD, Sequence length 12, processing case 37
+0.506349 0.680529
+RNG type LD, Sequence length 12, processing case 38
+0.983164 0.016979
+RNG type LD, Sequence length 12, processing case 39
+0.728336 0.316992
+RNG type LD, Sequence length 12, processing case 40
+0.853397 0.158530
+RNG type LD, Sequence length 12, processing case 41
+0.762929 0.270590
+RNG type LD, Sequence length 12, processing case 42
+0.858150 0.152977
+RNG type LD, Sequence length 12, processing case 43
+0.425744 0.853918
+RNG type LD, Sequence length 12, processing case 44
+0.742695 0.297470
+RNG type LD, Sequence length 12, processing case 45
+0.966839 0.033723
+RNG type LD, Sequence length 12, processing case 46
+0.690304 0.370623
+RNG type LD, Sequence length 12, processing case 47
+0.999972 0.000028
+RNG type LD, Sequence length 12, processing case 48
+0.844623 0.168865
+RNG type LD, Sequence length 12, processing case 49
+0.885626 0.121460
+RNG type LD, Sequence length 12, processing case 50
+0.816547 0.202670
+RNG type LD, Sequence length 12, processing case 51
+0.938186 0.063807
+RNG type LD, Sequence length 12, processing case 52
+0.986505 0.013587
+RNG type LD, Sequence length 12, processing case 53
+0.912307 0.091779
+RNG type LD, Sequence length 12, processing case 54
+0.957575 0.043351
+RNG type LD, Sequence length 12, processing case 55
+0.980421 0.019773
+RNG type LD, Sequence length 12, processing case 56
+0.989886 0.010166
+RNG type LD, Sequence length 12, processing case 57
+0.904661 0.100195
+RNG type LD, Sequence length 12, processing case 58
+0.917450 0.086157
+RNG type LD, Sequence length 12, processing case 59
+0.905712 0.099034
+RNG type LD, Sequence length 12, processing case 60
+0.888785 0.117900
+RNG type LD, Sequence length 12, processing case 61
+0.968517 0.031989
+RNG type LD, Sequence length 12, processing case 62
+0.516996 0.659720
+RNG type LD, Sequence length 12, processing case 63
+0.839009 0.175533
+RNG type LD, Sequence length 12, processing case 64
+0.996484 0.003522
+RNG type LD, Sequence length 12, processing case 65
+0.892282 0.113973
+RNG type LD, Sequence length 12, processing case 66
+0.945710 0.055820
+RNG type LD, Sequence length 12, processing case 67
+0.967450 0.033092
+RNG type LD, Sequence length 12, processing case 68
+0.936422 0.065689
+RNG type LD, Sequence length 12, processing case 69
+0.529484 0.635852
+RNG type LD, Sequence length 12, processing case 70
+0.995529 0.004481
+RNG type LD, Sequence length 12, processing case 71
+0.818777 0.199943
+RNG type LD, Sequence length 12, processing case 72
+0.948652 0.052714
+RNG type LD, Sequence length 12, processing case 73
+0.291190 1.233779
+RNG type LD, Sequence length 12, processing case 74
+0.575220 0.553002
+RNG type LD, Sequence length 12, processing case 75
+0.839970 0.174389
+RNG type LD, Sequence length 12, processing case 76
+0.984318 0.015806
+RNG type LD, Sequence length 12, processing case 77
+0.982537 0.017618
+RNG type LD, Sequence length 12, processing case 78
+0.266741 1.321475
+RNG type LD, Sequence length 12, processing case 79
+0.445612 0.808307
+RNG type LD, Sequence length 12, processing case 80
+0.697705 0.359959
+RNG type LD, Sequence length 12, processing case 81
+0.972333 0.028057
+RNG type LD, Sequence length 12, processing case 82
+0.997900 0.002102
+RNG type LD, Sequence length 12, processing case 83
+0.664548 0.408647
+RNG type LD, Sequence length 12, processing case 84
+0.989051 0.011009
+RNG type LD, Sequence length 12, processing case 85
+0.964514 0.036131
+RNG type LD, Sequence length 12, processing case 86
+0.524532 0.645250
+RNG type LD, Sequence length 12, processing case 87
+0.701226 0.354926
+RNG type LD, Sequence length 12, processing case 88
+0.970352 0.030096
+RNG type LD, Sequence length 12, processing case 89
+0.817911 0.201001
+RNG type LD, Sequence length 12, processing case 90
+0.969773 0.030694
+RNG type LD, Sequence length 12, processing case 91
+0.956236 0.044751
+RNG type LD, Sequence length 12, processing case 92
+0.057782 2.851079
+RNG type LD, Sequence length 12, processing case 93
+0.826149 0.190980
+RNG type LD, Sequence length 12, processing case 94
+0.798063 0.225567
+RNG type LD, Sequence length 12, processing case 95
+0.913797 0.090147
+RNG type LD, Sequence length 12, processing case 96
+0.365380 1.006817
+RNG type LD, Sequence length 12, processing case 97
+0.488865 0.715670
+RNG type LD, Sequence length 12, processing case 98
+0.770342 0.260920
+RNG type LD, Sequence length 12, processing case 99
+0.786066 0.240715
+overall accuracy is 94.000000%, loss is 0.259680
+0.940000 0.259680

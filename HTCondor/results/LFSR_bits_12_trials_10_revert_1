@@ -1,0 +1,28 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type LFSR, Sequence length 12, processing case 0
+0.000000 500.418135
+RNG type LFSR, Sequence length 12, processing case 1
+1.000000 -0.000000
+RNG type LFSR, Sequence length 12, processing case 2
+0.000000 99.040635
+RNG type LFSR, Sequence length 12, processing case 3
+0.000000 118.040312
+RNG type LFSR, Sequence length 12, processing case 4
+0.000000 141.866614
+RNG type LFSR, Sequence length 12, processing case 5
+0.000000 156.538306
+RNG type LFSR, Sequence length 12, processing case 6
+1.000000 -0.000000
+RNG type LFSR, Sequence length 12, processing case 7
+0.000000 333.710289
+RNG type LFSR, Sequence length 12, processing case 8
+0.000000 145.499974
+RNG type LFSR, Sequence length 12, processing case 9
+0.000000 346.445121
+overall accuracy is 20.000000%, loss is 184.155938
+0.200000 184.155938

@@ -1,0 +1,28 @@
+loading test set...
+test set loaded
+conv layer weights loaded
+conv layer bias loaded
+FC layer weights loaded
+FC layer bias loaded
+RNG type true, Sequence length 13, processing case 0
+0.000000 inf
+RNG type true, Sequence length 13, processing case 1
+1.000000 0.000000
+RNG type true, Sequence length 13, processing case 2
+0.000000 134.756523
+RNG type true, Sequence length 13, processing case 3
+0.000000 195.758913
+RNG type true, Sequence length 13, processing case 4
+0.000000 58.076565
+RNG type true, Sequence length 13, processing case 5
+0.000000 160.860386
+RNG type true, Sequence length 13, processing case 6
+0.000000 55.978362
+RNG type true, Sequence length 13, processing case 7
+0.000000 inf
+RNG type true, Sequence length 13, processing case 8
+0.000000 93.473001
+RNG type true, Sequence length 13, processing case 9
+0.000000 inf
+overall accuracy is 10.000000%, loss is inf
+0.100000 inf
