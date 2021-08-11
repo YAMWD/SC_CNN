@@ -20,8 +20,8 @@ Overall flow is defined in
 
 Convolution is defined in 
 
-`Conv.h Conv.cpp`
+`./codes/Conv.h`
 
 Stochastic Computing is defined in 
 
-`SC.h SC.cpp`
+`./codes/SC.h`
