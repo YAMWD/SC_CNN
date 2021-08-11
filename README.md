@@ -11,3 +11,17 @@ In addition, we verified the PP(Pregressive Precision) principle of stochatic co
 All the weight/bias are transferred from a simple CNN, you could find the architecture and code in 
 
 `./notebooks/CNN.ipynb`
+
+The whole forward propagration is built using C++, including neural nets architecture, convolution operatior, Stochastic Computing operator.
+
+Overall flow is defined in
+
+`./codes/CNN.cpp'`
+
+Convolution is defined in 
+
+`Conv.h Conv.cpp`
+
+Stochastic Computing is defined in 
+
+`SC.h SC.cpp`
