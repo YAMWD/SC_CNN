@@ -10,4 +10,4 @@ In addition, we verified the PP(Pregressive Precision) principle of stochatic co
 
 All the weight/bias are transferred from a simple CNN, you could find the architecture and code in 
 
-'./notebooks/CNN.ipynb'
+`./notebooks/CNN.ipynb`
